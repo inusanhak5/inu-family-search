@@ -484,6 +484,41 @@
   transition: transform .15s ease;
 }
 .chat-fab:hover{ transform: scale(1.06); }
+.chat-nudge{
+  position: fixed;
+  right: 88px;                     /* FAB 왼쪽 */
+  bottom: 27px;
+  max-width: 240px;
+  background: #ffffff;
+  color: #24324b;
+  font-size: 13.5px;
+  line-height: 1.45;
+  padding: 11px 14px;
+  border-radius: 14px 14px 4px 14px;
+  box-shadow: 0 8px 24px rgba(0,45,102,.22);
+  border: 1px solid rgba(0,64,144,.12);
+  z-index: 1099;                   /* FAB 바로 아래 층 */
+  cursor: pointer;
+  opacity: 0;
+  transform: translateY(8px);
+  pointer-events: none;
+  transition: opacity .35s ease, transform .35s ease;
+}
+.chat-nudge.show{ opacity: 1; transform: translateY(0); pointer-events: auto; }
+.chat-nudge b{ color: #004090; }
+.chat-nudge::after{               /* FAB 쪽을 향한 꼬리 */
+  content:'';
+  position:absolute;
+  right:-7px; bottom:12px;
+  width:14px; height:14px;
+  background:#fff;
+  border-right:1px solid rgba(0,64,144,.12);
+  border-bottom:1px solid rgba(0,64,144,.12);
+  transform:rotate(-45deg);
+}
+@media (max-width: 768px){
+  .chat-nudge{ right: 78px; bottom: 24px; max-width: 190px; font-size: 12.5px; }
+}
 .chat-panel{
   display: none;
   position: fixed;
@@ -522,6 +557,115 @@
   padding: 0;
   flex: none;
 }
+/* ===== 헤더 '명예의 전당' 버튼 + 풀스크린 오버레이 ===== */
+.plat-btn{
+  margin-left: auto;                 /* 헤더 오른쪽 끝으로 밀기 */
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: 1.5px solid rgba(245,179,1,.65);
+  background: linear-gradient(135deg, #fffdf5 0%, #ffe9a8 55%, #f5b301 140%);
+  color: #5c4300;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: .02em;
+  cursor: pointer;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(245,179,1,.25);
+  transition: transform .15s ease, box-shadow .15s ease;
+  position: relative;
+  flex: none;
+}
+.plat-btn:hover{ transform: translateY(-1px); box-shadow: 0 4px 14px rgba(245,179,1,.4); }
+.plat-btn .ico{ font-size: 16px; line-height: 1; }
+.plat-btn::after{                    /* 은은한 골드 펄스로 시선 유도 */
+  content:'';
+  position:absolute; inset:-3px;
+  border-radius:999px;
+  border:2px solid rgba(245,179,1,0);
+  animation: platPulse 3s ease-out infinite;
+  pointer-events:none;
+}
+@media (max-width: 768px){
+  .plat-btn{ padding: 7px 11px; font-size: 12.5px; }
+  .plat-btn .txt-full{ display: none; }   /* 모바일: '명예의 전당'만 */
+}
+@media (min-width: 769px){
+  .plat-btn .txt-short{ display: none; }  /* 데스크톱: 풀 텍스트 */
+}
+.plat-fab::after{                          /* 은은한 반짝임으로 시선 유도 */
+  content:'';
+  position:absolute; inset:-2px;
+  border-radius:50%;
+  border:2px solid rgba(245,179,1,.0);
+  animation: platPulse 2.8s ease-out infinite;
+}
+@keyframes platPulse{
+  0%   { border-color: rgba(245,179,1,.55); transform: scale(1); opacity:1; }
+  70%  { border-color: rgba(245,179,1,0);   transform: scale(1.35); opacity:0; }
+  100% { opacity:0; }
+}
+.plat-overlay{
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: #04071a;
+  z-index: 1300;             /* 챗봇(1100)보다 위 */
+}
+.plat-overlay.open{ display: block; }
+.plat-overlay iframe{
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+.plat-overlay .plat-close{
+  position: absolute;
+  top: 14px;
+  right: 16px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid rgba(150,175,255,.35);
+  background: rgba(8,16,45,.82);
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+  z-index: 2;
+  padding: 0;
+  flex: none;
+  transition: background .15s ease;
+}
+.plat-overlay .plat-close:hover{ background: rgba(30,50,110,.92); }
+.plat-loading{
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  color: #eaf0ff;
+  font-size: 14px;
+  letter-spacing: .04em;
+  pointer-events: none;
+}
+.plat-loading .spin{
+  width: 42px; height: 42px;
+  border-radius: 50%;
+  border: 3px solid rgba(150,175,255,.25);
+  border-top-color: #f5b301;
+  animation: platSpin 1s linear infinite;
+}
+@keyframes platSpin{ to{ transform: rotate(360deg); } }
+.plat-overlay.loaded .plat-loading{ display: none; }
+
+@media (max-width: 768px){
+  .plat-fab{ right: 14px; bottom: 86px; width: 52px; height: 52px; font-size: 22px; }
+}
+
 @media (max-width: 768px){
   .chat-panel{
     right: 12px;
@@ -546,6 +690,10 @@
         <img src="https://www.inu.ac.kr/sites/inu/images/common/logo-header.png" alt="횃불이"
              onerror="this.onerror=null;this.src='mascot_fan.png';this.parentElement.classList.add('fb');">
       </span>
+      <button id="platBtn" class="plat-btn" type="button" title="가족회사 플래티넘 13 명예의 전당"
+              aria-label="플래티넘 13 명예의 전당 열기">
+        <span class="ico">🏆</span><span class="txt-full">플래티넘 명예의 전당</span><span class="txt-short">명예의 전당</span>
+      </button>
     </div>
 
     <div class="search-box">
@@ -617,6 +765,16 @@
   </div>
 
   <!-- ===== 플로팅 챗봇 (산학협력팀 통합 안내) ===== -->
+  <!-- ===== 플래티넘 13 명예의 전당 (3D 오버레이) ===== -->
+  <div id="platOverlay" class="plat-overlay" aria-hidden="true" role="dialog" aria-label="플래티넘 13 명예의 전당">
+    <div class="plat-loading"><div class="spin"></div><div>PLATINUM 13 명예의 전당 불러오는 중…</div></div>
+    <iframe id="platFrame" title="INU 가족회사 플래티넘 13 명예의 전당"></iframe>
+    <button id="platClose" class="plat-close" type="button" aria-label="명예의 전당 닫기">✕</button>
+  </div>
+
+  <div id="chatNudge" class="chat-nudge" role="button" aria-label="챗봇 열기">
+    가족회사 멤버십·연구비·RISE,<br>궁금한 점은 <b>안내 챗봇</b>에게 물어보세요!
+  </div>
   <button id="chatFab" class="chat-fab" type="button" title="산학협력팀 안내 챗봇" aria-label="산학협력팀 안내 챗봇 열기">💬</button>
   <div id="chatPanel" class="chat-panel" aria-hidden="true">
     <button id="chatClose" class="chat-close" type="button" aria-label="챗봇 닫기">×</button>
@@ -1131,6 +1289,79 @@ html += `
       panel.classList.contains('open') ? closeChat() : openChat();
     });
     if (closeBtn) closeBtn.addEventListener('click', closeChat);
+
+    // ===== 챗봇 안내 말풍선 (세션당 1회) =====
+    const nudge = $('chatNudge');
+    if (nudge) {
+      let hideTimer = null;
+      const dismiss = () => {
+        nudge.classList.remove('show');
+        if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+      };
+      let seen = false;
+      try { seen = sessionStorage.getItem('inuChatNudge') === '1'; } catch(e){}
+      if (!seen) {
+        setTimeout(() => {
+          if (panel.classList.contains('open')) return;   // 이미 챗봇 열었으면 생략
+          nudge.classList.add('show');
+          try { sessionStorage.setItem('inuChatNudge', '1'); } catch(e){}
+          hideTimer = setTimeout(dismiss, 9000);
+        }, 3000);
+      }
+      nudge.addEventListener('click', () => { dismiss(); openChat(); });
+      fab.addEventListener('click', dismiss);              // FAB 직접 누르면 말풍선 정리
+    }
+  }
+
+  // ===== 플래티넘 13 명예의 전당 (풀스크린 오버레이) =====
+  function initPlatinumWidget(){
+    const fab = $('platBtn');
+    const overlay = $('platOverlay');
+    const frame = $('platFrame');
+    const closeBtn = $('platClose');
+    if (!fab || !overlay || !frame) return;
+
+    function openPlat(){
+      // ✅ 처음 열 때만 로딩 (2.8MB 3D 파일 — 평소엔 페이지를 가볍게 유지)
+      if (!frame.src) {
+        frame.src = "inu_platinum13.html";
+        frame.addEventListener('load', () => overlay.classList.add('loaded'), { once: true });
+      }
+      overlay.classList.add('open');
+      overlay.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';   // 배경 스크롤 잠금
+    }
+    function closePlat(){
+      overlay.classList.remove('open');
+      overlay.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = '';
+    }
+    window.__closePlat = closePlat;
+
+    fab.addEventListener('click', openPlat);
+    if (closeBtn) closeBtn.addEventListener('click', closePlat);
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && overlay.classList.contains('open')) closePlat();
+    });
+
+    // ✅ 3D 화면(자식 iframe)에서 오는 메시지 처리
+    //    - close  : 오버레이 닫기
+    //    - search : 오버레이 닫고 해당 기업 자동 검색
+    window.addEventListener('message', (e) => {
+      const d = e.data;
+      if (!d || d.type !== 'inu-platinum') return;
+      if (d.action === 'close') { closePlat(); return; }
+      if (d.action === 'search' && typeof d.query === 'string') {
+        closePlat();
+        const input = $('companyInput');
+        const btn = $('searchBtn');
+        if (input && btn) {
+          input.value = d.query;
+          btn.click();                              // 기존 검색 로직 그대로 재사용
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+      }
+    });
   }
 
   window.__showStatus = showStatus;
@@ -1146,6 +1377,7 @@ html += `
     triggerLogoSpin();
     initVisitCounter();
     initChatWidget();
+    initPlatinumWidget();
 
     const searchBtn = $('searchBtn');
     if (searchBtn) searchBtn.addEventListener('click', hideStatus);
