@@ -1846,3 +1846,1175 @@ window.companyActivitiesByBizNo = {
     }
   ]
 };
+
+----
+
+// Auto-generated companyActivities.js (산학협력활동)
+window.companyActivitiesMeta = {
+  "generatedAt": "2026-08-27 13:45:41",
+  "excelFile": "가족회사 산학협력활동(260810) .xlsx",
+  "columnsDetected": {
+    "bizNo": "사업자등록번호",
+    "certNo": "인증서 번호",
+    "companyName": "기업명",
+    "date": "행사일",
+    "type": "산학협력활동",
+    "title": "행사요약",
+    "result": "성과",
+    "dept": "담당부서",
+    "owner": "담당자",
+    "evidenceUrl": "증빙자료",
+    "note": "기타"
+  },
+  "matchedCompanies": 69,
+  "totalActivities": 84
+};
+
+window.companyActivitiesByBizNo = {
+  "2648703198": [
+    {
+      "date": "2025-11-30",
+      "type": "R&D과제",
+      "title": "산학공동기술개발",
+      "result": "기술이전 및 연구성과",
+      "dept": "기술사업화팀",
+      "owner": "이현지",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 2
+      }
+    }
+  ],
+  "1398125803": [
+    {
+      "date": "2026-06-30",
+      "type": "R&D과제",
+      "title": "산학공동기술개발",
+      "result": "기술이전 및 연구성과",
+      "dept": "기술사업화팀",
+      "owner": "이현지",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 3
+      }
+    },
+    {
+      "date": "2027-04-30",
+      "type": "R&D과제",
+      "title": "산학공동기술개발",
+      "result": "기술이전 및 연구성과",
+      "dept": "기술사업화팀",
+      "owner": "이현지",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 9
+      }
+    }
+  ],
+  "1208615650": [
+    {
+      "date": "2027-01-31",
+      "type": "R&D과제",
+      "title": "산학공동기술개발",
+      "result": "기술이전 및 연구성과",
+      "dept": "기술사업화팀",
+      "owner": "이현지",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 4
+      }
+    }
+  ],
+  "3128143672": [
+    {
+      "date": "2026-05-30",
+      "type": "R&D과제",
+      "title": "산학공동기술개발",
+      "result": "기술이전 및 연구성과",
+      "dept": "기술사업화팀",
+      "owner": "이현지",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 5
+      }
+    }
+  ],
+  "1378101784": [
+    {
+      "date": "2026-01-31",
+      "type": "R&D과제",
+      "title": "산학공동기술개발",
+      "result": "기술이전 및 연구성과",
+      "dept": "기술사업화팀",
+      "owner": "이현지",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 6
+      }
+    },
+    {
+      "date": "2025-12-11",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 24
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 72
+      }
+    }
+  ],
+  "1228194563": [
+    {
+      "date": "2026-08-31",
+      "type": "R&D과제",
+      "title": "산학공동기술개발",
+      "result": "기술이전 및 연구성과",
+      "dept": "기술사업화팀",
+      "owner": "이현지",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 7
+      }
+    }
+  ],
+  "1138143191": [
+    {
+      "date": "2025-06-18",
+      "type": "R&D과제",
+      "title": "산학공동기술개발",
+      "result": "기술이전 및 연구성과",
+      "dept": "기술사업화팀",
+      "owner": "이현지",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 8
+      }
+    }
+  ],
+  "7528601609": [
+    {
+      "date": "2024-08-14",
+      "type": "기술이전",
+      "title": "기술이전",
+      "result": "협약서",
+      "dept": "기술사업화팀",
+      "owner": "김지현",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 10
+      }
+    }
+  ],
+  "1398111459": [
+    {
+      "date": "2026-01-21",
+      "type": "기술이전",
+      "title": "기술이전",
+      "result": "협약서",
+      "dept": "기술사업화팀",
+      "owner": "김지현",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 11
+      }
+    }
+  ],
+  "1228126347": [
+    {
+      "date": "2026-03-10",
+      "type": "기술이전",
+      "title": "기술이전",
+      "result": "협약서",
+      "dept": "기술사업화팀",
+      "owner": "김지현",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 12
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 68
+      }
+    }
+  ],
+  "1238131687": [
+    {
+      "date": "2026-04-06",
+      "type": "기술이전",
+      "title": "기술이전",
+      "result": "협약서",
+      "dept": "기술사업화팀",
+      "owner": "김지현",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 13
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 61
+      }
+    }
+  ],
+  "6598703192": [
+    {
+      "date": "2026-04-21",
+      "type": "기술이전",
+      "title": "기술이전",
+      "result": "협약서",
+      "dept": "기술사업화팀",
+      "owner": "김지현",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 14
+      }
+    }
+  ],
+  "1238139826": [
+    {
+      "date": "2026-05-01",
+      "type": "기술이전",
+      "title": "기술이전",
+      "result": "협약서",
+      "dept": "기술사업화팀",
+      "owner": "김지현",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 15
+      }
+    }
+  ],
+  "5598700046": [
+    {
+      "date": "2026-05-01",
+      "type": "기술이전",
+      "title": "기술이전",
+      "result": "협약서",
+      "dept": "기술사업화팀",
+      "owner": "김지현",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 16
+      }
+    }
+  ],
+  "4398800375": [
+    {
+      "date": "2026-05-01",
+      "type": "기술이전",
+      "title": "기술이전",
+      "result": "협약서",
+      "dept": "기술사업화팀",
+      "owner": "김지현",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 17
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 54
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 84
+      }
+    }
+  ],
+  "1108186871": [
+    {
+      "date": "2026-05-01",
+      "type": "기술이전",
+      "title": "기술이전",
+      "result": "협약서",
+      "dept": "기술사업화팀",
+      "owner": "김지현",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 18
+      }
+    }
+  ],
+  "1608801240": [
+    {
+      "date": "2025-12-26",
+      "type": "발전기금",
+      "title": "산학협력단 발전기금",
+      "result": "산학협력단 발전기금",
+      "dept": "산학협력팀",
+      "owner": "윤진영",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 19
+      }
+    }
+  ],
+  "3168703048": [
+    {
+      "date": "2025-12-30",
+      "type": "발전기금",
+      "title": "산학협력단 발전기금",
+      "result": "산학협력단 발전기금",
+      "dept": "산학협력팀",
+      "owner": "윤진영",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 20
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 82
+      }
+    }
+  ],
+  "1371989497": [
+    {
+      "date": "2025-12-31",
+      "type": "발전기금",
+      "title": "산학협력단 발전기금",
+      "result": "산학협력단 발전기금",
+      "dept": "산학협력팀",
+      "owner": "윤진영",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 21
+      }
+    }
+  ],
+  "1408158338": [
+    {
+      "date": "2025-12-31",
+      "type": "발전기금",
+      "title": "산학협력단 발전기금",
+      "result": "산학협력단 발전기금",
+      "dept": "산학협력팀",
+      "owner": "윤진영",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 22
+      }
+    },
+    {
+      "date": "2026-03-25",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 37
+      }
+    }
+  ],
+  "1318190799": [
+    {
+      "date": "2025-01-08",
+      "type": "발전기금",
+      "title": "산학협력단 발전기금",
+      "result": "산학협력단 발전기금",
+      "dept": "산학협력팀",
+      "owner": "윤진영",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 23
+      }
+    }
+  ],
+  "1348173163": [
+    {
+      "date": "2026-02-24",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 25
+      }
+    },
+    {
+      "date": "2026-05-27",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 49
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 53
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 60
+      }
+    }
+  ],
+  "8293700765": [
+    {
+      "date": "2026-02-25",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 26
+      }
+    }
+  ],
+  "7518801352": [
+    {
+      "date": "2026-02-26",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 27
+      }
+    }
+  ],
+  "1318632815": [
+    {
+      "date": "2026-02-26",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 28
+      }
+    }
+  ],
+  "2538802202": [
+    {
+      "date": "2026-02-26",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 29
+      }
+    }
+  ],
+  "6458101723": [
+    {
+      "date": "2026-02-26",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 30
+      }
+    }
+  ],
+  "1370860500": [
+    {
+      "date": "2026-03-06",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 31
+      }
+    }
+  ],
+  "8468101796": [
+    {
+      "date": "2026-03-06",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 32
+      }
+    }
+  ],
+  "4018602073": [
+    {
+      "date": "2026-03-09",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 33
+      }
+    }
+  ],
+  "1378121631": [
+    {
+      "date": "2026-03-11",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 34
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 77
+      }
+    }
+  ],
+  "7728800234": [
+    {
+      "date": "2026-03-16",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 35
+      }
+    }
+  ],
+  "8558703261": [
+    {
+      "date": "2026-03-20",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 36
+      }
+    }
+  ],
+  "2958703488": [
+    {
+      "date": "2026-03-27",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 38
+      }
+    }
+  ],
+  "5658601311": [
+    {
+      "date": "2026-03-27",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 39
+      }
+    }
+  ],
+  "2218151779": [
+    {
+      "date": "2026-03-31",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 40
+      }
+    }
+  ],
+  "3998603707": [
+    {
+      "date": "2026-04-08",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 41
+      }
+    }
+  ],
+  "1088191594": [
+    {
+      "date": "2026-04-21",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 42
+      }
+    }
+  ],
+  "6478103839": [
+    {
+      "date": "2026-04-22",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 43
+      }
+    }
+  ],
+  "4281201200": [
+    {
+      "date": "2026-05-06",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 44
+      }
+    }
+  ],
+  "5618603239": [
+    {
+      "date": "2026-05-06",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 45
+      }
+    }
+  ],
+  "3128672094": [
+    {
+      "date": "2026-05-15",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 46
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 69
+      }
+    }
+  ],
+  "4168801352": [
+    {
+      "date": "2026-05-27",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 47
+      }
+    }
+  ],
+  "1018673756": [
+    {
+      "date": "2026-05-27",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 48
+      }
+    }
+  ],
+  "1398139248": [
+    {
+      "date": "2026-06-05",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 50
+      }
+    }
+  ],
+  "1318609672": [
+    {
+      "date": "2026-06-05",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 51
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 76
+      }
+    }
+  ],
+  "8272601291": [
+    {
+      "date": "2026-06-17",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 52
+      }
+    }
+  ],
+  "6188129258": [
+    {
+      "date": "2026-06-30",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 55
+      }
+    }
+  ],
+  "1083136112": [
+    {
+      "date": "2026-07-02",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 56
+      }
+    }
+  ],
+  "2428104142": [
+    {
+      "date": "2026-07-02",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 57
+      }
+    }
+  ],
+  "1308115706": [
+    {
+      "date": "2026-07-08",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 58
+      }
+    }
+  ],
+  "2148758927": [
+    {
+      "date": "2026-07-09",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 59
+      }
+    }
+  ],
+  "3401802105": [
+    {
+      "date": "2026-08-20",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 62
+      }
+    }
+  ],
+  "4178153742": [
+    {
+      "date": "2026-08-24",
+      "type": "애로기술컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 63
+      }
+    }
+  ],
+  "6668601948": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 64
+      }
+    }
+  ],
+  "1228182903": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 65
+      }
+    }
+  ],
+  "8508703475": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 66
+      }
+    }
+  ],
+  "4698603312": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 67
+      }
+    }
+  ],
+  "1212523036": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 70
+      }
+    }
+  ],
+  "1228625149": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 71
+      }
+    }
+  ],
+  "1318151063": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 73
+      }
+    }
+  ],
+  "1098191393": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 74
+      }
+    }
+  ],
+  "1228166806": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 75
+      }
+    }
+  ],
+  "8318803582": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 78
+      }
+    }
+  ],
+  "1218193071": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 79
+      }
+    }
+  ],
+  "1318609371": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 80
+      }
+    }
+  ],
+  "1218604364": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 81
+      }
+    }
+  ],
+  "1368118924": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 83
+      }
+    }
+  ],
+  "1218127227": [
+    {
+      "date": "2026-05-19",
+      "type": "간담회",
+      "title": "제4차 유료 가족회사 간담회",
+      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "",
+      "source": {
+        "excelRow": 85
+      }
+    }
+  ]
+};
