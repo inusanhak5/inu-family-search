@@ -1,7 +1,7 @@
 // Auto-generated companyActivities.js (산학협력활동)
 window.companyActivitiesMeta = {
   "generatedAt": "2026-08-27 05:43:08",
-  "excelFile": "가족회사 산학협력활동(260810) .xlsx",
+  "excelFile": "가족회사 산학협력활동(260810)수정 후 .xlsx",
   "columnsDetected": {
     "bizNo": "사업자등록번호",
     "certNo": "인증서 번호",
