@@ -703,10 +703,13 @@
       <label for="ceoInput">대표자명</label>
       <input id="ceoInput" type="text" placeholder="대표자명 입력">
 
+      <label for="bizInput">사업자등록번호</label>
+      <input id="bizInput" type="text" placeholder="사업자등록번호 입력 (하이픈 없이/뒷자리만 입력 가능)">
+
       <label for="membershipSelect">가족회사 등급</label>
       <select id="membershipSelect"></select>
 
-      <div class="hint">※ 기업명, 대표자명, 등급 중 하나만 입력해도 검색됩니다.</div>
+      <div class="hint">※ 기업명, 대표자명, 사업자등록번호, 등급 중 하나만 입력해도 검색됩니다. 사업자등록번호는 하이픈 유무에 관계없이, 일부 숫자만 입력해도 검색됩니다.</div>
 
       <div class="btn-group">
         <button id="searchBtn" class="btn-search" type="button">검색</button>
@@ -787,6 +790,7 @@
   <script>
     const companyInput = document.getElementById("companyInput");
     const ceoInput = document.getElementById("ceoInput");
+    const bizInput = document.getElementById("bizInput");
     const membershipSelect = document.getElementById("membershipSelect");
     const searchBtn = document.getElementById("searchBtn");
     const resetBtn = document.getElementById("resetBtn");
@@ -967,13 +971,15 @@ html += `
       if (window.__hideStatus) window.__hideStatus();
       const companyRaw = companyInput.value.trim();
       const ceoRaw = ceoInput.value.trim();
+      const bizRaw = bizInput.value.trim();
       const membershipVal = membershipSelect.value;
 
       const companyKeyword = companyRaw.toLowerCase();
       const ceoKeyword = ceoRaw.toLowerCase();
+      const bizKeyword = normBizNo(bizRaw); // ✅ 하이픈 등 숫자 아닌 문자 제거
 
-      if (!companyKeyword && !ceoKeyword && !membershipVal) {
-        alert("기업명, 대표자명, 또는 등급을 선택해주세요.");
+      if (!companyKeyword && !ceoKeyword && !bizKeyword && !membershipVal) {
+        alert("기업명, 대표자명, 사업자등록번호, 또는 등급을 선택해주세요.");
         return;
       }
 
@@ -982,6 +988,7 @@ html += `
         const params = new URLSearchParams();
         if (companyRaw) params.set("q", companyRaw);
         if (ceoRaw) params.set("ceo", ceoRaw);
+        if (bizRaw) params.set("biz", bizRaw);
         if (membershipVal) params.set("grade", membershipVal);
         history.pushState(null, "", location.pathname + "?" + params.toString());
       }
@@ -991,8 +998,10 @@ html += `
       const filtered = data.filter(item => {
         const nameMatch = companyKeyword ? (item.기업명 || "").toLowerCase().includes(companyKeyword) : true;
         const ceoMatch = ceoKeyword ? (item.대표자 || "").toLowerCase().includes(ceoKeyword) : true;
+        // ✅ 사업자등록번호: 하이픈 유무 무관 + 일부(부분) 일치 검색
+        const bizMatch = bizKeyword ? normBizNo(item.사업자등록번호).includes(bizKeyword) : true;
         const membershipMatch = membershipVal ? (item.멤버십 === membershipVal) : true;
-        return nameMatch && ceoMatch && membershipMatch;
+        return nameMatch && ceoMatch && bizMatch && membershipMatch;
       });
 
       if (filtered.length === 0) {
@@ -1006,6 +1015,7 @@ html += `
       if (window.__showStatus) window.__showStatus();
       companyInput.value = "";
       ceoInput.value = "";
+      bizInput.value = "";
       membershipSelect.value = "";
       resultArea.innerHTML = `<div class="no-result">검색 조건을 입력 후 [검색] 버튼을 눌러주세요.</div>`;
       companyInput.focus();
@@ -1020,12 +1030,14 @@ html += `
       const params = new URLSearchParams(location.search);
       const q = params.get("q") || "";
       const ceo = params.get("ceo") || "";
+      const biz = params.get("biz") || "";
       const grade = params.get("grade") || "";
       companyInput.value = q;
       ceoInput.value = ceo;
+      bizInput.value = biz;
       const gradeExists = [...membershipSelect.options].some(o => o.value === grade);
       membershipSelect.value = gradeExists ? grade : "";
-      if (q || ceo || (grade && gradeExists)) {
+      if (q || ceo || biz || (grade && gradeExists)) {
         search(false); // 뒤로가기 기록을 새로 만들지 않음
       } else {
         resetSearch(false);
