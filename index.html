@@ -922,6 +922,27 @@ function renderTable(rows, options = {}) {
           <tbody>
       `;
 
+      const highlightCeo = !!options.highlightCeo;
+
+      let html = `
+        <table>
+          <thead>
+            <tr>
+              <th>인증서번호</th>
+              <th>사업자등록번호</th>
+              <th>기업명</th>
+              <th>대표자</th>
+              <th>멤버십</th>
+              <th>만료일</th>
+              <th>업종</th>
+              <th>주요제품</th>
+              <th>주소</th>
+              <th>추천교수</th>
+            </tr>
+          </thead>
+          <tbody>
+      `;
+
       currentRows = rows; // ✅ 지도 클릭 시 사용할 데이터 저장
 
       rows.forEach((row, rowIndex) => {
@@ -946,18 +967,18 @@ function renderTable(rows, options = {}) {
               </div>
             </td>
           </tr>`;
-html += `
+        html += `
           <tr>
-            <td data-label="인증서 번호">${escapeHtml(row.인증서번호 || "")}</td>
+            <td data-label="인증서번호">${escapeHtml(row.인증서번호 || "")}</td>
+            <td data-label="사업자등록번호">${escapeHtml(row.사업자등록번호 || "")}</td>
             <td data-label="기업명" class="${companyClass}">${escapeHtml(row.기업명 || "")}</td>
             <td data-label="대표자" class="${ceoClass}">${escapeHtml(row.대표자 || "")}</td>
             <td data-label="멤버십">${escapeHtml(row.멤버십 || "")}</td>
-            <td data-label="주요제품">${escapeHtml(row.주요제품 || "")}</td>
+            <td data-label="만료일">${escapeHtml(row.만료일 || "")}</td>
             <td data-label="업종">${escapeHtml(row.업종 || "")}</td>
-            <td data-label="사업자등록번호">${escapeHtml(row.사업자등록번호 || "")}</td>
-            <td data-label="추천교수">${escapeHtml(row.추천교수 || "")}</td>
+            <td data-label="주요제품">${escapeHtml(row.주요제품 || "")}</td>
             <td data-label="주소">${addressDisplay}</td>
-            <td data-label="산학협력 활동">${activityCell}</td>
+            <td data-label="추천교수">${escapeHtml(row.추천교수 || "")}</td>
           </tr>
           ${activityDetailRow}
         `;
