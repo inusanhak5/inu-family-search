@@ -1,6 +1,6 @@
 // Auto-generated companyActivities.js (산학협력활동)
 window.companyActivitiesMeta = {
-  "generatedAt": "2026-09-04 06:48:31",
+  "generatedAt": "2026-09-08 17:58:29",
   "excelFile": "가족회사 산학협력활동(260810)수정 후.xlsx",
   "columnsDetected": {
     "bizNo": "사업자등록번호",
@@ -16,7 +16,7 @@ window.companyActivitiesMeta = {
     "note": "기타"
   },
   "matchedCompanies": 129,
-  "totalActivities": 259
+  "totalActivities": 248
 };
 
 window.companyActivitiesByBizNo = {
@@ -25,14 +25,13 @@ window.companyActivitiesByBizNo = {
       "date": "2025-04-06",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원 ",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원 ",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 2
-      },
-      "note": "이승호"
+      }
     }
   ],
   "1152701574": [
@@ -46,13 +45,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 3
-      },
-      "note": "전광길"
+      }
     }
   ],
-  "7388601700": [
+  "1218181673": [
     {
-      "date": "2025-05-03",
+      "date": "2025-04-20",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -61,26 +59,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 4
-      },
-      "note": "이창연"
-    },
-    {
-      "date": "2025-10-18",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 29
-      },
-      "note": "이미경"
+      }
     }
   ],
-  "1318609672": [
+  "1218625272": [
     {
-      "date": "2025-05-03",
+      "date": "2025-05-18",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -89,78 +73,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 5
-      },
-      "note": "안호선"
-    },
-    {
-      "date": "2025-10-28",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 32
-      },
-      "note": "김지범"
-    },
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 50
-      },
-      "note": "이승수 대표(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 125
-      },
-      "note": "이승수 대표이사, 이지안 대리(2인)"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 185
-      },
-      "note": "컴퓨터공학부 김지범"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 224
-      },
-      "note": "이승수 대표이사, 이지안 대리(2인)"
+      }
     }
   ],
-  "1318643855": [
+  "1228181373": [
     {
-      "date": "2025-05-03",
+      "date": "2025-06-22",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -169,13 +87,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 6
-      },
-      "note": "안호선"
+      }
     }
   ],
-  "1318628984": [
+  "1228608249": [
     {
-      "date": "2025-05-12",
+      "date": "2025-06-22",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -184,13 +101,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 7
-      },
-      "note": "김태민"
+      }
     }
   ],
-  "5618801875": [
+  "1248102377": [
     {
-      "date": "2025-05-16",
+      "date": "2025-07-27",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -199,13 +115,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 8
-      },
-      "note": "김태민"
+      }
     }
   ],
-  "1225269730": [
+  "1288111977": [
     {
-      "date": "2025-05-27",
+      "date": "2025-08-03",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -214,13 +129,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 9
-      },
-      "note": "김경태"
+      }
     }
   ],
-  "1148656092": [
+  "1308102220": [
     {
-      "date": "2025-06-03",
+      "date": "2025-08-31",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -229,64 +143,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 10
-      },
-      "note": "안혜신"
-    },
-    {
-      "date": "2025-01-02",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
-      "source": {
-        "excelRow": 85
       }
-    },
-    {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 234
-      },
-      "note": "박민수 연구원, 원승연 대리, 이유란 대리(3인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 246
-      },
-      "note": "박재선 부장, 원승연 대리, 이유란 대리(3인)"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 256
-      },
-      "note": "박재선 부장, 원승연 대리, 이유란 대리(3인)"
     }
   ],
-  "2438702926": [
+  "1308151219": [
     {
-      "date": "2025-06-03",
+      "date": "2025-08-31",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -295,26 +157,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 11
-      },
-      "note": "왕린"
-    },
-    {
-      "date": "2025-12-22",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 38
-      },
-      "note": "왕린"
+      }
     }
   ],
-  "7618701070": [
+  "1318182281": [
     {
-      "date": "2025-06-06",
+      "date": "2025-09-07",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -323,25 +171,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 12
-      },
-      "note": "오태근"
-    },
-    {
-      "date": "2025-11-10",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
-      "source": {
-        "excelRow": 97
       }
     }
   ],
-  "5658601311": [
+  "1318625906": [
     {
-      "date": "2025-06-06",
+      "date": "2025-09-07",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -350,26 +185,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 13
-      },
-      "note": "임원경"
-    },
-    {
-      "date": "2026-03-27",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 173
-      },
-      "note": "산학협력중점교수 임원경"
+      }
     }
   ],
-  "8558703261": [
+  "1318640103": [
     {
-      "date": "2025-06-13",
+      "date": "2025-09-07",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -378,26 +199,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 14
-      },
-      "note": "전광길"
-    },
-    {
-      "date": "2026-03-20",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 170
-      },
-      "note": "디자인학부 안혜신"
+      }
     }
   ],
-  "2958801148": [
+  "1348615367": [
     {
-      "date": "2025-06-13",
+      "date": "2025-09-28",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -406,13 +213,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 15
-      },
-      "note": "왕린"
+      }
     }
   ],
-  "3128672094": [
+  "1378121689": [
     {
-      "date": "2025-06-15",
+      "date": "2025-09-28",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -421,91 +227,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 16
-      },
-      "note": "최현규"
-    },
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 51
-      },
-      "note": "최근욱 팀장(1인)"
-    },
-    {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
-      "source": {
-        "excelRow": 74
-      },
-      "note": "최근욱 팀장(1인)"
-    },
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 109
-      },
-      "note": "김혜린 직원(1인)"
-    },
-    {
-      "date": "2026-05-15",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 180
-      },
-      "note": "전기공학과 최현규"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 202
-      },
-      "note": "김혜린 차장, 최재명 책임(2인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 242
-      },
-      "note": "임규성 책임연구원(1인)"
+      }
     }
   ],
-  "1588601321": [
+  "1378143431": [
     {
-      "date": "2025-06-21",
+      "date": "2025-10-05",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -514,13 +241,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 17
-      },
-      "note": "차재민"
+      }
     }
   ],
-  "1228609659": [
+  "1398131379": [
     {
-      "date": "2025-06-27",
+      "date": "2025-10-12",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -529,13 +255,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 18
-      },
-      "note": "임원경"
+      }
     }
   ],
-  "5578702280": [
+  "1398135898": [
     {
-      "date": "2025-07-15",
+      "date": "2025-10-12",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -544,328 +269,10 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 19
-      },
-      "note": "왕린"
+      }
     }
   ],
-  "1318625935": [
-    {
-      "date": "2025-07-18",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 20
-      },
-      "note": "강상혁"
-    },
-    {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 227
-      },
-      "note": "김덕호 대표이사(1인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 238
-      },
-      "note": "이희정 연구원, 심우철 수석연구원, 오학성 연구위원(3인)"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 251
-      },
-      "note": "심우철 수석연구원, 이희정 연구원, 오학성 연구위원(3인)"
-    }
-  ],
-  "1370860500": [
-    {
-      "date": "2025-07-19",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 21
-      },
-      "note": "임원경"
-    },
-    {
-      "date": "2026-03-06",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 165
-      },
-      "note": "산학협력중점교수 임원경"
-    }
-  ],
-  "1828700910": [
-    {
-      "date": "2025-09-10",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 22
-      },
-      "note": "안혜신"
-    },
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 102
-      },
-      "note": "이창선 이사(1인)"
-    }
-  ],
-  "1398119806": [
-    {
-      "date": "2025-09-22",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 23
-      },
-      "note": "이원종"
-    }
-  ],
-  "1088191594": [
-    {
-      "date": "2025-09-29",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원 ",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원 ",
-      "source": {
-        "excelRow": 24
-      },
-      "note": "김태민"
-    },
-    {
-      "date": "2026-04-21",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 176
-      },
-      "note": "미디어커뮤니케이션학과 김태민"
-    }
-  ],
-  "1228166806": [
-    {
-      "date": "2025-09-29",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 25
-      },
-      "note": "최승식"
-    },
-    {
-      "date": "2025-12-01",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 37
-      },
-      "note": "유순동"
-    },
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 49
-      },
-      "note": "이시영 실장(1인)"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 208
-      },
-      "note": "이시영 실장(1인)"
-    },
-    {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 226
-      },
-      "note": "이선영 대리(1인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 237
-      },
-      "note": "이선영 대리(1인)"
-    }
-  ],
-  "1083136112": [
-    {
-      "date": "2025-10-03",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 26
-      },
-      "note": "김지범"
-    },
-    {
-      "date": "2026-07-02",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 190
-      },
-      "note": "산학협력중점교수 유순동"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 245
-      },
-      "note": "변강태 대표(1인)"
-    }
-  ],
-  "5808603225": [
-    {
-      "date": "2025-10-11",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 27
-      },
-      "note": "박상훈"
-    }
-  ],
-  "8468101796": [
-    {
-      "date": "2025-10-13",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원",
-      "source": {
-        "excelRow": 28
-      },
-      "note": "김도엽"
-    },
-    {
-      "date": "2026-03-06",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 166
-      },
-      "note": "정보통신공학과 김도엽"
-    }
-  ],
-  "1378101784": [
+  "1408103328": [
     {
       "date": "2025-10-19",
       "type": "애로컨설팅",
@@ -875,78 +282,153 @@ window.companyActivitiesByBizNo = {
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
-        "excelRow": 30
-      },
-      "note": "이종헌"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 118
-      },
-      "note": "강상현 선임매니저, 장동연 선임(2인)"
-    },
-    {
-      "date": "2026-01-31",
-      "type": "R&D과제",
-      "title": "산학공동기술개발",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
-      "source": {
-        "excelRow": 144
+        "excelRow": 20
       }
-    },
+    }
+  ],
+  "1418128713": [
     {
-      "date": "2025-12-11",
+      "date": "2025-10-19",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
-        "excelRow": 158
-      },
-      "note": "바이오-로봇시스템공학과 김우용"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 205
-      },
-      "note": "박준기 선임 ,장동연 선임(2인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 217
-      },
-      "note": "강상현 선임매니저, 장동연 선임(2인)"
+        "excelRow": 21
+      }
     }
   ],
-  "2478802513": [
+  "1438101372": [
     {
-      "date": "2025-10-24",
+      "date": "2025-11-09",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 22
+      }
+    }
+  ],
+  "1448107954": [
+    {
+      "date": "2025-11-09",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 23
+      }
+    }
+  ],
+  "1658602288": [
+    {
+      "date": "2025-11-23",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 24
+      }
+    }
+  ],
+  "1768102377": [
+    {
+      "date": "2025-11-30",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 25
+      }
+    }
+  ],
+  "1788100523": [
+    {
+      "date": "2025-11-30",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 26
+      }
+    }
+  ],
+  "2038148811": [
+    {
+      "date": "2025-12-07",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 27
+      }
+    }
+  ],
+  "2048187834": [
+    {
+      "date": "2025-12-07",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 28
+      }
+    }
+  ],
+  "2048600888": [
+    {
+      "date": "2025-12-14",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 29
+      }
+    }
+  ],
+  "2048633393": [
+    {
+      "date": "2025-12-14",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 30
+      }
+    }
+  ],
+  "2068132921": [
+    {
+      "date": "2025-12-21",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -955,13 +437,26 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 31
-      },
-      "note": "김경태"
+      }
     }
   ],
-  "1313449340": [
+  "2068652033": [
     {
-      "date": "2025-11-07",
+      "date": "2025-12-21",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 32
+      }
+    }
+  ],
+  "2088126744": [
+    {
+      "date": "2025-12-28",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -970,26 +465,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 33
-      },
-      "note": "류도현"
-    },
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 110
-      },
-      "note": "배재원 부장(1인)"
+      }
     }
   ],
-  "4228103905": [
+  "2108157777": [
     {
-      "date": "2025-11-11",
+      "date": "2025-12-28",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -998,25 +479,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 34
-      },
-      "note": "이승정"
-    },
-    {
-      "date": "2025-05-29",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
-      "source": {
-        "excelRow": 88
       }
     }
   ],
-  "1302830793": [
+  "2118742631": [
     {
-      "date": "2025-11-16",
+      "date": "2026-01-04",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1025,13 +493,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 35
-      },
-      "note": "이세원"
+      }
     }
   ],
-  "1068611978": [
+  "2118835055": [
     {
-      "date": "2025-11-29",
+      "date": "2026-01-04",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1040,38 +507,40 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 36
-      },
-      "note": "최병길"
-    },
-    {
-      "date": "2025-09-19",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
-      "source": {
-        "excelRow": 91
       }
-    },
-    {
-      "date": "2025-09-22",
-      "type": "R&D과제",
-      "title": "[RISE]산학공동기술개발과제",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "이현지",
-      "evidenceUrl": "협약서",
-      "source": {
-        "excelRow": 131
-      },
-      "note": "도시환경공학부 최병길"
     }
   ],
-  "6248603127": [
+  "2118870196": [
     {
-      "date": "2026-01-05",
+      "date": "2026-01-11",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 37
+      }
+    }
+  ],
+  "2128135891": [
+    {
+      "date": "2026-01-11",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 38
+      }
+    }
+  ],
+  "2128187834": [
+    {
+      "date": "2026-01-18",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1080,13 +549,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 39
-      },
-      "note": "전광길"
+      }
     }
   ],
-  "3238100329": [
+  "2148187834": [
     {
-      "date": "2026-01-09",
+      "date": "2026-01-18",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1095,13 +563,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 40
-      },
-      "note": "왕린"
+      }
     }
   ],
-  "1438129550": [
+  "2148602288": [
     {
-      "date": "2026-01-09",
+      "date": "2026-01-25",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1110,13 +577,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 41
-      },
-      "note": "왕린"
+      }
     }
   ],
-  "5048801324": [
+  "2148625906": [
     {
-      "date": "2026-01-16",
+      "date": "2026-01-25",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1125,13 +591,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 42
-      },
-      "note": "김지범"
+      }
     }
   ],
-  "1198689322": [
+  "2148701574": [
     {
-      "date": "2026-01-31",
+      "date": "2026-02-01",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1140,78 +605,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 43
-      },
-      "note": "송왕제"
-    },
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 48
-      },
-      "note": "이재성 대표, 김동현 연구소장 참석(2인)"
-    },
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 108
-      },
-      "note": "정진희 직원(1인)"
-    },
-    {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 230
-      },
-      "note": "박홍조 주임연구원, 최정은 주임, 김지현 주임(3인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 240
-      },
-      "note": "박홍조 주임연구원(1인)"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 252
-      },
-      "note": "박홍조 주임연구원(1인)"
+      }
     }
   ],
-  "4938702900": [
+  "2148812230": [
     {
-      "date": "2026-02-02",
+      "date": "2026-02-01",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1220,13 +619,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 44
-      },
-      "note": "전광길"
+      }
     }
   ],
-  "1238131687": [
+  "2148835055": [
     {
-      "date": "2026-02-13",
+      "date": "2026-02-08",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1235,51 +633,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 45
-      },
-      "note": "김지범"
-    },
-    {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
-      "source": {
-        "excelRow": 73
-      },
-      "note": "방근석 부장, 김정흠 부장(2인)"
-    },
-    {
-      "date": "2026-04-06",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
-      "source": {
-        "excelRow": 151
       }
-    },
-    {
-      "date": "2026-07-28",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 195
-      },
-      "note": "컴퓨터공학부 김지범"
     }
   ],
-  "1378121631": [
+  "2158102377": [
     {
-      "date": "2026-02-13",
+      "date": "2026-02-08",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1288,39 +647,12 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 46
-      },
-      "note": "김태민"
-    },
-    {
-      "date": "2026-03-11",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 168
-      },
-      "note": "산학협력중점교수 임원경"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 209
-      },
-      "note": "박종태 대표(1인)"
+      }
     }
   ],
-  "1208615650": [
+  "2158135891": [
     {
-      "date": "2026-02-13",
+      "date": "2026-02-15",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1329,2287 +661,2835 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 47
-      },
-      "note": "안호선"
-    },
-    {
-      "date": "2027-01-31",
-      "type": "R&D과제",
-      "title": "산학공동기술개발",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
-      "source": {
-        "excelRow": 142
       }
     }
   ],
-  "3168703048": [
+  "2158187834": [
     {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 52
-      },
-      "note": "손원근 대표이사, 현봉수 CTO(2인)"
-    },
-    {
-      "date": "2025-08-13",
-      "type": "애로컨설팅",
-      "title": "2025년 인천지역 기술 멘토링 사업",
-      "result": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고",
-      "dept": "산학협력팀",
-      "owner": "김수민",
-      "evidenceUrl": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고서 제출",
-      "source": {
-        "excelRow": 60
-      },
-      "note": "전광길 교수(멘토)"
-    },
-    {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
-      "source": {
-        "excelRow": 70
-      },
-      "note": "송원근 대표이사, 김혜진 이사(2인)"
-    },
-    {
-      "date": "2025-09-19",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
-      "source": {
-        "excelRow": 92
-      }
-    },
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 104
-      },
-      "note": "현봉수 연구소장, 전승길 직원(2인)"
-    },
-    {
-      "date": "2025-12-30",
-      "type": "발전기금",
-      "title": "산학협력단 발전기금",
-      "result": "산학협력단 발전기금(2호)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "발전기금 영수증",
-      "source": {
-        "excelRow": 128
-      },
-      "note": "손원근 대표(실버)"
-    },
-    {
-      "date": "2025-09-22",
-      "type": "R&D과제",
-      "title": "[RISE]산학공동기술개발과제",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "이현지",
-      "evidenceUrl": "협약서",
-      "source": {
-        "excelRow": 132
-      },
-      "note": "임베디드시스템공학과 전광길 교수"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 212
-      },
-      "note": "현봉수 CTO(1인)"
-    }
-  ],
-  "1228182903": [
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 53
-      },
-      "note": "이해광 수석(1인)"
-    },
-    {
-      "date": "2025-03-20",
-      "type": "수상",
-      "title": "2025년 우수기업인 표창(비전기업협회)",
-      "result": "인천비전기업협회 소속기업 총장상 표창(상반기)",
-      "dept": "산학협력팀",
-      "owner": "정진우",
-      "evidenceUrl": "상장",
-      "source": {
-        "excelRow": 76
-      },
-      "note": "박해신"
-    },
-    {
-      "date": "2025-12-01",
-      "type": "수상",
-      "title": "2025년 우수기업인 표창(인천녹색경영자협회)",
-      "result": "인천녹색경영자협회 소속기업 총장상 표창",
-      "dept": "산학협력팀",
-      "owner": "정진우",
-      "evidenceUrl": "상장",
-      "source": {
-        "excelRow": 78
-      },
-      "note": "박해신"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 199
-      },
-      "note": "이해광 수석(1인)"
-    }
-  ],
-  "1318151063": [
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 54
-      },
-      "note": "임지영 팀장(1인)"
-    },
-    {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
-      "source": {
-        "excelRow": 72
-      },
-      "note": "임지영 팀장(1인)"
-    },
-    {
-      "date": "2025-03-20",
-      "type": "수상",
-      "title": "2025년 우수기업인 표창(비전기업협회)",
-      "result": "인천비전기업협회 소속기업 총장상 표창(상반기)",
-      "dept": "산학협력팀",
-      "owner": "정진우",
-      "evidenceUrl": "상장",
-      "source": {
-        "excelRow": 75
-      },
-      "note": "김충환"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 206
-      },
-      "note": "오문환 상무이사(1인)"
-    },
-    {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 229
-      },
-      "note": "윤성현 과장, 이훈재 과장, 이근수 부장(3인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 239
-      },
-      "note": "윤성현 과장, 이근수 부장(2인)"
-    }
-  ],
-  "1318609371": [
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 55
-      },
-      "note": "유길상 상무(1인)"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 211
-      },
-      "note": "유길상 상무(1인)"
-    }
-  ],
-  "2388801373": [
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 56
-      },
-      "note": "고부열 이사(1인)"
-    }
-  ],
-  "1218127227": [
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 57
-      },
-      "note": "김보연 대리(1인)"
-    },
-    {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
-      "source": {
-        "excelRow": 65
-      },
-      "note": "김보연 대리(1인)"
-    },
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 112
-      },
-      "note": "김보연 대리(1인)"
-    }
-  ],
-  "1228126347": [
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 58
-      },
-      "note": "오학성 CTO(1인)"
-    },
-    {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
-      "source": {
-        "excelRow": 71
-      },
-      "note": "오학성 CTO(1인)"
-    },
-    {
-      "date": "2026-03-10",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
-      "source": {
-        "excelRow": 150
-      }
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 201
-      },
-      "note": "오학성 CTO(1인)"
-    },
-    {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 228
-      },
-      "note": "심우철 수석연구원, 오학성 연구위원(2인)"
-    }
-  ],
-  "6668601948": [
-    {
-      "date": "2025-10-17",
-      "type": "간담회",
-      "title": "제2차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
-      "source": {
-        "excelRow": 59
-      },
-      "note": "김우철 대표(1인)"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 198
-      },
-      "note": "김우철 대표(1인)"
-    }
-  ],
-  "5990800113": [
-    {
-      "date": "2025-08-13",
-      "type": "애로컨설팅",
-      "title": "2025년 인천지역 기술 멘토링 사업",
-      "result": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고",
-      "dept": "산학협력팀",
-      "owner": "김수민",
-      "evidenceUrl": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고서 제출",
-      "source": {
-        "excelRow": 61
-      },
-      "note": "왕린 교수(멘토)"
-    }
-  ],
-  "1318632815": [
-    {
-      "date": "2025-08-13",
-      "type": "애로컨설팅",
-      "title": "2025년 인천지역 기술 멘토링 사업",
-      "result": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고",
-      "dept": "산학협력팀",
-      "owner": "김수민",
-      "evidenceUrl": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고서 제출",
-      "source": {
-        "excelRow": 62
-      },
-      "note": "이민철 교수(멘토)"
-    },
-    {
-      "date": "2026-02-26",
+      "date": "2026-02-15",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
-        "excelRow": 162
-      },
-      "note": "안전공학과 이민철"
+        "excelRow": 48
+      }
     }
   ],
-  "1378186158": [
+  "2158602288": [
     {
-      "date": "2025-08-13",
+      "date": "2026-02-22",
       "type": "애로컨설팅",
-      "title": "2025년 인천지역 기술 멘토링 사업",
-      "result": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "김수민",
-      "evidenceUrl": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고서 제출",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 49
+      }
+    }
+  ],
+  "2158625906": [
+    {
+      "date": "2026-02-22",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 50
+      }
+    }
+  ],
+  "2158701574": [
+    {
+      "date": "2026-03-01",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 51
+      }
+    }
+  ],
+  "2158812230": [
+    {
+      "date": "2026-03-01",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 52
+      }
+    }
+  ],
+  "2158835055": [
+    {
+      "date": "2026-03-08",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 53
+      }
+    }
+  ],
+  "2168102377": [
+    {
+      "date": "2026-03-08",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 54
+      }
+    }
+  ],
+  "2168135891": [
+    {
+      "date": "2026-03-15",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 55
+      }
+    }
+  ],
+  "2168187834": [
+    {
+      "date": "2026-03-15",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 56
+      }
+    }
+  ],
+  "2168602288": [
+    {
+      "date": "2026-03-22",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 57
+      }
+    }
+  ],
+  "2168625906": [
+    {
+      "date": "2026-03-22",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 58
+      }
+    }
+  ],
+  "2168701574": [
+    {
+      "date": "2026-03-29",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 59
+      }
+    }
+  ],
+  "2168812230": [
+    {
+      "date": "2026-03-29",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 60
+      }
+    }
+  ],
+  "2178102377": [
+    {
+      "date": "2026-04-05",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 61
+      }
+    }
+  ],
+  "2178135891": [
+    {
+      "date": "2026-04-05",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 62
+      }
+    }
+  ],
+  "2178187834": [
+    {
+      "date": "2026-04-12",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 63
-      },
-      "note": "임원경 교수(멘토)"
+      }
     }
   ],
-  "3108125493": [
+  "2178602288": [
     {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2026-04-12",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 64
-      },
-      "note": "박진현 차장(1인)"
-    },
-    {
-      "date": "2025-12-18",
-      "type": "수상",
-      "title": "2025년 우수기업인 표창(인천비전기업협회)",
-      "result": "인천비전기업협회 소속기업 총장상 표창(하반기)",
-      "dept": "산학협력팀",
-      "owner": "정진우",
-      "evidenceUrl": "상장",
-      "source": {
-        "excelRow": 82
-      },
-      "note": "박무수"
+      }
     }
   ],
-  "1212523036": [
+  "2178625906": [
     {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2026-04-19",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 65
+      }
+    }
+  ],
+  "2178701574": [
+    {
+      "date": "2026-04-19",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 66
-      },
-      "note": "김은주 대표(1인)"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 203
-      },
-      "note": "김은주 대표(1인)"
+      }
     }
   ],
-  "2208113641": [
+  "2188102377": [
     {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2026-04-26",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 67
-      },
-      "note": "오정훈 수석매니저(1인)"
+      }
     }
   ],
-  "1218604364": [
+  "2188135891": [
     {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2026-04-26",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 68
-      },
-      "note": "강수민 대표, 장두진 상무이사(2인)"
-    },
-    {
-      "date": "2025-12-18",
-      "type": "수상",
-      "title": "2025년 우수기업인 표창(인천비전기업협회)",
-      "result": "인천비전기업협회 소속기업 총장상 표창(하반기)",
-      "dept": "산학협력팀",
-      "owner": "정진우",
-      "evidenceUrl": "상장",
-      "source": {
-        "excelRow": 83
-      },
-      "note": "강수민"
-    },
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 99
-      },
-      "note": "강수민 대표(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 123
-      },
-      "note": "장두진 이사(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 222
-      },
-      "note": "장두진 이사(1인)"
+      }
     }
   ],
-  "1088121555": [
+  "2188187834": [
     {
-      "date": "2025-07-11",
-      "type": "간담회",
-      "title": "제1차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2026-05-03",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 69
-      },
-      "note": "이정은 이사(1인)"
+      }
     }
   ],
-  "1228199705": [
+  "2188602288": [
     {
-      "date": "2025-03-20",
-      "type": "수상",
-      "title": "2025년 우수기업인 표창(비전기업협회)",
-      "result": "인천비전기업협회 소속기업 총장상 표창(상반기)",
+      "date": "2026-05-03",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "정진우",
-      "evidenceUrl": "상장",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 70
+      }
+    }
+  ],
+  "2188625906": [
+    {
+      "date": "2026-05-10",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 71
+      }
+    }
+  ],
+  "2188701574": [
+    {
+      "date": "2026-05-10",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 72
+      }
+    }
+  ],
+  "2198102377": [
+    {
+      "date": "2026-05-17",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 73
+      }
+    }
+  ],
+  "2198135891": [
+    {
+      "date": "2026-05-17",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 74
+      }
+    }
+  ],
+  "2198187834": [
+    {
+      "date": "2026-05-24",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 75
+      }
+    }
+  ],
+  "2198602288": [
+    {
+      "date": "2026-05-24",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 76
+      }
+    }
+  ],
+  "2198625906": [
+    {
+      "date": "2026-05-31",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 77
-      },
-      "note": "추성호"
+      }
     }
   ],
-  "1312695553": [
+  "2198701574": [
     {
-      "date": "2025-12-04",
-      "type": "수상",
-      "title": "2025년 우수기업인 표창(인천유망기업연합회)",
-      "result": "인천유망기업연합회 소속기업 총장상 표창",
+      "date": "2026-05-31",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "정진우",
-      "evidenceUrl": "상장",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 78
+      }
+    }
+  ],
+  "2208102377": [
+    {
+      "date": "2026-06-07",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 79
-      },
-      "note": "예진년"
+      }
     }
   ],
-  "1318636223": [
+  "2208135891": [
     {
-      "date": "2025-12-04",
-      "type": "수상",
-      "title": "2025년 우수기업인 표창(인천유망기업연합회)",
-      "result": "인천유망기업연합회 소속기업 총장상 표창",
+      "date": "2026-06-07",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "정진우",
-      "evidenceUrl": "상장",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 80
-      },
-      "note": "박진수"
+      }
     }
   ],
-  "1318601383": [
+  "2208187834": [
     {
-      "date": "2025-12-18",
-      "type": "수상",
-      "title": "2025년 우수기업인 표창(인천비전기업협회)",
-      "result": "인천비전기업협회 소속기업 총장상 표창(하반기)",
+      "date": "2026-06-14",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "정진우",
-      "evidenceUrl": "상장",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 81
-      },
-      "note": "김석철"
+      }
     }
   ],
-  "1318169132": [
+  "2208602288": [
     {
-      "date": "2025-12-18",
-      "type": "수상",
-      "title": "2025년 우수기업인 표창(인천비전기업협회)",
-      "result": "인천비전기업협회 소속기업 총장상 표창(하반기)",
+      "date": "2026-06-14",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "정진우",
-      "evidenceUrl": "상장",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 82
+      }
+    }
+  ],
+  "2208625906": [
+    {
+      "date": "2026-06-21",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 83
+      }
+    }
+  ],
+  "2208701574": [
+    {
+      "date": "2026-06-21",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 84
-      },
-      "note": "조철연"
-    },
-    {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 235
-      },
-      "note": "송인건 이사(1인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 248
-      },
-      "note": "송인건 이사(1인)"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 257
-      },
-      "note": "송인건 이사(1인)"
+      }
     }
   ],
-  "3198102124": [
+  "2218102377": [
     {
-      "date": "2025-05-21",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
+      "date": "2026-06-28",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 85
+      }
+    }
+  ],
+  "2218135891": [
+    {
+      "date": "2026-06-28",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 86
       }
     }
   ],
-  "2958702121": [
+  "2218187834": [
     {
-      "date": "2025-05-26",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
+      "date": "2026-07-05",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 87
       }
     }
   ],
-  "1358600130": [
+  "2218602288": [
     {
-      "date": "2025-07-31",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
+      "date": "2026-07-05",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 88
+      }
+    }
+  ],
+  "2218625906": [
+    {
+      "date": "2026-07-12",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 89
       }
     }
   ],
-  "3577100643": [
+  "2218701574": [
     {
-      "date": "2025-09-22",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
+      "date": "2026-07-12",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 90
       }
     }
   ],
-  "1408158338": [
+  "2228102377": [
     {
-      "date": "2025-09-22",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
+      "date": "2026-07-19",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 91
+      }
+    }
+  ],
+  "2228135891": [
+    {
+      "date": "2026-07-19",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 92
+      }
+    }
+  ],
+  "2228187834": [
+    {
+      "date": "2026-07-26",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 93
       }
-    },
+    }
+  ],
+  "2228602288": [
     {
-      "date": "2025-12-31",
-      "type": "발전기금",
-      "title": "산학협력단 발전기금",
-      "result": "산학협력단 발전기금(4호)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "발전기금 영수증",
-      "source": {
-        "excelRow": 130
-      },
-      "note": "윤각진, 이순철 대표(골드)"
-    },
-    {
-      "date": "2025-09-22",
-      "type": "R&D과제",
-      "title": "[RISE]산학공동기술개발과제",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "이현지",
-      "evidenceUrl": "협약서",
-      "source": {
-        "excelRow": 133
-      },
-      "note": "기계공학과 이강주 교수"
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-07-26",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 171
-      },
-      "note": "기계공학과 이강주"
-    }
-  ],
-  "1108150688": [
-    {
-      "date": "2025-09-23",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 94
       }
-    },
-    {
-      "date": "2025-09-22",
-      "type": "R&D과제",
-      "title": "[RISE]산학공동기술개발과제",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "이현지",
-      "evidenceUrl": "협약서",
-      "source": {
-        "excelRow": 134
-      },
-      "note": "전자공학부 김훈 교수"
     }
   ],
-  "1438603496": [
+  "2228625906": [
     {
-      "date": "2025-09-24",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
+      "date": "2026-08-02",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 95
       }
-    },
-    {
-      "date": "2025-09-22",
-      "type": "R&D과제",
-      "title": "[RISE]산학공동기술개발과제",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "이현지",
-      "evidenceUrl": "협약서",
-      "source": {
-        "excelRow": 135
-      },
-      "note": "전기공학과 이명훈 교수"
     }
   ],
-  "2878601707": [
+  "2228701574": [
     {
-      "date": "2025-09-22",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
+      "date": "2026-08-02",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 96
       }
-    },
-    {
-      "date": "2025-09-22",
-      "type": "R&D과제",
-      "title": "[RISE]산학공동기술개발과제",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "이현지",
-      "evidenceUrl": "협약서",
-      "source": {
-        "excelRow": 136
-      },
-      "note": "전기공학과 안덕주"
     }
   ],
-  "3998603707": [
+  "2238102377": [
     {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 98
-      },
-      "note": "김기훈 이사, 송요한 CVO(2인)"
-    },
-    {
-      "date": "2026-04-08",
+      "date": "2026-08-09",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
-        "excelRow": 175
-      },
-      "note": "디자인학부 한혜진"
-    }
-  ],
-  "1318624353": [
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 100
-      },
-      "note": "정현국 연구소장(1인)"
-    }
-  ],
-  "8508703475": [
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 101
-      },
-      "note": "정유섭 대표(1인)"
-    }
-  ],
-  "8118802783": [
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 103
-      },
-      "note": "김범수 대표(1인)"
-    }
-  ],
-  "2808703676": [
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 105
-      },
-      "note": "정지윤 실장, 정은정 팀장(2인)"
-    }
-  ],
-  "1690203028": [
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 106
-      },
-      "note": "최영석 대표(1인)"
-    }
-  ],
-  "5598700046": [
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
-      "source": {
-        "excelRow": 107
-      },
-      "note": "박태근 상무, 최윤성 책임(2인)"
-    },
-    {
-      "date": "2026-05-01",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
-      "source": {
-        "excelRow": 154
+        "excelRow": 97
       }
     }
   ],
-  "4178153742": [
+  "2238135891": [
     {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2026-08-09",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 98
+      }
+    }
+  ],
+  "2238187834": [
+    {
+      "date": "2026-08-16",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 99
+      }
+    }
+  ],
+  "2238602288": [
+    {
+      "date": "2026-08-16",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 100
+      }
+    }
+  ],
+  "2238625906": [
+    {
+      "date": "2026-08-23",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 101
+      }
+    }
+  ],
+  "2238701574": [
+    {
+      "date": "2026-08-23",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 102
+      }
+    }
+  ],
+  "2248102377": [
+    {
+      "date": "2026-08-30",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 103
+      }
+    }
+  ],
+  "2248135891": [
+    {
+      "date": "2026-08-30",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 104
+      }
+    }
+  ],
+  "2248187834": [
+    {
+      "date": "2026-09-06",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 105
+      }
+    }
+  ],
+  "2248602288": [
+    {
+      "date": "2026-09-06",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 106
+      }
+    }
+  ],
+  "2248625906": [
+    {
+      "date": "2026-09-13",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 107
+      }
+    }
+  ],
+  "2248701574": [
+    {
+      "date": "2026-09-13",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 108
+      }
+    }
+  ],
+  "2258102377": [
+    {
+      "date": "2026-09-20",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 109
+      }
+    }
+  ],
+  "2258135891": [
+    {
+      "date": "2026-09-20",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 110
+      }
+    }
+  ],
+  "2258187834": [
+    {
+      "date": "2026-09-27",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 111
-      },
-      "note": "곽제곤 대표(1인)"
-    },
+      }
+    }
+  ],
+  "2258602288": [
     {
-      "date": "2026-08-24",
+      "date": "2026-09-27",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
-        "excelRow": 197
-      },
-      "note": "임베디드시스템공학과 전광길"
+        "excelRow": 112
+      }
     }
   ],
-  "6478103839": [
+  "2258625906": [
     {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2026-10-04",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 113
-      },
-      "note": "유주연 대표(1인)"
-    },
+      }
+    }
+  ],
+  "2258701574": [
     {
-      "date": "2026-04-22",
+      "date": "2026-10-04",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 177
-      },
-      "note": "화학과 강동구"
-    }
-  ],
-  "7518801352": [
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 114
-      },
-      "note": "이상원 이사(1인)"
-    },
+      }
+    }
+  ],
+  "2268102377": [
     {
-      "date": "2026-02-26",
+      "date": "2026-10-11",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 161
-      },
-      "note": "컴퓨터공학부 이장호"
-    }
-  ],
-  "2958703488": [
-    {
-      "date": "2026-02-04",
-      "type": "간담회",
-      "title": "제3차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 115
-      },
-      "note": "박아영 대표(1인)"
-    },
+      }
+    }
+  ],
+  "2268135891": [
     {
-      "date": "2026-03-27",
+      "date": "2026-10-11",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 172
-      },
-      "note": "임베디드시스템공학과 전광길"
-    }
-  ],
-  "1398142253": [
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 116
-      },
-      "note": "이미란 책임(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 215
-      },
-      "note": "이미란 책임(1인)"
+      }
     }
   ],
-  "1318607747": [
+  "2268187834": [
     {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 117
-      },
-      "note": "신무화 대표이사(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 216
-      },
-      "note": "신무화 대표이사(1인)"
-    }
-  ],
-  "1370463590": [
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 119
-      },
-      "note": "김창연 실장, 양승령 팀장(2인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 218
-      },
-      "note": "김창연 실장, 양승령 팀장(2인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 247
-      },
-      "note": "신주희 주임(1인)"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 258
-      },
-      "note": "신주희 주임(1인)"
-    }
-  ],
-  "1398110843": [
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 120
-      },
-      "note": "이미호 대표이사(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 219
-      },
-      "note": "이미호 대표이사(1인)"
-    }
-  ],
-  "1318633959": [
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 121
-      },
-      "note": "김재인 과장(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 220
-      },
-      "note": "김재인 과장(1인)"
-    }
-  ],
-  "1168602909": [
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 122
-      },
-      "note": "박유진 실정, 김지예 사원, 이길은 사원(3인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 221
-      },
-      "note": "박유진 실정, 김지예 사원, 이길은 사원(3인)"
-    }
-  ],
-  "3401802105": [
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 124
-      },
-      "note": "백영지 이사(1인)"
-    },
-    {
-      "date": "2026-08-20",
+      "date": "2026-10-18",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
-        "excelRow": 196
-      },
-      "note": "컴퓨터공학부 김인수"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 223
-      },
-      "note": "백영지 이사(1인)"
+        "excelRow": 117
+      }
     }
   ],
-  "1398125536": [
+  "2268602288": [
     {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
+      "date": "2026-10-18",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 118
+      }
+    }
+  ],
+  "2268625906": [
+    {
+      "date": "2026-10-25",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 119
+      }
+    }
+  ],
+  "2268701574": [
+    {
+      "date": "2026-10-25",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 120
+      }
+    }
+  ],
+  "2278102377": [
+    {
+      "date": "2026-11-01",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 121
+      }
+    }
+  ],
+  "2278135891": [
+    {
+      "date": "2026-11-01",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 122
+      }
+    }
+  ],
+  "2278187834": [
+    {
+      "date": "2026-11-08",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 123
+      }
+    }
+  ],
+  "2278602288": [
+    {
+      "date": "2026-11-08",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 124
+      }
+    }
+  ],
+  "2278625906": [
+    {
+      "date": "2026-11-15",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 125
+      }
+    }
+  ],
+  "2278701574": [
+    {
+      "date": "2026-11-15",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 126
-      },
-      "note": "정영훈 과장(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 225
-      },
-      "note": "정영훈 과장(1인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 244
-      },
-      "note": "장영훈 과장, 연동환 과장(2인)"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 255
-      },
-      "note": "장영훈 과장, 연동환 과장(2인)"
+      }
     }
   ],
-  "1608801240": [
+  "2288102377": [
     {
-      "date": "2025-12-26",
-      "type": "발전기금",
-      "title": "산학협력단 발전기금",
-      "result": "산학협력단 발전기금(1호)",
+      "date": "2026-11-22",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "발전기금 영수증",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 127
-      },
-      "note": "김대훈 대표(베이직)"
-    },
+      }
+    }
+  ],
+  "2288135891": [
     {
-      "date": "2025-08-18",
-      "type": "R&D과제",
-      "title": "AI 글로벌 빅테크 육성사업(경쟁형 R&BD)",
-      "result": "연구성과",
-      "dept": "연구지원팀",
-      "owner": "노마로",
-      "evidenceUrl": "과제번호(202504130001)",
+      "date": "2026-11-22",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 128
+      }
+    }
+  ],
+  "2288187834": [
+    {
+      "date": "2026-11-29",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 129
+      }
+    }
+  ],
+  "2288602288": [
+    {
+      "date": "2026-11-29",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 130
+      }
+    }
+  ],
+  "2288625906": [
+    {
+      "date": "2026-12-06",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 131
+      }
+    }
+  ],
+  "2288701574": [
+    {
+      "date": "2026-12-06",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 132
+      }
+    }
+  ],
+  "2298102377": [
+    {
+      "date": "2026-12-13",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 133
+      }
+    }
+  ],
+  "2298135891": [
+    {
+      "date": "2026-12-13",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 134
+      }
+    }
+  ],
+  "2298187834": [
+    {
+      "date": "2026-12-20",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 135
+      }
+    }
+  ],
+  "2298602288": [
+    {
+      "date": "2026-12-20",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 136
+      }
+    }
+  ],
+  "2298625906": [
+    {
+      "date": "2026-12-27",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 137
-      },
-      "note": "임베디드시스템공학과 전광길 교수"
-    },
+      }
+    }
+  ],
+  "2298701574": [
     {
-      "date": "2025-08-05",
-      "type": "기술이전",
-      "title": "기술이전Ⅰ",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
+      "date": "2026-12-27",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 138
       }
-    },
+    }
+  ],
+  "2308102377": [
     {
-      "date": "2025-08-05",
-      "type": "기술이전",
-      "title": "기술이전Ⅱ",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "",
+      "date": "2027-01-03",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 139
       }
     }
   ],
-  "1371989497": [
+  "2308135891": [
     {
-      "date": "2025-12-31",
-      "type": "발전기금",
-      "title": "산학협력단 발전기금",
-      "result": "산학협력단 발전기금(3호)",
+      "date": "2027-01-03",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "발전기금 영수증",
-      "source": {
-        "excelRow": 129
-      },
-      "note": "임현정 대표(베이직)"
-    }
-  ],
-  "2648703198": [
-    {
-      "date": "2025-11-30",
-      "type": "R&D과제",
-      "title": "산학공동기술개발",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 140
       }
     }
   ],
-  "1398125803": [
+  "2308187834": [
     {
-      "date": "2026-06-30",
-      "type": "R&D과제",
-      "title": "산학공동기술개발",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "date": "2027-01-10",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 141
       }
-    },
+    }
+  ],
+  "2308602288": [
     {
-      "date": "2027-04-30",
-      "type": "R&D과제",
-      "title": "산학공동기술개발",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "date": "2027-01-10",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
-        "excelRow": 147
+        "excelRow": 142
       }
     }
   ],
-  "3128143672": [
+  "2308625906": [
     {
-      "date": "2026-05-30",
-      "type": "R&D과제",
-      "title": "산학공동기술개발",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "date": "2027-01-17",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 143
       }
     }
   ],
-  "1228194563": [
+  "2308701574": [
     {
-      "date": "2026-08-31",
-      "type": "R&D과제",
-      "title": "산학공동기술개발",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "date": "2027-01-17",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 144
+      }
+    }
+  ],
+  "2318102377": [
+    {
+      "date": "2027-01-24",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 145
       }
     }
   ],
-  "1138143191": [
+  "2318135891": [
     {
-      "date": "2025-06-18",
-      "type": "R&D과제",
-      "title": "산학공동기술개발",
-      "result": "기술이전 및 연구성과",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "date": "2027-01-24",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 146
       }
     }
   ],
-  "7528601609": [
+  "2318187834": [
     {
-      "date": "2024-08-14",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "date": "2027-01-31",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 147
+      }
+    }
+  ],
+  "2318602288": [
+    {
+      "date": "2027-01-31",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 148
       }
     }
   ],
-  "1398111459": [
+  "2318625906": [
     {
-      "date": "2026-01-21",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "date": "2027-02-07",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 149
       }
     }
   ],
-  "6598703192": [
+  "2318701574": [
     {
-      "date": "2026-04-21",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "date": "2027-02-07",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 150
+      }
+    }
+  ],
+  "2328102377": [
+    {
+      "date": "2027-02-14",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 151
+      }
+    }
+  ],
+  "2328135891": [
+    {
+      "date": "2027-02-14",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 152
       }
     }
   ],
-  "1238139826": [
+  "2328187834": [
     {
-      "date": "2026-05-01",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "date": "2027-02-21",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 153
       }
     }
   ],
-  "4398800375": [
+  "2328602288": [
     {
-      "date": "2026-05-01",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
-      "source": {
-        "excelRow": 155
-      }
-    },
-    {
-      "date": "2026-06-25",
+      "date": "2027-02-21",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
-        "excelRow": 188
-      },
-      "note": "바이오-로봇시스템공학과 박기원"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
-      "source": {
-        "excelRow": 214
-      },
-      "note": "장응하 전무(1인)"
+        "excelRow": 154
+      }
     }
   ],
-  "1108186871": [
+  "2328625906": [
     {
-      "date": "2026-05-01",
-      "type": "기술이전",
-      "title": "기술이전",
-      "result": "협약서",
-      "dept": "기술사업화팀",
-      "owner": "김지현",
-      "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
+      "date": "2027-02-28",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 155
+      }
+    }
+  ],
+  "2328701574": [
+    {
+      "date": "2027-02-28",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 156
       }
     }
   ],
-  "1318190799": [
+  "2338102377": [
     {
-      "date": "2025-01-08",
-      "type": "발전기금",
-      "title": "산학협력단 발전기금",
-      "result": "산학협력단 발전기금",
+      "date": "2027-03-07",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "발전기금 영수증",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 157
       }
     }
   ],
-  "1348173163": [
+  "2338135891": [
     {
-      "date": "2026-02-24",
+      "date": "2027-03-07",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 158
+      }
+    }
+  ],
+  "2338187834": [
+    {
+      "date": "2027-03-14",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 159
-      },
-      "note": "기계공학과 박형범"
-    },
-    {
-      "date": "2026-05-27",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 183
-      },
-      "note": "기계공학과 박형범"
-    },
-    {
-      "date": "2026-06-24",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 187
-      },
-      "note": "기계공학과 박형범"
-    },
-    {
-      "date": "2026-07-28",
-      "type": "애로컨설팅",
-      "title": "인천대학교 애로컨설팅 지원사업",
-      "result": "애로 컨설팅 지원",
-      "dept": "산학협력팀",
-      "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
-      "source": {
-        "excelRow": 194
-      },
-      "note": "기계공학과 박형범"
-    },
-    {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 231
-      },
-      "note": "손진수 연구원, 한지훈 책임연구원(2인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 241
-      },
-      "note": "손진수 연구원, 한지훈 책임연구원(2인)"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 253
-      },
-      "note": "손진수 연구원, 한지훈 책임연구원(2인)"
+      }
     }
   ],
-  "8293700765": [
+  "2338602288": [
     {
-      "date": "2026-02-25",
+      "date": "2027-03-14",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 160
-      },
-      "note": "산학협력중점교수 임원경"
+      }
     }
   ],
-  "2538802202": [
+  "2338625906": [
     {
-      "date": "2026-02-26",
+      "date": "2027-03-21",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 161
+      }
+    }
+  ],
+  "2338701574": [
+    {
+      "date": "2027-03-21",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 162
+      }
+    }
+  ],
+  "2348102377": [
+    {
+      "date": "2027-03-28",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 163
-      },
-      "note": "산학협력중점교수 임원경"
+      }
     }
   ],
-  "6458101723": [
+  "2348135891": [
     {
-      "date": "2026-02-26",
+      "date": "2027-03-28",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 164
-      },
-      "note": "산업경영공학과 김재곤"
+      }
     }
   ],
-  "4018602073": [
+  "2348187834": [
     {
-      "date": "2026-03-09",
+      "date": "2027-04-04",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 165
+      }
+    }
+  ],
+  "2348602288": [
+    {
+      "date": "2027-04-04",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 166
+      }
+    }
+  ],
+  "2348625906": [
+    {
+      "date": "2027-04-11",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 167
-      },
-      "note": "임베디드시스템공학과 전광길"
+      }
     }
   ],
-  "7728800234": [
+  "2348701574": [
     {
-      "date": "2026-03-16",
+      "date": "2027-04-11",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 168
+      }
+    }
+  ],
+  "2358102377": [
+    {
+      "date": "2027-04-18",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 169
-      },
-      "note": "임베디드시스템공학과 전광길"
+      }
     }
   ],
-  "2218151779": [
+  "2358135891": [
     {
-      "date": "2026-03-31",
+      "date": "2027-04-18",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 170
+      }
+    }
+  ],
+  "2358187834": [
+    {
+      "date": "2027-04-25",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 171
+      }
+    }
+  ],
+  "2358602288": [
+    {
+      "date": "2027-04-25",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 172
+      }
+    }
+  ],
+  "2358625906": [
+    {
+      "date": "2027-05-02",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 173
+      }
+    }
+  ],
+  "2358701574": [
+    {
+      "date": "2027-05-02",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 174
-      },
-      "note": "화학과 김진호"
+      }
     }
   ],
-  "4281201200": [
+  "2368102377": [
     {
-      "date": "2026-05-06",
+      "date": "2027-05-09",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 175
+      }
+    }
+  ],
+  "2368135891": [
+    {
+      "date": "2027-05-09",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 176
+      }
+    }
+  ],
+  "2368187834": [
+    {
+      "date": "2027-05-16",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 177
+      }
+    }
+  ],
+  "2368602288": [
+    {
+      "date": "2027-05-16",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 178
-      },
-      "note": "디자인학부 안혜신"
+      }
     }
   ],
-  "5618603239": [
+  "2368625906": [
     {
-      "date": "2026-05-06",
+      "date": "2027-05-23",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 179
-      },
-      "note": "디자인학부 안혜신"
+      }
     }
   ],
-  "4168801352": [
+  "2368701574": [
     {
-      "date": "2026-05-27",
+      "date": "2027-05-23",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 180
+      }
+    }
+  ],
+  "2378102377": [
+    {
+      "date": "2027-05-30",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 181
-      },
-      "note": "기계공학과 이동길"
+      }
     }
   ],
-  "1018673756": [
+  "2378135891": [
     {
-      "date": "2026-05-27",
+      "date": "2027-05-30",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 182
-      },
-      "note": "산업경영공학과 김병수"
+      }
     }
   ],
-  "1398139248": [
+  "2378187834": [
     {
-      "date": "2026-06-05",
+      "date": "2027-06-06",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 183
+      }
+    }
+  ],
+  "2378602288": [
+    {
+      "date": "2027-06-06",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 184
-      },
-      "note": "경영학부 박현준"
+      }
     }
   ],
-  "8272601291": [
+  "2378625906": [
     {
-      "date": "2026-06-17",
+      "date": "2027-06-13",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 185
+      }
+    }
+  ],
+  "2378701574": [
+    {
+      "date": "2027-06-13",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 186
-      },
-      "note": "임베디드시스템공학과 전광길"
+      }
     }
   ],
-  "6188129258": [
+  "2388102377": [
     {
-      "date": "2026-06-30",
+      "date": "2027-06-20",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 187
+      }
+    }
+  ],
+  "2388135891": [
+    {
+      "date": "2027-06-20",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 188
+      }
+    }
+  ],
+  "2388187834": [
+    {
+      "date": "2027-06-27",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 189
-      },
-      "note": "디자인학부 안혜신"
+      }
     }
   ],
-  "2428104142": [
+  "2388602288": [
     {
-      "date": "2026-07-02",
+      "date": "2027-06-27",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 190
+      }
+    }
+  ],
+  "2388625906": [
+    {
+      "date": "2027-07-04",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 191
-      },
-      "note": "전기공학과 이명훈"
+      }
     }
   ],
-  "1308115706": [
+  "2388701574": [
     {
-      "date": "2026-07-08",
+      "date": "2027-07-04",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 192
-      },
-      "note": "산학협력중점교수 유순동"
+      }
     }
   ],
-  "2148758927": [
+  "2398102377": [
     {
-      "date": "2026-07-09",
+      "date": "2027-07-11",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 193
-      },
-      "note": "산업경영공학과 류도현"
+      }
     }
   ],
-  "4698603312": [
+  "2398135891": [
     {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2027-07-11",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 194
+      }
+    }
+  ],
+  "2398187834": [
+    {
+      "date": "2027-07-18",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 195
+      }
+    }
+  ],
+  "2398602288": [
+    {
+      "date": "2027-07-18",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 196
+      }
+    }
+  ],
+  "2398625906": [
+    {
+      "date": "2027-07-25",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 197
+      }
+    }
+  ],
+  "2398701574": [
+    {
+      "date": "2027-07-25",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 198
+      }
+    }
+  ],
+  "2408102377": [
+    {
+      "date": "2027-08-01",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 199
+      }
+    }
+  ],
+  "2408135891": [
+    {
+      "date": "2027-08-01",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 200
-      },
-      "note": "박선영 대표, 김성진 본부장(2인)"
+      }
     }
   ],
-  "1228625149": [
+  "2408187834": [
     {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2027-08-08",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 201
+      }
+    }
+  ],
+  "2408602288": [
+    {
+      "date": "2027-08-08",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 202
+      }
+    }
+  ],
+  "2408625906": [
+    {
+      "date": "2027-08-15",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 203
+      }
+    }
+  ],
+  "2408701574": [
+    {
+      "date": "2027-08-15",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 204
-      },
-      "note": "손금석 전무이사, 박세진 이사(2인)"
-    },
-    {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 233
-      },
-      "note": "손금석 전무이사, 박세진 이사(2인)"
+      }
     }
   ],
-  "1098191393": [
+  "2418102377": [
     {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2027-08-22",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 205
+      }
+    }
+  ],
+  "2418135891": [
+    {
+      "date": "2027-08-22",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 206
+      }
+    }
+  ],
+  "2418187834": [
+    {
+      "date": "2027-08-29",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 207
-      },
-      "note": "방근석 부장(1인)"
+      }
     }
   ],
-  "1218193071": [
+  "2418602288": [
     {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2027-08-29",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 208
+      }
+    }
+  ],
+  "2418625906": [
+    {
+      "date": "2027-09-05",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 209
+      }
+    }
+  ],
+  "2418701574": [
+    {
+      "date": "2027-09-05",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 210
-      },
-      "note": "류형준 대표(1인)"
+      }
     }
   ],
-  "1368118924": [
+  "2428102377": [
     {
-      "date": "2026-05-19",
-      "type": "간담회",
-      "title": "제4차 유료 가족회사 간담회",
-      "result": "유료 가족회사 간 상호 협력체계 마련",
+      "date": "2027-09-12",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
       "owner": "서영주",
-      "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고 ",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 211
+      }
+    }
+  ],
+  "2428135891": [
+    {
+      "date": "2027-09-12",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 212
+      }
+    }
+  ],
+  "2428187834": [
+    {
+      "date": "2027-09-19",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 213
-      },
-      "note": "김준태 부사장, 심승찬 이사(2인)"
+      }
     }
   ],
-  "1318194548": [
+  "2428602288": [
     {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
+      "date": "2027-09-19",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 214
+      }
+    }
+  ],
+  "2428625906": [
+    {
+      "date": "2027-09-26",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 215
+      }
+    }
+  ],
+  "2428701574": [
+    {
+      "date": "2027-09-26",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 216
+      }
+    }
+  ],
+  "2438102377": [
+    {
+      "date": "2027-10-03",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 217
+      }
+    }
+  ],
+  "2438135891": [
+    {
+      "date": "2027-10-03",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 218
+      }
+    }
+  ],
+  "2438187834": [
+    {
+      "date": "2027-10-10",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 219
+      }
+    }
+  ],
+  "2438602288": [
+    {
+      "date": "2027-10-10",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 220
+      }
+    }
+  ],
+  "2438625906": [
+    {
+      "date": "2027-10-17",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 221
+      }
+    }
+  ],
+  "2438701574": [
+    {
+      "date": "2027-10-17",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 222
+      }
+    }
+  ],
+  "2448102377": [
+    {
+      "date": "2027-10-24",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 223
+      }
+    }
+  ],
+  "2448135891": [
+    {
+      "date": "2027-10-24",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 224
+      }
+    }
+  ],
+  "2448187834": [
+    {
+      "date": "2027-10-31",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 225
+      }
+    }
+  ],
+  "2448602288": [
+    {
+      "date": "2027-10-31",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 226
+      }
+    }
+  ],
+  "2448625906": [
+    {
+      "date": "2027-11-07",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 227
+      }
+    }
+  ],
+  "2448701574": [
+    {
+      "date": "2027-11-07",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 228
+      }
+    }
+  ],
+  "2458102377": [
+    {
+      "date": "2027-11-14",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 229
+      }
+    }
+  ],
+  "2458135891": [
+    {
+      "date": "2027-11-14",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 230
+      }
+    }
+  ],
+  "2458187834": [
+    {
+      "date": "2027-11-21",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 231
+      }
+    }
+  ],
+  "2458602288": [
+    {
+      "date": "2027-11-21",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 232
-      },
-      "note": "황현지 주임, 김재연 과장(2인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 243
-      },
-      "note": "황현지 주임, 김재연 과장(2인)"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 254
-      },
-      "note": "황현지 주임, 김재연 과장(2인)"
+      }
     }
   ],
-  "1318157878": [
+  "2458625906": [
     {
-      "date": "2026-04-28",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
+      "date": "2027-11-28",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 233
+      }
+    }
+  ],
+  "2458701574": [
+    {
+      "date": "2027-11-28",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 234
+      }
+    }
+  ],
+  "2468102377": [
+    {
+      "date": "2027-12-05",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 235
+      }
+    }
+  ],
+  "2468135891": [
+    {
+      "date": "2027-12-05",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
         "excelRow": 236
-      },
-      "note": "전현수 사원(1인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 249
-      },
-      "note": "전현수 사원(1인)"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 260
-      },
-      "note": "전현수 사원(1인)"
+      }
     }
   ],
-  "1398100379": [
+  "2468187834": [
     {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
+      "date": "2027-12-12",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
-        "excelRow": 250
-      },
-      "note": "이선구 대리(1인)"
-    },
+        "excelRow": 237
+      }
+    }
+  ],
+  "2468602288": [
     {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
+      "date": "2027-12-12",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
       "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
       "source": {
-        "excelRow": 259
-      },
-      "note": "이선구 대리(1인)"
+        "excelRow": 238
+      }
+    }
+  ],
+  "2468625906": [
+    {
+      "date": "2027-12-19",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 239
+      }
+    }
+  ],
+  "2468701574": [
+    {
+      "date": "2027-12-19",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 240
+      }
+    }
+  ],
+  "2478102377": [
+    {
+      "date": "2027-12-26",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 241
+      }
+    }
+  ],
+  "2478135891": [
+    {
+      "date": "2027-12-26",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 242
+      }
+    }
+  ],
+  "2478187834": [
+    {
+      "date": "2028-01-02",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 243
+      }
+    }
+  ],
+  "2478602288": [
+    {
+      "date": "2028-01-02",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 244
+      }
+    }
+  ],
+  "2478625906": [
+    {
+      "date": "2028-01-09",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 245
+      }
+    }
+  ],
+  "2478701574": [
+    {
+      "date": "2028-01-09",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 246
+      }
+    }
+  ],
+  "2488102377": [
+    {
+      "date": "2028-01-16",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 247
+      }
+    }
+  ],
+  "2488135891": [
+    {
+      "date": "2028-01-16",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 248
+      }
+    }
+  ],
+  "2488187834": [
+    {
+      "date": "2028-01-23",
+      "type": "애로컨설팅",
+      "title": "인천대학교 애로컨설팅 지원사업",
+      "result": "애로 컨설팅 지원",
+      "dept": "산학협력팀",
+      "owner": "서영주",
+      "evidenceUrl": "애로 컨설팅 지원",
+      "source": {
+        "excelRow": 249
+      }
     }
   ]
 };
