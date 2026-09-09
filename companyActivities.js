@@ -65,7 +65,7 @@ window.companyActivitiesByBizNo = {
       "note": "이창연"
     },
     {
-      "date": "2025-10-18 00:00:00",
+      "date": "2025-10-18",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -93,7 +93,7 @@ window.companyActivitiesByBizNo = {
       "note": "안호선"
     },
     {
-      "date": "2025-10-28 00:00:00",
+      "date": "2025-10-28",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -106,7 +106,7 @@ window.companyActivitiesByBizNo = {
       "note": "김지범"
     },
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -119,7 +119,7 @@ window.companyActivitiesByBizNo = {
       "note": "이승수 대표(1인)"
     },
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -132,7 +132,7 @@ window.companyActivitiesByBizNo = {
       "note": "이승수 대표이사, 이지안 대리(2인)"
     },
     {
-      "date": "2026-06-05 00:00:00",
+      "date": "2026-06-05",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -220,7 +220,7 @@ window.companyActivitiesByBizNo = {
       "note": "안혜신"
     },
     {
-      "date": "2025-01-02 00:00:00",
+      "date": "2025-01-02",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -232,7 +232,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -245,7 +245,7 @@ window.companyActivitiesByBizNo = {
       "note": "박민수 연구원, 원승연 대리, 이유란 대리(3인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -258,7 +258,7 @@ window.companyActivitiesByBizNo = {
       "note": "박재선 부장, 원승연 대리, 이유란 대리(3인)"
     },
     {
-      "date": "2026-06-16 00:00:00",
+      "date": "2026-06-16",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
@@ -286,7 +286,7 @@ window.companyActivitiesByBizNo = {
       "note": "왕린"
     },
     {
-      "date": "2025-12-22 00:00:00",
+      "date": "2025-12-22",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -314,7 +314,7 @@ window.companyActivitiesByBizNo = {
       "note": "오태근"
     },
     {
-      "date": "2025-11-10 00:00:00",
+      "date": "2025-11-10",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -341,7 +341,7 @@ window.companyActivitiesByBizNo = {
       "note": "임원경"
     },
     {
-      "date": "2026-03-27 00:00:00",
+      "date": "2026-03-27",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -369,7 +369,7 @@ window.companyActivitiesByBizNo = {
       "note": "전광길"
     },
     {
-      "date": "2026-03-20 00:00:00",
+      "date": "2026-03-20",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -412,7 +412,7 @@ window.companyActivitiesByBizNo = {
       "note": "최현규"
     },
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -425,7 +425,7 @@ window.companyActivitiesByBizNo = {
       "note": "최근욱 팀장(1인)"
     },
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -438,7 +438,7 @@ window.companyActivitiesByBizNo = {
       "note": "최근욱 팀장(1인)"
     },
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -451,7 +451,7 @@ window.companyActivitiesByBizNo = {
       "note": "김혜린 직원(1인)"
     },
     {
-      "date": "2026-05-15 00:00:00",
+      "date": "2026-05-15",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -464,7 +464,7 @@ window.companyActivitiesByBizNo = {
       "note": "전기공학과 최현규"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -477,7 +477,7 @@ window.companyActivitiesByBizNo = {
       "note": "김혜린 차장, 최재명 책임(2인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -507,7 +507,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1228609659": [
     {
-      "date": "2025-06-27 00:00:00",
+      "date": "2025-06-27",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -522,7 +522,7 @@ window.companyActivitiesByBizNo = {
   ],
   "5578702280": [
     {
-      "date": "2025-07-15 00:00:00",
+      "date": "2025-07-15",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -537,7 +537,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318625935": [
     {
-      "date": "2025-07-18 00:00:00",
+      "date": "2025-07-18",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -550,7 +550,7 @@ window.companyActivitiesByBizNo = {
       "note": "강상혁"
     },
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -565,7 +565,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1370860500": [
     {
-      "date": "2025-07-19 00:00:00",
+      "date": "2025-07-19",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -578,7 +578,7 @@ window.companyActivitiesByBizNo = {
       "note": "임원경"
     },
     {
-      "date": "2026-03-06 00:00:00",
+      "date": "2026-03-06",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -593,7 +593,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1828700910": [
     {
-      "date": "2025-09-10 00:00:00",
+      "date": "2025-09-10",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -606,7 +606,7 @@ window.companyActivitiesByBizNo = {
       "note": "안혜신"
     },
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -621,7 +621,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1398119806": [
     {
-      "date": "2025-09-22 00:00:00",
+      "date": "2025-09-22",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -636,7 +636,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1088191594": [
     {
-      "date": "2025-09-29 00:00:00",
+      "date": "2025-09-29",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -649,7 +649,7 @@ window.companyActivitiesByBizNo = {
       "note": "김태민"
     },
     {
-      "date": "2026-04-21 00:00:00",
+      "date": "2026-04-21",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -664,7 +664,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1228166806": [
     {
-      "date": "2025-09-29 00:00:00",
+      "date": "2025-09-29",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -677,7 +677,7 @@ window.companyActivitiesByBizNo = {
       "note": "최승식"
     },
     {
-      "date": "2025-12-01 00:00:00",
+      "date": "2025-12-01",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -690,7 +690,7 @@ window.companyActivitiesByBizNo = {
       "note": "유순동"
     },
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -703,7 +703,7 @@ window.companyActivitiesByBizNo = {
       "note": "이시영 실장(1인)"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -716,7 +716,7 @@ window.companyActivitiesByBizNo = {
       "note": "이시영 실장(1인)"
     },
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -729,7 +729,7 @@ window.companyActivitiesByBizNo = {
       "note": "이선영 대리(1인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -744,7 +744,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1083136112": [
     {
-      "date": "2025-10-03 00:00:00",
+      "date": "2025-10-03",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -757,7 +757,7 @@ window.companyActivitiesByBizNo = {
       "note": "김지범"
     },
     {
-      "date": "2026-07-02 00:00:00",
+      "date": "2026-07-02",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -770,7 +770,7 @@ window.companyActivitiesByBizNo = {
       "note": "산학협력중점교수 유순동"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -785,7 +785,7 @@ window.companyActivitiesByBizNo = {
   ],
   "5808603225": [
     {
-      "date": "2025-10-11 00:00:00",
+      "date": "2025-10-11",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -800,7 +800,7 @@ window.companyActivitiesByBizNo = {
   ],
   "8468101796": [
     {
-      "date": "2025-10-13 00:00:00",
+      "date": "2025-10-13",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -813,7 +813,7 @@ window.companyActivitiesByBizNo = {
       "note": "김도엽"
     },
     {
-      "date": "2026-03-06 00:00:00",
+      "date": "2026-03-06",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -828,7 +828,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1378101784": [
     {
-      "date": "2025-10-19 00:00:00",
+      "date": "2025-10-19",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -841,7 +841,7 @@ window.companyActivitiesByBizNo = {
       "note": "이종헌"
     },
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -866,7 +866,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2025-12-11 00:00:00",
+      "date": "2025-12-11",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -879,7 +879,7 @@ window.companyActivitiesByBizNo = {
       "note": "바이오-로봇시스템공학과 김우용"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -894,7 +894,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2478802513": [
     {
-      "date": "2025-10-24 00:00:00",
+      "date": "2025-10-24",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -909,7 +909,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1313449340": [
     {
-      "date": "2025-11-07 00:00:00",
+      "date": "2025-11-07",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -922,7 +922,7 @@ window.companyActivitiesByBizNo = {
       "note": "류도현"
     },
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -937,7 +937,7 @@ window.companyActivitiesByBizNo = {
   ],
   "4228103905": [
     {
-      "date": "2025-11-11 00:00:00",
+      "date": "2025-11-11",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -950,7 +950,7 @@ window.companyActivitiesByBizNo = {
       "note": "이승정"
     },
     {
-      "date": "2025-05-29 00:00:00",
+      "date": "2025-05-29",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -964,7 +964,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1302830793": [
     {
-      "date": "2025-11-16 00:00:00",
+      "date": "2025-11-16",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -979,7 +979,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1068611978": [
     {
-      "date": "2025-11-29 00:00:00",
+      "date": "2025-11-29",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -992,7 +992,7 @@ window.companyActivitiesByBizNo = {
       "note": "최병길"
     },
     {
-      "date": "2025-09-19 00:00:00",
+      "date": "2025-09-19",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -1004,7 +1004,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2025-09-22 00:00:00",
+      "date": "2025-09-22",
       "type": "R&D과제",
       "title": "[RISE]산학공동기술개발과제",
       "result": "기술이전 및 연구성과",
@@ -1019,7 +1019,7 @@ window.companyActivitiesByBizNo = {
   ],
   "6248603127": [
     {
-      "date": "2026-01-05 00:00:00",
+      "date": "2026-01-05",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1034,7 +1034,7 @@ window.companyActivitiesByBizNo = {
   ],
   "3238100329": [
     {
-      "date": "2026-01-09 00:00:00",
+      "date": "2026-01-09",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1049,7 +1049,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1438129550": [
     {
-      "date": "2026-01-09 00:00:00",
+      "date": "2026-01-09",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1064,7 +1064,7 @@ window.companyActivitiesByBizNo = {
   ],
   "5048801324": [
     {
-      "date": "2026-01-16 00:00:00",
+      "date": "2026-01-16",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1079,7 +1079,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1198689322": [
     {
-      "date": "2026-01-31 00:00:00",
+      "date": "2026-01-31",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1092,7 +1092,7 @@ window.companyActivitiesByBizNo = {
       "note": "송왕제"
     },
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1105,7 +1105,7 @@ window.companyActivitiesByBizNo = {
       "note": "이재성 대표, 김동현 연구소장 참석(2인)"
     },
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1118,7 +1118,7 @@ window.companyActivitiesByBizNo = {
       "note": "정진희 직원(1인)"
     },
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -1131,7 +1131,7 @@ window.companyActivitiesByBizNo = {
       "note": "박홍조 주임연구원, 최정은 주임, 김지현 주임(3인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -1144,7 +1144,7 @@ window.companyActivitiesByBizNo = {
       "note": "박홍조 주임연구원(1인)"
     },
     {
-      "date": "2026-06-16 00:00:00",
+      "date": "2026-06-16",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
@@ -1159,7 +1159,7 @@ window.companyActivitiesByBizNo = {
   ],
   "4938702900": [
     {
-      "date": "2026-02-02 00:00:00",
+      "date": "2026-02-02",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1174,7 +1174,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1238131687": [
     {
-      "date": "2026-02-13 00:00:00",
+      "date": "2026-02-13",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1199,7 +1199,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2026-07-28 00:00:00",
+      "date": "2026-07-28",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1214,7 +1214,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1378121631": [
     {
-      "date": "2026-02-13 00:00:00",
+      "date": "2026-02-13",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1227,7 +1227,7 @@ window.companyActivitiesByBizNo = {
       "note": "김태민"
     },
     {
-      "date": "2026-03-11 00:00:00",
+      "date": "2026-03-11",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1240,7 +1240,7 @@ window.companyActivitiesByBizNo = {
       "note": "산학협력중점교수 임원경"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1255,7 +1255,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1208615650": [
     {
-      "date": "2026-02-13 00:00:00",
+      "date": "2026-02-13",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1268,7 +1268,7 @@ window.companyActivitiesByBizNo = {
       "note": "안호선"
     },
     {
-      "date": "2027-01-31 00:00:00",
+      "date": "2027-01-31",
       "type": "R&D과제",
       "title": "산학공동기술개발",
       "result": "기술이전 및 연구성과",
@@ -1282,7 +1282,7 @@ window.companyActivitiesByBizNo = {
   ],
   "3168703048": [
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1295,7 +1295,7 @@ window.companyActivitiesByBizNo = {
       "note": "손원근 대표이사, 현봉수 CTO(2인)"
     },
     {
-      "date": "2025-08-13 00:00:00",
+      "date": "2025-08-13",
       "type": "애로컨설팅",
       "title": "2025년 인천지역 기술 멘토링 사업",
       "result": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고",
@@ -1308,7 +1308,7 @@ window.companyActivitiesByBizNo = {
       "note": "전광길 교수(멘토)"
     },
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1321,7 +1321,7 @@ window.companyActivitiesByBizNo = {
       "note": "송원근 대표이사, 김혜진 이사(2인)"
     },
     {
-      "date": "2025-09-19 00:00:00",
+      "date": "2025-09-19",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -1333,7 +1333,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1346,7 +1346,7 @@ window.companyActivitiesByBizNo = {
       "note": "현봉수 연구소장, 전승길 직원(2인)"
     },
     {
-      "date": "2025-12-30 00:00:00",
+      "date": "2025-12-30",
       "type": "발전기금",
       "title": "산학협력단 발전기금",
       "result": "산학협력단 발전기금(2호)",
@@ -1359,7 +1359,7 @@ window.companyActivitiesByBizNo = {
       "note": "손원근 대표(실버)"
     },
     {
-      "date": "2025-09-22 00:00:00",
+      "date": "2025-09-22",
       "type": "R&D과제",
       "title": "[RISE]산학공동기술개발과제",
       "result": "기술이전 및 연구성과",
@@ -1372,7 +1372,7 @@ window.companyActivitiesByBizNo = {
       "note": "임베디드시스템공학과 전광길 교수"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1387,7 +1387,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1228182903": [
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1400,7 +1400,7 @@ window.companyActivitiesByBizNo = {
       "note": "이해광 수석(1인)"
     },
     {
-      "date": "2025-03-20 00:00:00",
+      "date": "2025-03-20",
       "type": "수상",
       "title": "2025년 우수기업인 표창(비전기업협회)",
       "result": "인천비전기업협회 소속기업 총장상 표창(상반기)",
@@ -1413,7 +1413,7 @@ window.companyActivitiesByBizNo = {
       "note": "박해신"
     },
     {
-      "date": "2025-12-01 00:00:00",
+      "date": "2025-12-01",
       "type": "수상",
       "title": "2025년 우수기업인 표창(인천녹색경영자협회)",
       "result": "인천녹색경영자협회 소속기업 총장상 표창",
@@ -1426,7 +1426,7 @@ window.companyActivitiesByBizNo = {
       "note": "박해신"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1441,7 +1441,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318151063": [
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1454,7 +1454,7 @@ window.companyActivitiesByBizNo = {
       "note": "임지영 팀장(1인)"
     },
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1467,7 +1467,7 @@ window.companyActivitiesByBizNo = {
       "note": "임지영 팀장(1인)"
     },
     {
-      "date": "2025-03-20 00:00:00",
+      "date": "2025-03-20",
       "type": "수상",
       "title": "2025년 우수기업인 표창(비전기업협회)",
       "result": "인천비전기업협회 소속기업 총장상 표창(상반기)",
@@ -1480,7 +1480,7 @@ window.companyActivitiesByBizNo = {
       "note": "김충환"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1493,7 +1493,7 @@ window.companyActivitiesByBizNo = {
       "note": "오문환 상무이사(1인)"
     },
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -1506,7 +1506,7 @@ window.companyActivitiesByBizNo = {
       "note": "윤성현 과장, 이훈재 과장, 이근수 부장(3인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -1521,7 +1521,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318609371": [
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1534,7 +1534,7 @@ window.companyActivitiesByBizNo = {
       "note": "유길상 상무(1인)"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1549,7 +1549,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2388801373": [
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1564,7 +1564,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1218127227": [
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1577,7 +1577,7 @@ window.companyActivitiesByBizNo = {
       "note": "김보연 대리(1인)"
     },
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1590,7 +1590,7 @@ window.companyActivitiesByBizNo = {
       "note": "김보연 대리(1인)"
     },
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1605,7 +1605,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1228126347": [
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1618,7 +1618,7 @@ window.companyActivitiesByBizNo = {
       "note": "오학성 CTO(1인)"
     },
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1643,7 +1643,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1656,7 +1656,7 @@ window.companyActivitiesByBizNo = {
       "note": "오학성 CTO(1인)"
     },
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -1669,7 +1669,7 @@ window.companyActivitiesByBizNo = {
       "note": "심우철 수석연구원, 오학성 연구위원(2인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -1682,7 +1682,7 @@ window.companyActivitiesByBizNo = {
       "note": "이희정 연구원, 심우철 수석연구원, 오학성 연구위원(3인)"
     },
     {
-      "date": "2026-06-16 00:00:00",
+      "date": "2026-06-16",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
@@ -1697,7 +1697,7 @@ window.companyActivitiesByBizNo = {
   ],
   "6668601948": [
     {
-      "date": "2025-10-17 00:00:00",
+      "date": "2025-10-17",
       "type": "간담회",
       "title": "제2차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1710,7 +1710,7 @@ window.companyActivitiesByBizNo = {
       "note": "김우철 대표(1인)"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1725,7 +1725,7 @@ window.companyActivitiesByBizNo = {
   ],
   "5990800113": [
     {
-      "date": "2025-08-13 00:00:00",
+      "date": "2025-08-13",
       "type": "애로컨설팅",
       "title": "2025년 인천지역 기술 멘토링 사업",
       "result": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고",
@@ -1740,7 +1740,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318632815": [
     {
-      "date": "2025-08-13 00:00:00",
+      "date": "2025-08-13",
       "type": "애로컨설팅",
       "title": "2025년 인천지역 기술 멘토링 사업",
       "result": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고",
@@ -1753,7 +1753,7 @@ window.companyActivitiesByBizNo = {
       "note": "이민철 교수(멘토)"
     },
     {
-      "date": "2026-02-26 00:00:00",
+      "date": "2026-02-26",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -1768,7 +1768,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1378186158": [
     {
-      "date": "2025-08-13 00:00:00",
+      "date": "2025-08-13",
       "type": "애로컨설팅",
       "title": "2025년 인천지역 기술 멘토링 사업",
       "result": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고",
@@ -1783,7 +1783,7 @@ window.companyActivitiesByBizNo = {
   ],
   "3108125493": [
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1796,7 +1796,7 @@ window.companyActivitiesByBizNo = {
       "note": "박진현 차장(1인)"
     },
     {
-      "date": "2025-12-18 00:00:00",
+      "date": "2025-12-18",
       "type": "수상",
       "title": "2025년 우수기업인 표창(인천비전기업협회)",
       "result": "인천비전기업협회 소속기업 총장상 표창(하반기)",
@@ -1811,7 +1811,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1212523036": [
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1824,7 +1824,7 @@ window.companyActivitiesByBizNo = {
       "note": "김은주 대표(1인)"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1839,7 +1839,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2208113641": [
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1854,7 +1854,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1218604364": [
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1867,7 +1867,7 @@ window.companyActivitiesByBizNo = {
       "note": "강수민 대표, 장두진 상무이사(2인)"
     },
     {
-      "date": "2025-12-18 00:00:00",
+      "date": "2025-12-18",
       "type": "수상",
       "title": "2025년 우수기업인 표창(인천비전기업협회)",
       "result": "인천비전기업협회 소속기업 총장상 표창(하반기)",
@@ -1880,7 +1880,7 @@ window.companyActivitiesByBizNo = {
       "note": "강수민"
     },
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1893,7 +1893,7 @@ window.companyActivitiesByBizNo = {
       "note": "강수민 대표(1인)"
     },
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -1908,7 +1908,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1088121555": [
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1923,7 +1923,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1098191393": [
     {
-      "date": "2025-07-11 00:00:00",
+      "date": "2025-07-11",
       "type": "간담회",
       "title": "제1차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1936,7 +1936,7 @@ window.companyActivitiesByBizNo = {
       "note": "방근석 부장, 김정흠 부장(2인)"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -1951,7 +1951,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1228199705": [
     {
-      "date": "2025-03-20 00:00:00",
+      "date": "2025-03-20",
       "type": "수상",
       "title": "2025년 우수기업인 표창(비전기업협회)",
       "result": "인천비전기업협회 소속기업 총장상 표창(상반기)",
@@ -1966,7 +1966,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1312695553": [
     {
-      "date": "2025-12-04 00:00:00",
+      "date": "2025-12-04",
       "type": "수상",
       "title": "2025년 우수기업인 표창(인천유망기업연합회)",
       "result": "인천유망기업연합회 소속기업 총장상 표창",
@@ -1981,7 +1981,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318636223": [
     {
-      "date": "2025-12-04 00:00:00",
+      "date": "2025-12-04",
       "type": "수상",
       "title": "2025년 우수기업인 표창(인천유망기업연합회)",
       "result": "인천유망기업연합회 소속기업 총장상 표창",
@@ -1996,7 +1996,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318601383": [
     {
-      "date": "2025-12-18 00:00:00",
+      "date": "2025-12-18",
       "type": "수상",
       "title": "2025년 우수기업인 표창(인천비전기업협회)",
       "result": "인천비전기업협회 소속기업 총장상 표창(하반기)",
@@ -2011,7 +2011,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318169132": [
     {
-      "date": "2025-12-18 00:00:00",
+      "date": "2025-12-18",
       "type": "수상",
       "title": "2025년 우수기업인 표창(인천비전기업협회)",
       "result": "인천비전기업협회 소속기업 총장상 표창(하반기)",
@@ -2024,7 +2024,7 @@ window.companyActivitiesByBizNo = {
       "note": "조철연"
     },
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -2037,7 +2037,7 @@ window.companyActivitiesByBizNo = {
       "note": "송인건 이사(1인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -2050,7 +2050,7 @@ window.companyActivitiesByBizNo = {
       "note": "송인건 이사(1인)"
     },
     {
-      "date": "2026-06-16 00:00:00",
+      "date": "2026-06-16",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
@@ -2065,7 +2065,7 @@ window.companyActivitiesByBizNo = {
   ],
   "3198102124": [
     {
-      "date": "2025-05-21 00:00:00",
+      "date": "2025-05-21",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2079,7 +2079,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2958702121": [
     {
-      "date": "2025-05-26 00:00:00",
+      "date": "2025-05-26",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2093,7 +2093,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1358600130": [
     {
-      "date": "2025-07-31 00:00:00",
+      "date": "2025-07-31",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2107,7 +2107,7 @@ window.companyActivitiesByBizNo = {
   ],
   "3577100643": [
     {
-      "date": "2025-09-22 00:00:00",
+      "date": "2025-09-22",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2121,7 +2121,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1408158338": [
     {
-      "date": "2025-09-22 00:00:00",
+      "date": "2025-09-22",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2133,7 +2133,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2025-12-31 00:00:00",
+      "date": "2025-12-31",
       "type": "발전기금",
       "title": "산학협력단 발전기금",
       "result": "산학협력단 발전기금(4호)",
@@ -2146,7 +2146,7 @@ window.companyActivitiesByBizNo = {
       "note": "윤각진, 이순철 대표(골드)"
     },
     {
-      "date": "2025-09-22 00:00:00",
+      "date": "2025-09-22",
       "type": "R&D과제",
       "title": "[RISE]산학공동기술개발과제",
       "result": "기술이전 및 연구성과",
@@ -2159,7 +2159,7 @@ window.companyActivitiesByBizNo = {
       "note": "기계공학과 이강주 교수"
     },
     {
-      "date": "2026-03-25 00:00:00",
+      "date": "2026-03-25",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2174,7 +2174,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1108150688": [
     {
-      "date": "2025-09-23 00:00:00",
+      "date": "2025-09-23",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2186,7 +2186,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2025-09-22 00:00:00",
+      "date": "2025-09-22",
       "type": "R&D과제",
       "title": "[RISE]산학공동기술개발과제",
       "result": "기술이전 및 연구성과",
@@ -2201,7 +2201,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1438603496": [
     {
-      "date": "2025-09-24 00:00:00",
+      "date": "2025-09-24",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2213,7 +2213,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2025-09-22 00:00:00",
+      "date": "2025-09-22",
       "type": "R&D과제",
       "title": "[RISE]산학공동기술개발과제",
       "result": "기술이전 및 연구성과",
@@ -2228,7 +2228,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2878601707": [
     {
-      "date": "2025-09-22 00:00:00",
+      "date": "2025-09-22",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2240,7 +2240,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2025-09-22 00:00:00",
+      "date": "2025-09-22",
       "type": "R&D과제",
       "title": "[RISE]산학공동기술개발과제",
       "result": "기술이전 및 연구성과",
@@ -2255,7 +2255,7 @@ window.companyActivitiesByBizNo = {
   ],
   "3998603707": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2268,7 +2268,7 @@ window.companyActivitiesByBizNo = {
       "note": "김기훈 이사, 송요한 CVO(2인)"
     },
     {
-      "date": "2026-04-08 00:00:00",
+      "date": "2026-04-08",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2283,7 +2283,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318624353": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2298,7 +2298,7 @@ window.companyActivitiesByBizNo = {
   ],
   "8508703475": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2313,7 +2313,7 @@ window.companyActivitiesByBizNo = {
   ],
   "8118802783": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2328,7 +2328,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2808703676": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2343,7 +2343,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1690203028": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2358,7 +2358,7 @@ window.companyActivitiesByBizNo = {
   ],
   "5598700046": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2385,7 +2385,7 @@ window.companyActivitiesByBizNo = {
   ],
   "4178153742": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2398,7 +2398,7 @@ window.companyActivitiesByBizNo = {
       "note": "곽제곤 대표(1인)"
     },
     {
-      "date": "2026-08-24 00:00:00",
+      "date": "2026-08-24",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2413,7 +2413,7 @@ window.companyActivitiesByBizNo = {
   ],
   "6478103839": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2426,7 +2426,7 @@ window.companyActivitiesByBizNo = {
       "note": "유주연 대표(1인)"
     },
     {
-      "date": "2026-04-22 00:00:00",
+      "date": "2026-04-22",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2441,7 +2441,7 @@ window.companyActivitiesByBizNo = {
   ],
   "7518801352": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2454,7 +2454,7 @@ window.companyActivitiesByBizNo = {
       "note": "이상원 이사(1인)"
     },
     {
-      "date": "2026-02-26 00:00:00",
+      "date": "2026-02-26",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2469,7 +2469,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2958703488": [
     {
-      "date": "2026-02-04 00:00:00",
+      "date": "2026-02-04",
       "type": "간담회",
       "title": "제3차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2482,7 +2482,7 @@ window.companyActivitiesByBizNo = {
       "note": "박아영 대표(1인)"
     },
     {
-      "date": "2026-03-27 00:00:00",
+      "date": "2026-03-27",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2497,7 +2497,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1398142253": [
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -2512,7 +2512,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318607747": [
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -2527,7 +2527,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1370463590": [
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -2540,7 +2540,7 @@ window.companyActivitiesByBizNo = {
       "note": "김창연 실장, 양승령 팀장(2인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -2553,7 +2553,7 @@ window.companyActivitiesByBizNo = {
       "note": "신주희 주임(1인)"
     },
     {
-      "date": "2026-06-16 00:00:00",
+      "date": "2026-06-16",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
@@ -2568,7 +2568,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1398110843": [
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -2583,7 +2583,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318633959": [
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -2598,7 +2598,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1168602909": [
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -2613,7 +2613,7 @@ window.companyActivitiesByBizNo = {
   ],
   "3401802105": [
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -2626,7 +2626,7 @@ window.companyActivitiesByBizNo = {
       "note": "백영지 이사(1인)"
     },
     {
-      "date": "2026-08-20 00:00:00",
+      "date": "2026-08-20",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2641,7 +2641,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1398125536": [
     {
-      "date": "2026-01-20 00:00:00",
+      "date": "2026-01-20",
       "type": "재직자교육",
       "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상",
@@ -2654,7 +2654,7 @@ window.companyActivitiesByBizNo = {
       "note": "정영훈 과장(1인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -2667,7 +2667,7 @@ window.companyActivitiesByBizNo = {
       "note": "장영훈 과장, 연동환 과장(2인)"
     },
     {
-      "date": "2026-06-16 00:00:00",
+      "date": "2026-06-16",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
@@ -2682,7 +2682,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1608801240": [
     {
-      "date": "2025-12-26 00:00:00",
+      "date": "2025-12-26",
       "type": "발전기금",
       "title": "산학협력단 발전기금",
       "result": "산학협력단 발전기금(1호)",
@@ -2695,7 +2695,7 @@ window.companyActivitiesByBizNo = {
       "note": "김대훈 대표(베이직)"
     },
     {
-      "date": "2025-08-18 00:00:00",
+      "date": "2025-08-18",
       "type": "R&D과제",
       "title": "AI 글로벌 빅테크 육성사업(경쟁형 R&BD)",
       "result": "연구성과",
@@ -2708,7 +2708,7 @@ window.companyActivitiesByBizNo = {
       "note": "임베디드시스템공학과 전광길 교수"
     },
     {
-      "date": "2025-08-05 00:00:00",
+      "date": "2025-08-05",
       "type": "기술이전",
       "title": "기술이전Ⅰ",
       "result": "협약서",
@@ -2720,7 +2720,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2025-08-05 00:00:00",
+      "date": "2025-08-05",
       "type": "기술이전",
       "title": "기술이전Ⅱ",
       "result": "협약서",
@@ -2734,7 +2734,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1371989497": [
     {
-      "date": "2025-12-31 00:00:00",
+      "date": "2025-12-31",
       "type": "발전기금",
       "title": "산학협력단 발전기금",
       "result": "산학협력단 발전기금(3호)",
@@ -2749,7 +2749,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2648703198": [
     {
-      "date": "2025-11-30 00:00:00",
+      "date": "2025-11-30",
       "type": "R&D과제",
       "title": "산학공동기술개발",
       "result": "기술이전 및 연구성과",
@@ -2763,7 +2763,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1398125803": [
     {
-      "date": "2026-06-30 00:00:00",
+      "date": "2026-06-30",
       "type": "R&D과제",
       "title": "산학공동기술개발",
       "result": "기술이전 및 연구성과",
@@ -2899,7 +2899,7 @@ window.companyActivitiesByBizNo = {
       }
     },
     {
-      "date": "2026-06-25 00:00:00",
+      "date": "2026-06-25",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2912,7 +2912,7 @@ window.companyActivitiesByBizNo = {
       "note": "바이오-로봇시스템공학과 박기원"
     },
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -2941,7 +2941,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318190799": [
     {
-      "date": "2025-01-08 00:00:00",
+      "date": "2025-01-08",
       "type": "발전기금",
       "title": "산학협력단 발전기금",
       "result": "산학협력단 발전기금",
@@ -2955,7 +2955,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1348173163": [
     {
-      "date": "2026-02-24 00:00:00",
+      "date": "2026-02-24",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2968,7 +2968,7 @@ window.companyActivitiesByBizNo = {
       "note": "기계공학과 박형범"
     },
     {
-      "date": "2026-05-27 00:00:00",
+      "date": "2026-05-27",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2981,7 +2981,7 @@ window.companyActivitiesByBizNo = {
       "note": "기계공학과 박형범"
     },
     {
-      "date": "2026-06-24 00:00:00",
+      "date": "2026-06-24",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -2994,7 +2994,7 @@ window.companyActivitiesByBizNo = {
       "note": "기계공학과 박형범"
     },
     {
-      "date": "2026-07-28 00:00:00",
+      "date": "2026-07-28",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3007,7 +3007,7 @@ window.companyActivitiesByBizNo = {
       "note": "기계공학과 박형범"
     },
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -3020,7 +3020,7 @@ window.companyActivitiesByBizNo = {
       "note": "손진수 연구원, 한지훈 책임연구원(2인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -3033,7 +3033,7 @@ window.companyActivitiesByBizNo = {
       "note": "손진수 연구원, 한지훈 책임연구원(2인)"
     },
     {
-      "date": "2026-06-16 00:00:00",
+      "date": "2026-06-16",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
@@ -3048,7 +3048,7 @@ window.companyActivitiesByBizNo = {
   ],
   "8293700765": [
     {
-      "date": "2026-02-25 00:00:00",
+      "date": "2026-02-25",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3063,7 +3063,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2538802202": [
     {
-      "date": "2026-02-26 00:00:00",
+      "date": "2026-02-26",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3078,7 +3078,7 @@ window.companyActivitiesByBizNo = {
   ],
   "6458101723": [
     {
-      "date": "2026-02-26 00:00:00",
+      "date": "2026-02-26",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3093,7 +3093,7 @@ window.companyActivitiesByBizNo = {
   ],
   "4018602073": [
     {
-      "date": "2026-03-09 00:00:00",
+      "date": "2026-03-09",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3108,7 +3108,7 @@ window.companyActivitiesByBizNo = {
   ],
   "7728800234": [
     {
-      "date": "2026-03-16 00:00:00",
+      "date": "2026-03-16",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3123,7 +3123,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2218151779": [
     {
-      "date": "2026-03-31 00:00:00",
+      "date": "2026-03-31",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3138,7 +3138,7 @@ window.companyActivitiesByBizNo = {
   ],
   "4281201200": [
     {
-      "date": "2026-05-06 00:00:00",
+      "date": "2026-05-06",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3153,7 +3153,7 @@ window.companyActivitiesByBizNo = {
   ],
   "5618603239": [
     {
-      "date": "2026-05-06 00:00:00",
+      "date": "2026-05-06",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3168,7 +3168,7 @@ window.companyActivitiesByBizNo = {
   ],
   "4168801352": [
     {
-      "date": "2026-05-27 00:00:00",
+      "date": "2026-05-27",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3183,7 +3183,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1018673756": [
     {
-      "date": "2026-05-27 00:00:00",
+      "date": "2026-05-27",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3198,7 +3198,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1398139248": [
     {
-      "date": "2026-06-05 00:00:00",
+      "date": "2026-06-05",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3213,7 +3213,7 @@ window.companyActivitiesByBizNo = {
   ],
   "8272601291": [
     {
-      "date": "2026-06-17 00:00:00",
+      "date": "2026-06-17",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3228,7 +3228,7 @@ window.companyActivitiesByBizNo = {
   ],
   "6188129258": [
     {
-      "date": "2026-06-30 00:00:00",
+      "date": "2026-06-30",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3243,7 +3243,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2428104142": [
     {
-      "date": "2026-07-02 00:00:00",
+      "date": "2026-07-02",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3258,7 +3258,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1308115706": [
     {
-      "date": "2026-07-08 00:00:00",
+      "date": "2026-07-08",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3273,7 +3273,7 @@ window.companyActivitiesByBizNo = {
   ],
   "2148758927": [
     {
-      "date": "2026-07-09 00:00:00",
+      "date": "2026-07-09",
       "type": "애로컨설팅",
       "title": "인천대학교 애로컨설팅 지원사업",
       "result": "애로 컨설팅 지원",
@@ -3288,7 +3288,7 @@ window.companyActivitiesByBizNo = {
   ],
   "4698603312": [
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -3303,7 +3303,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1228625149": [
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -3316,7 +3316,7 @@ window.companyActivitiesByBizNo = {
       "note": "손금석 전무이사, 박세진 이사(2인)"
     },
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -3331,7 +3331,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1218193071": [
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -3346,7 +3346,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1368118924": [
     {
-      "date": "2026-05-19 00:00:00",
+      "date": "2026-05-19",
       "type": "간담회",
       "title": "제4차 유료 가족회사 간담회",
       "result": "유료 가족회사 간 상호 협력체계 마련",
@@ -3361,7 +3361,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318194548": [
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -3374,7 +3374,7 @@ window.companyActivitiesByBizNo = {
       "note": "황현지 주임, 김재연 과장(2인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -3387,7 +3387,7 @@ window.companyActivitiesByBizNo = {
       "note": "황현지 주임, 김재연 과장(2인)"
     },
     {
-      "date": "2026-06-16 00:00:00",
+      "date": "2026-06-16",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
@@ -3402,7 +3402,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1318157878": [
     {
-      "date": "2026-04-28 00:00:00",
+      "date": "2026-04-28",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(초급)",
@@ -3415,7 +3415,7 @@ window.companyActivitiesByBizNo = {
       "note": "전현수 사원(1인)"
     },
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -3428,7 +3428,7 @@ window.companyActivitiesByBizNo = {
       "note": "전현수 사원(1인)"
     },
     {
-      "date": "2026-06-16 00:00:00",
+      "date": "2026-06-16",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
@@ -3443,7 +3443,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1398100379": [
     {
-      "date": "2026-05-26 00:00:00",
+      "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
@@ -3456,7 +3456,7 @@ window.companyActivitiesByBizNo = {
       "note": "이선구 대리(1인)"
     },
     {
-      "date": "2026-06-16 00:00:00",
+      "date": "2026-06-16",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
       "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
