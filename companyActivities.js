@@ -1,6 +1,6 @@
 // Auto-generated companyActivities.js (산학협력활동)
 window.companyActivitiesMeta = {
-  "generatedAt": "2026-09-04 06:48:31",
+  "generatedAt": "2026-09-09 10:20:00",
   "excelFile": "가족회사 산학협력활동(260810)수정 후.xlsx",
   "columnsDetected": {
     "bizNo": "사업자등록번호",
@@ -16,7 +16,7 @@ window.companyActivitiesMeta = {
     "note": "기타"
   },
   "matchedCompanies": 129,
-  "totalActivities": 259
+  "totalActivities": 248
 };
 
 window.companyActivitiesByBizNo = {
@@ -143,19 +143,6 @@ window.companyActivitiesByBizNo = {
         "excelRow": 185
       },
       "note": "컴퓨터공학부 김지범"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 224
-      },
-      "note": "이승수 대표이사, 이지안 대리(2인)"
     }
   ],
   "1318643855": [
@@ -253,7 +240,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 234
+        "excelRow": 223
       },
       "note": "박민수 연구원, 원승연 대리, 이유란 대리(3인)"
     },
@@ -266,7 +253,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 246
+        "excelRow": 235
       },
       "note": "박재선 부장, 원승연 대리, 이유란 대리(3인)"
     },
@@ -279,7 +266,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 256
+        "excelRow": 245
       },
       "note": "박재선 부장, 원승연 대리, 이유란 대리(3인)"
     }
@@ -498,7 +485,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 242
+        "excelRow": 231
       },
       "note": "임규성 책임연구원(1인)"
     }
@@ -571,35 +558,9 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 227
+        "excelRow": 216
       },
       "note": "김덕호 대표이사(1인)"
-    },
-    {
-      "date": "2026-05-26",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 238
-      },
-      "note": "이희정 연구원, 심우철 수석연구원, 오학성 연구위원(3인)"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "재직자교육",
-      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
-      "source": {
-        "excelRow": 251
-      },
-      "note": "심우철 수석연구원, 이희정 연구원, 오학성 연구위원(3인)"
     }
   ],
   "1370860500": [
@@ -763,7 +724,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 226
+        "excelRow": 215
       },
       "note": "이선영 대리(1인)"
     },
@@ -776,7 +737,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 237
+        "excelRow": 226
       },
       "note": "이선영 대리(1인)"
     }
@@ -817,7 +778,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 245
+        "excelRow": 234
       },
       "note": "변강태 대표(1인)"
     }
@@ -929,19 +890,6 @@ window.companyActivitiesByBizNo = {
         "excelRow": 205
       },
       "note": "박준기 선임 ,장동연 선임(2인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 217
-      },
-      "note": "강상현 선임매니저, 장동연 선임(2인)"
     }
   ],
   "2478802513": [
@@ -1178,7 +1126,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 230
+        "excelRow": 219
       },
       "note": "박홍조 주임연구원, 최정은 주임, 김지현 주임(3인)"
     },
@@ -1191,7 +1139,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 240
+        "excelRow": 229
       },
       "note": "박홍조 주임연구원(1인)"
     },
@@ -1204,7 +1152,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 252
+        "excelRow": 241
       },
       "note": "박홍조 주임연구원(1인)"
     }
@@ -1252,7 +1200,7 @@ window.companyActivitiesByBizNo = {
       "note": "방근석 부장, 김정흠 부장(2인)"
     },
     {
-      "date": "2026-04-06",
+      "date": "20260406",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -1566,7 +1514,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 229
+        "excelRow": 218
       },
       "note": "윤성현 과장, 이훈재 과장, 이근수 부장(3인)"
     },
@@ -1579,7 +1527,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 239
+        "excelRow": 228
       },
       "note": "윤성현 과장, 이근수 부장(2인)"
     }
@@ -1696,7 +1644,7 @@ window.companyActivitiesByBizNo = {
       "note": "오학성 CTO(1인)"
     },
     {
-      "date": "2026-03-10",
+      "date": "20260310",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -1729,9 +1677,35 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 228
+        "excelRow": 217
       },
       "note": "심우철 수석연구원, 오학성 연구위원(2인)"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "재직자교육",
+      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
+      "result": "AI 실무 교육을 통한 업무 생산성 향상(중급)",
+      "dept": "산학협력팀",
+      "owner": "윤진영",
+      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "source": {
+        "excelRow": 227
+      },
+      "note": "이희정 연구원, 심우철 수석연구원, 오학성 연구위원(3인)"
+    },
+    {
+      "date": "2026-06-16",
+      "type": "재직자교육",
+      "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
+      "result": "AI 실무 교육을 통한 업무 생산성 향상(고급)",
+      "dept": "산학협력팀",
+      "owner": "윤진영",
+      "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "source": {
+        "excelRow": 240
+      },
+      "note": "심우철 수석연구원, 이희정 연구원, 오학성 연구위원(3인)"
     }
   ],
   "6668601948": [
@@ -1943,19 +1917,6 @@ window.companyActivitiesByBizNo = {
         "excelRow": 123
       },
       "note": "장두진 이사(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 222
-      },
-      "note": "장두진 이사(1인)"
     }
   ],
   "1088121555": [
@@ -2056,7 +2017,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 235
+        "excelRow": 224
       },
       "note": "송인건 이사(1인)"
     },
@@ -2069,7 +2030,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 248
+        "excelRow": 237
       },
       "note": "송인건 이사(1인)"
     },
@@ -2082,7 +2043,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 257
+        "excelRow": 246
       },
       "note": "송인건 이사(1인)"
     }
@@ -2395,7 +2356,7 @@ window.companyActivitiesByBizNo = {
       "note": "박태근 상무, 최윤성 책임(2인)"
     },
     {
-      "date": "2026-05-01",
+      "date": "20260501",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2532,19 +2493,6 @@ window.companyActivitiesByBizNo = {
         "excelRow": 116
       },
       "note": "이미란 책임(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 215
-      },
-      "note": "이미란 책임(1인)"
     }
   ],
   "1318607747": [
@@ -2558,19 +2506,6 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
       "source": {
         "excelRow": 117
-      },
-      "note": "신무화 대표이사(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 216
       },
       "note": "신무화 대표이사(1인)"
     }
@@ -2590,19 +2525,6 @@ window.companyActivitiesByBizNo = {
       "note": "김창연 실장, 양승령 팀장(2인)"
     },
     {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 218
-      },
-      "note": "김창연 실장, 양승령 팀장(2인)"
-    },
-    {
       "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
@@ -2611,7 +2533,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 247
+        "excelRow": 236
       },
       "note": "신주희 주임(1인)"
     },
@@ -2624,7 +2546,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 258
+        "excelRow": 247
       },
       "note": "신주희 주임(1인)"
     }
@@ -2642,19 +2564,6 @@ window.companyActivitiesByBizNo = {
         "excelRow": 120
       },
       "note": "이미호 대표이사(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 219
-      },
-      "note": "이미호 대표이사(1인)"
     }
   ],
   "1318633959": [
@@ -2670,19 +2579,6 @@ window.companyActivitiesByBizNo = {
         "excelRow": 121
       },
       "note": "김재인 과장(1인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 220
-      },
-      "note": "김재인 과장(1인)"
     }
   ],
   "1168602909": [
@@ -2696,19 +2592,6 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
       "source": {
         "excelRow": 122
-      },
-      "note": "박유진 실정, 김지예 사원, 이길은 사원(3인)"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 221
       },
       "note": "박유진 실정, 김지예 사원, 이길은 사원(3인)"
     }
@@ -2739,19 +2622,6 @@ window.companyActivitiesByBizNo = {
         "excelRow": 196
       },
       "note": "컴퓨터공학부 김인수"
-    },
-    {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 223
-      },
-      "note": "백영지 이사(1인)"
     }
   ],
   "1398125536": [
@@ -2769,19 +2639,6 @@ window.companyActivitiesByBizNo = {
       "note": "정영훈 과장(1인)"
     },
     {
-      "date": "2026-01-20",
-      "type": "재직자교육",
-      "title": "가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
-      "result": "AI 실무 교육을 통한 업무 생산성 향상",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
-      "source": {
-        "excelRow": 225
-      },
-      "note": "정영훈 과장(1인)"
-    },
-    {
       "date": "2026-05-26",
       "type": "재직자교육",
       "title": "상반기 가족회사 임직원 대상 생성형 AI 실무 재직자 교육",
@@ -2790,7 +2647,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 244
+        "excelRow": 233
       },
       "note": "장영훈 과장, 연동환 과장(2인)"
     },
@@ -2803,7 +2660,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 255
+        "excelRow": 244
       },
       "note": "장영훈 과장, 연동환 과장(2인)"
     }
@@ -2959,7 +2816,7 @@ window.companyActivitiesByBizNo = {
   ],
   "7528601609": [
     {
-      "date": "2024-08-14",
+      "date": "20240814",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2973,7 +2830,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1398111459": [
     {
-      "date": "2026-01-21",
+      "date": "20260121",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2987,7 +2844,7 @@ window.companyActivitiesByBizNo = {
   ],
   "6598703192": [
     {
-      "date": "2026-04-21",
+      "date": "20260421",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -3001,7 +2858,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1238139826": [
     {
-      "date": "2026-05-01",
+      "date": "20260501",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -3015,7 +2872,7 @@ window.companyActivitiesByBizNo = {
   ],
   "4398800375": [
     {
-      "date": "2026-05-01",
+      "date": "20260501",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -3055,7 +2912,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1108186871": [
     {
-      "date": "2026-05-01",
+      "date": "20260501",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -3143,7 +3000,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 231
+        "excelRow": 220
       },
       "note": "손진수 연구원, 한지훈 책임연구원(2인)"
     },
@@ -3156,7 +3013,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 241
+        "excelRow": 230
       },
       "note": "손진수 연구원, 한지훈 책임연구원(2인)"
     },
@@ -3169,7 +3026,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 253
+        "excelRow": 242
       },
       "note": "손진수 연구원, 한지훈 책임연구원(2인)"
     }
@@ -3452,7 +3309,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 233
+        "excelRow": 222
       },
       "note": "손금석 전무이사, 박세진 이사(2인)"
     }
@@ -3512,7 +3369,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 232
+        "excelRow": 221
       },
       "note": "황현지 주임, 김재연 과장(2인)"
     },
@@ -3525,7 +3382,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 243
+        "excelRow": 232
       },
       "note": "황현지 주임, 김재연 과장(2인)"
     },
@@ -3538,7 +3395,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 254
+        "excelRow": 243
       },
       "note": "황현지 주임, 김재연 과장(2인)"
     }
@@ -3553,7 +3410,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 236
+        "excelRow": 225
       },
       "note": "전현수 사원(1인)"
     },
@@ -3566,7 +3423,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 249
+        "excelRow": 238
       },
       "note": "전현수 사원(1인)"
     },
@@ -3579,7 +3436,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 260
+        "excelRow": 249
       },
       "note": "전현수 사원(1인)"
     }
@@ -3594,7 +3451,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 250
+        "excelRow": 239
       },
       "note": "이선구 대리(1인)"
     },
@@ -3607,7 +3464,7 @@ window.companyActivitiesByBizNo = {
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
       "source": {
-        "excelRow": 259
+        "excelRow": 248
       },
       "note": "이선구 대리(1인)"
     }
