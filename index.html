@@ -54,10 +54,20 @@
     }
     /* 예비 이미지(mascot_fan.png)로 전환된 경우: 창 제한 해제 */
     .logo-title .live-mascot-crop.fb { width: auto; overflow: visible; }
+
+    /* ✅ 모바일에서는 횃불이를 숨겨 제목이 들어갈 자리를 확보 (PC는 그대로 표시) */
+    @media (max-width: 768px){
+      .logo-title .live-mascot-crop { display: none; }
+    }
     .logo-title h1 {
       font-size: 20px;
       font-weight: 700;
       margin: 0;
+      /* ✅ 좁은 화면에서 '인천대학교 가 / 족회사 검색'처럼 낱글자로 끊기지 않도록
+         띄어쓰기 단위로만 줄바꿈 */
+      word-break: keep-all;
+      overflow-wrap: break-word;
+      line-height: 1.3;
     }
 
     /* 검색 박스 */
@@ -678,7 +688,11 @@
 
 </style>
   
-  <script type="text/javascript" src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=86350fd755f0e6cea6c2894b33765bba&libraries=services"></script>
+  <!-- 카카오 지도 SDK. 로딩 실패(401/403/429 등) 시 __kakaoSdkFailed 플래그로 기록 → 아래 openMap()이 대체 경로로 전환 -->
+  <script>window.__kakaoSdkFailed = false;</script>
+  <script type="text/javascript"
+          src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=86350fd755f0e6cea6c2894b33765bba&libraries=services"
+          onerror="window.__kakaoSdkFailed = true; console.error('[INU] 카카오 지도 SDK 로딩 실패 — 개발자도구 Network 탭에서 sdk.js 응답 코드를 확인하세요 (401=키/도메인/사용설정, 429=쿼터 초과).');"></script>
 </head>
 <body>
   <div class="container">
@@ -1048,13 +1062,26 @@ html += `
     window.addEventListener("popstate", applyStateFromURL);
 
     // --- 지도 기능 (수정됨) ---
+    // ✅ SDK를 못 쓰는 상황(키/도메인/쿼터 문제)에서도 위치는 볼 수 있게 하는 대체 경로
+    //    카카오맵 웹 검색은 API 키가 필요 없음
+    function openMapFallback(cleanAddr, companyName, reason) {
+      const url = "https://map.kakao.com/?q=" + encodeURIComponent(cleanAddr);
+      const go = confirm(
+        (companyName ? companyName + "\n" : "") +
+        cleanAddr + "\n\n" +
+        "지도를 이 화면에 띄우지 못했습니다.\n(" + reason + ")\n\n" +
+        "카카오맵에서 이 주소를 열어볼까요?"
+      );
+      if (go) window.open(url, "_blank", "noopener");
+    }
+
     function openMap(address, companyName) {
       // 1. 주소 정제: 괄호와 콤마 뒷부분 제거 (검색 정확도 향상)
       const cleanAddr = address.split('(')[0].split(',')[0].trim();
 
-      // 2. 카카오 API 확인
-      if (!window.kakao || !window.kakao.maps) {
-        alert("지도 API 로딩 실패. 키 설정이나 도메인 등록을 확인하세요.");
+      // 2. 카카오 API 확인 (실패해도 대체 경로 제공)
+      if (window.__kakaoSdkFailed || !window.kakao || !window.kakao.maps || !kakao.maps.services) {
+        openMapFallback(cleanAddr, companyName, "지도 API 로딩 실패 — 앱 키·도메인 등록·카카오맵 사용 설정 확인 필요");
         return;
       }
 
@@ -1100,8 +1127,12 @@ html += `
           map.setCenter(coords);
 
         } else {
-          // 6. 실패하면 경고창만 띄우고 끝 (지도 창 안 뜸)
-          alert('주소 위치를 찾을 수 없습니다.\n(' + cleanAddr + ')');
+          // 6. 실패 시: 원인을 구분해 안내하고 카카오맵 웹 검색으로 대체
+          const reason = (status === kakao.maps.services.Status.ZERO_RESULT)
+            ? "주소 검색 결과 없음 — 주소 표기 확인 필요"
+            : "주소 검색 요청 실패(" + status + ") — 쿼터 초과 또는 서비스 오류 가능";
+          console.warn('[INU] 지오코딩 실패:', cleanAddr, status);
+          openMapFallback(cleanAddr, companyName, reason);
         }
       });
     }
