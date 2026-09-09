@@ -1,7 +1,7 @@
 // Auto-generated companyActivities.js (산학협력활동)
 window.companyActivitiesMeta = {
   "generatedAt": "2026-09-09 14:11:00",
-  "excelFile": "가족회사 산학협력활동(260810)수정 후.xlsx",
+  "excelFile": "가족회사 산학협력활동(260909).xlsx",
   "columnsDetected": {
     "bizNo": "사업자등록번호",
     "certNo": "인증서 번호",
@@ -1187,7 +1187,7 @@ window.companyActivitiesByBizNo = {
       "note": "김지범"
     },
     {
-      "date": "20260406",
+      "date": "2026-04-06",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -1631,7 +1631,7 @@ window.companyActivitiesByBizNo = {
       "note": "오학성 CTO(1인)"
     },
     {
-      "date": "20260310",
+      "date": "2026-03-10",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2371,7 +2371,7 @@ window.companyActivitiesByBizNo = {
       "note": "박태근 상무, 최윤성 책임(2인)"
     },
     {
-      "date": "20260501",
+      "date": "2026-05-01",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2831,7 +2831,7 @@ window.companyActivitiesByBizNo = {
   ],
   "7528601609": [
     {
-      "date": "20240814",
+      "date": "2024-08-14",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2845,7 +2845,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1398111459": [
     {
-      "date": "20260121",
+      "date": "2026-01-21",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2859,7 +2859,7 @@ window.companyActivitiesByBizNo = {
   ],
   "6598703192": [
     {
-      "date": "20260421",
+      "date": "2026-04-21",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2873,7 +2873,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1238139826": [
     {
-      "date": "20260501",
+      "date": "2026-05-01",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2887,7 +2887,7 @@ window.companyActivitiesByBizNo = {
   ],
   "4398800375": [
     {
-      "date": "20260501",
+      "date": "2026-05-01",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2927,7 +2927,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1108186871": [
     {
-      "date": "20260501",
+      "date": "2026-05-01",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
