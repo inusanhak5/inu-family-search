@@ -58,6 +58,8 @@
     /* ✅ 모바일에서는 횃불이를 숨겨 제목이 들어갈 자리를 확보 (PC는 그대로 표시) */
     @media (max-width: 768px){
       .logo-title .live-mascot-crop { display: none; }
+      /* 제목을 '인천대학교' / '가족회사 검색' 두 줄로 고정 */
+      .logo-title h1 .ttl-tail { display: block; }
     }
     .logo-title h1 {
       font-size: 20px;
@@ -698,7 +700,7 @@
   <div class="container">
     <div class="logo-title">
       <img src="inu_logo.png" alt="INU 로고" class="inu-globe">
-      <h1>인천대학교 가족회사 검색</h1>
+      <h1>인천대학교 <span class="ttl-tail">가족회사 검색</span></h1>
       <!-- 인천대 홈페이지 헤더에서 선풍기+횃불이 부분만 잘라 보여주는 창 (애니메이션 유지) -->
       <span class="live-mascot-crop" title="횃불이">
         <img src="https://www.inu.ac.kr/sites/inu/images/common/logo-header.png" alt="횃불이"
