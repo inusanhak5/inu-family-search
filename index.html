@@ -714,7 +714,10 @@
 
     <div class="search-box">
       <label for="companyInput">기업명</label>
-      <input id="companyInput" type="text" placeholder="기업명 입력">
+      <div class="ps-wrap">
+        <input id="companyInput" type="text" placeholder="기업명 입력">
+        <button id="psCamBtn" class="ps-cam" type="button" title="사진으로 가족회사 찾기" aria-label="사진으로 가족회사 찾기"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/></svg></button>
+      </div>
 
       <label for="ceoInput">대표자명</label>
       <input id="ceoInput" type="text" placeholder="대표자명 입력">
@@ -1435,5 +1438,522 @@ html += `
   });
 })();
 </script>
+<!-- ===== 사진으로 가족회사 찾기 (서명록·명함 촬영 / 사진 선택) ===== -->
+<style>
+  .ps-wrap{position:relative}
+  .ps-wrap input[type="text"]{padding-right:52px}
+  .ps-cam{position:absolute;right:5px;top:4px;flex:none;width:38px;height:34px;padding:0;border-radius:6px;background:#FFF4D6;color:#094A9A;display:grid;place-items:center;border:1px solid #FDD27A;font-size:0}
+  .ps-cam:hover{background:#FDAF17;color:#094A9A;border-color:#FDAF17}
+  .ps-cam svg{width:20px;height:20px}
+  .ps-cam:focus-visible{outline:2px solid #094A9A;outline-offset:2px}
+  /* 처음 몇 초 동안 📷 버튼이 골드 빛으로 세 번 반짝여 새 기능을 알림 */
+  .ps-cam.glow{animation:psGlow 1.3s ease-in-out 3}
+  @keyframes psGlow{
+    0%,100%{box-shadow:0 0 0 0 rgba(253,175,23,0);background:#FFF4D6;transform:scale(1)}
+    45%{box-shadow:0 0 0 7px rgba(253,175,23,.35),0 0 14px 2px rgba(253,175,23,.55);background:#FDAF17;transform:scale(1.08)}
+  }
+  @media (prefers-reduced-motion:reduce){ .ps-cam.glow{animation:none} }
+  .ps-overlay{position:fixed;inset:0;background:rgba(10,25,50,.45);z-index:9998;display:flex;align-items:center;justify-content:center;padding:16px}
+  .ps-overlay[hidden]{display:none}
+  .ps-sheet{background:#fff;border-radius:14px;width:100%;max-width:420px;padding:22px 20px 18px;box-shadow:0 10px 40px rgba(0,0,0,.25);display:flex;flex-direction:column;gap:12px;color:#222}
+  .ps-sheet h2{margin:0;font-size:18px;color:#0b3d7a;display:flex;align-items:center;gap:8px}
+  .ps-sheet p{margin:0;font-size:13.5px;color:#555;line-height:1.55}
+  .ps-btns{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:4px}
+  .ps-btns label{display:flex;align-items:center;justify-content:center;gap:8px;padding:14px 10px;border-radius:10px;font-size:16px;font-weight:700;cursor:pointer;border:0}
+  .ps-btns .ps-shot{background:#FDAF17;color:#094A9A}
+  .ps-btns .ps-pick{background:#094A9A;color:#fff}
+  .ps-btns label:hover{filter:brightness(1.05)}
+  .ps-btns svg{width:20px;height:20px;flex:none}
+  .ps-btns.busy{opacity:.45;pointer-events:none}
+  .ps-hint{font-size:12.5px;color:#666;background:#f5f7fa;border-radius:8px;padding:9px 11px}
+  .ps-hint kbd{font-family:Consolas,monospace;font-size:11.5px;border:1px solid #ccc;border-bottom-width:2px;border-radius:4px;padding:0 5px;background:#fff}
+  .ps-prog{display:flex;flex-direction:column;gap:6px;font-size:13px;color:#333}
+  .ps-prog[hidden]{display:none}
+  .ps-bar{height:7px;border-radius:4px;background:#e6edf6;overflow:hidden}
+  .ps-bar i{display:block;height:100%;width:0;background:linear-gradient(90deg,#0066cc,#F2A900);transition:width .25s}
+  .ps-close{flex:none;align-self:center;background:none;color:#777;font-size:14px;font-weight:500;padding:6px 14px;border:0;width:auto}
+  .ps-close:hover{color:#222}
+  .ps-sheet.drag{outline:3px dashed #0066cc;outline-offset:-8px}
+  @media (hover:hover) and (pointer:fine){ .ps-btns{grid-template-columns:1fr} .ps-btns .ps-shot{display:none} .ps-btns .ps-pick{background:#FDAF17;color:#094A9A} }
+  @media (hover:none){ .ps-hint{display:none} }
+  @media (max-width:768px){
+    .ps-overlay{align-items:flex-end;padding:0}
+    .ps-sheet{max-width:none;border-radius:18px 18px 0 0;padding:20px 18px calc(16px + env(safe-area-inset-bottom,0px))}
+  }
+  /* 결과 요약 */
+  .ps-sum{border:1px solid #cfe0f5;background:#f3f8fe;border-radius:8px;padding:12px 14px;margin-bottom:10px;display:flex;flex-direction:column;gap:8px;font-size:14px}
+  .ps-sum .t{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px}
+  .ps-sum .t b{color:#0b3d7a}
+  .ps-sum .ok{color:#1f7a4a;font-weight:700}
+  .ps-sum .again{flex:none;width:auto;margin-left:auto;padding:6px 12px;font-size:13px;background:#FDAF17;color:#094A9A;border:0;border-radius:6px}
+  .ps-sum .none{font-size:13px;color:#555}
+  .ps-sum .chip{display:inline-block;background:#fff;border:1px solid #ddd;border-radius:999px;padding:1px 9px;margin:2px 4px 2px 0;font-size:12.5px;color:#666}
+  .ps-sum details{font-size:12.5px;color:#666}
+  .ps-sum summary{cursor:pointer}
+  .ps-sum pre{white-space:pre-wrap;word-break:break-all;background:#fff;border:1px solid #e0e0e0;border-radius:6px;padding:8px;max-height:240px;overflow:auto;margin:6px 0 0;font-size:12px}
+  .ps-sum .tip{font-size:12px;color:#777}
+</style>
+
+<div id="psOverlay" class="ps-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="psTitle">
+  <div class="ps-sheet" id="psSheet">
+    <h2 id="psTitle">📷 사진으로 가족회사 찾기</h2>
+    <p>서명록, 참석자 명단, 명함을 찍거나 고르면 소속 기업을 읽어 가족회사인지 알려 드립니다.</p>
+    <div class="ps-btns" id="psBtns">
+      <label class="ps-shot" for="psCamInput"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/></svg>촬영</label>
+      <label class="ps-pick" for="psFileInput"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="2"/><path d="M21 16l-5-5-9 9"/></svg>사진 선택</label>
+    </div>
+    <input type="file" id="psCamInput" accept="image/*" capture="environment" hidden>
+    <input type="file" id="psFileInput" accept="image/*" multiple hidden>
+    <div class="ps-hint">캡처한 화면은 <kbd>Ctrl</kbd>+<kbd>V</kbd>로 바로 붙여넣거나, 이미지를 이 창에 끌어다 놓아도 됩니다.</div>
+    <div class="ps-prog" id="psProg" hidden><div class="ps-bar"><i id="psBar"></i></div><span id="psProgTxt"></span></div>
+    <button type="button" class="ps-close" id="psClose">닫기</button>
+  </div>
+</div>
+
+<script>
+/* INU 가족회사 대조 엔진 — 브라우저·Node 공용 */
+(function (root) {
+  'use strict';
+
+  var CORP_RE = /(주식회사|유한책임회사|유한회사|합자회사|합명회사|농업회사법인|영농조합법인|사회적협동조합|협동조합|재단법인|사단법인|\(주\)|\(유\)|\(재\)|\(사\)|\(합\)|㈜|㈔|㈐|㈕|co\.?,?\s*ltd\.?|inc\.?|corp\.?)/gi;
+
+  function norm(s) {
+    s = String(s == null ? '' : s).normalize('NFC');
+    s = s.replace(/（/g, '(').replace(/）/g, ')');
+    s = s.replace(CORP_RE, '');
+    s = s.replace(/[\s()\[\]{}.,·ㆍ・\-_&'"`~!@#/\\|:;*+]/g, '');
+    return s.toLowerCase();
+  }
+  function digits(s) { return String(s == null ? '' : s).replace(/\D/g, ''); }
+
+  function cellText(v) {
+    if (v == null) return '';
+    if (v instanceof Date) return v.toISOString().slice(0, 10);
+    if (typeof v === 'object') {
+      if (v.richText) return v.richText.map(function (r) { return r.text; }).join('');
+      if (v.text != null) return String(v.text);
+      if (v.result != null) return cellText(v.result);
+      if (v.error) return '';
+    }
+    return String(v).trim();
+  }
+
+  function lev(a, b, max) {
+    if (Math.abs(a.length - b.length) > max) return max + 1;
+    var prev = [], cur = [], i, j;
+    for (j = 0; j <= b.length; j++) prev[j] = j;
+    for (i = 1; i <= a.length; i++) {
+      cur = [i];
+      var rowMin = i;
+      for (j = 1; j <= b.length; j++) {
+        cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+        if (cur[j] < rowMin) rowMin = cur[j];
+      }
+      if (rowMin > max) return max + 1;
+      prev = cur;
+    }
+    return prev[b.length];
+  }
+  function fuzzyLimit(len) { return len >= 9 ? 2 : len >= 4 ? 1 : 0; }
+
+  function buildIndex(list) {
+    var byNo = {}, byBiz = {}, byName = {}, all = [];
+    list.forEach(function (x) {
+      var c = {
+        no: String(x['인증서번호'] || '').trim(),
+        biz: digits(x['사업자등록번호']),
+        name: String(x['기업명'] || '').trim(),
+        ceo: String(x['대표자'] || '').trim(),
+        tier: String(x['멤버십'] || '').trim() || '베이직',
+        exp: String(x['만료일'] || '').trim(),
+        prof: String(x['추천교수'] || '').trim(),
+        ind: String(x['업종'] || '').trim()
+      };
+      c.key = norm(c.name);
+      all.push(c);
+      if (c.no) byNo[c.no] = c;
+      if (c.biz.length === 10) byBiz[c.biz] = c;
+      (byName[c.key] = byName[c.key] || []).push(c);
+    });
+    var tiers = {};
+    all.forEach(function (c) { tiers[c.tier] = (tiers[c.tier] || 0) + 1; });
+    return { byNo: byNo, byBiz: byBiz, byName: byName, all: all, tiers: tiers, size: all.length };
+  }
+
+  function fuzzyFind(idx, key) {
+    var lim = fuzzyLimit(key.length);
+    if (!lim) return [];
+    var out = [];
+    for (var i = 0; i < idx.all.length; i++) {
+      var c = idx.all[i];
+      if (!c.key || c.key === key) continue;
+      var d = lev(key, c.key, lim);
+      if (d <= lim && d <= fuzzyLimit(c.key.length)) out.push({ c: c, d: d });
+    }
+    out.sort(function (a, b) { return a.d - b.d; });
+    return out.slice(0, 3).map(function (o) { return o.c; });
+  }
+
+  function similar(a, b) {
+    if (!a || !b) return false;
+    if (a === b) return true;
+    var lim = Math.max(fuzzyLimit(a.length), fuzzyLimit(b.length));
+    return lim > 0 && lev(a, b, lim) <= lim;
+  }
+
+  /* 상태: ok(가족회사) | check(가족회사지만 확인 필요) | maybe(유사 후보) | none(명단 없음) */
+  function matchOne(idx, input, today) {
+    var name = String(input.name || '').trim();
+    var noRaw = String(input.no || '').trim();
+    var biz = digits(input.biz);
+    var key = norm(name);
+    var notes = [];
+    var noValid = /^\d{4}-\d{4}$/.test(noRaw);
+    var noBlank = !noRaw || /^[-–—x×/]+$/i.test(noRaw) || noRaw === '없음';
+    if (noRaw && !noValid && !noBlank) notes.push('인증번호 칸 값 확인(“' + noRaw + '”)');
+
+    var hit = null, how = '', status = 'none';
+    var nameHits = idx.byName[key] || [];
+    var noHit = noValid ? idx.byNo[noRaw] : null;
+    var bizHit = biz.length === 10 ? idx.byBiz[biz] : null;
+
+    if (bizHit) {
+      hit = bizHit; how = '사업자번호'; status = 'ok';
+      if (key && bizHit.key !== key && !similar(key, bizHit.key)) notes.push('상호 다름(명단: ' + bizHit.name + ') — 상호 변경 추정');
+      if (noValid && noRaw !== bizHit.no) { status = 'check'; notes.push('인증번호 불일치(명단: ' + bizHit.no + ')'); }
+    } else if (noHit && nameHits.indexOf(noHit) >= 0) {
+      hit = noHit; how = '인증번호+기업명'; status = 'ok';
+    } else if (nameHits.length) {
+      hit = nameHits.length === 1 ? nameHits[0] : null;
+      how = '기업명'; status = 'ok';
+      if (!hit) {
+        status = 'check';
+        notes.push('동일 상호 ' + nameHits.length + '곳: ' + nameHits.map(function (c) { return c.no + ' ' + c.tier; }).join(', '));
+        hit = nameHits[0];
+      }
+      if (noValid && noRaw !== hit.no) {
+        status = 'check';
+        notes.push('인증번호 불일치(명단: ' + hit.no + ')' + (noHit ? ' — ' + noRaw + '은 ' + noHit.name + '의 번호' : ''));
+      }
+    } else if (noHit && similar(key, noHit.key)) {
+      hit = noHit; how = '인증번호'; status = 'check';
+      notes.push('기업명 표기 차이(명단: ' + noHit.name + ')');
+    } else {
+      var cand = key ? fuzzyFind(idx, key) : [];
+      if (cand.length) {
+        hit = cand[0]; how = '유사명칭'; status = 'maybe';
+        notes.push('유사 후보: ' + cand.map(function (c) { return c.name + '(' + c.no + ')'; }).join(', '));
+      }
+      if (noHit) notes.push('인증번호 ' + noRaw + '은 명단상 ' + noHit.name + '의 번호');
+      else if (noValid) notes.push('인증번호 ' + noRaw + ' 현재 명단에 없음(해지·만료 추정)');
+    }
+
+    if (status === 'ok' && noRaw && !noValid && !noBlank) status = 'check';
+    if (hit && status !== 'maybe' && hit.exp && today && hit.exp < today) {
+      notes.push(hit.tier + ' 만료일 지남(' + hit.exp + ')');
+      if (status === 'ok') status = 'check';
+    }
+    return { status: status, hit: hit, how: how, notes: notes };
+  }
+
+  var HEADER_KEYS = {
+    name: [/기업명/, /업체명/, /회사명/, /상호/, /기관명/, /법인명/, /수요기업/],
+    no: [/인증서\s*번호/, /인증\s*번호/, /가족회사.*번호/, /인증서/],
+    biz: [/사업자/]
+  };
+  function detectColumns(rows, maxScan) {
+    /* rows: 배열의 배열(0-based 셀 텍스트). 헤더 행과 열 위치 추정 */
+    var best = null;
+    for (var r = 0; r < Math.min(rows.length, maxScan || 12); r++) {
+      var row = rows[r] || [];
+      var found = { name: -1, no: -1, biz: -1 };
+      ['name', 'no', 'biz'].forEach(function (k) {
+        for (var p = 0; p < HEADER_KEYS[k].length && found[k] < 0; p++) {
+          for (var c = 0; c < row.length; c++) {
+            var t = String(row[c] || '').replace(/\s+/g, '');
+            if (t && t.length <= 20 && HEADER_KEYS[k][p].test(t)) { found[k] = c; break; }
+          }
+        }
+      });
+      if (found.name >= 0) {
+        var score = 2 + (found.no >= 0) + (found.biz >= 0);
+        if (!best || score > best.score) best = { row: r, name: found.name, no: found.no, biz: found.biz, score: score };
+      }
+    }
+    return best;
+  }
+
+  var TIER_ORDER = ['플래티넘', '골드', '실버', '베이직'];
+  var STATUS_LABEL = { ok: '가족회사', check: '가족회사·확인 필요', maybe: '유사 후보', none: '명단 없음' };
+
+  /* ExcelJS 워크북에 결과 열 추가 */
+  function annotateSheet(ws, map, idx, today, stamp) {
+    var hr = map.row + 1; // 1-based
+    var lastHdr = 0;
+    ws.getRow(hr).eachCell({ includeEmpty: false }, function (cell, col) { if (cellText(cell.value)) lastHdr = Math.max(lastHdr, col); });
+    var start = lastHdr + 1;
+    var heads = ['가족회사', '멤버십', '명단 인증번호', '명단 기업명', '대표자', '대조 결과', '확인 사항'];
+    var widths = [9, 9, 13, 24, 9, 16, 46];
+    var hdrCell = ws.getRow(hr).getCell(map.name + 1);
+    var baseFont = (hdrCell.font && hdrCell.font.name) || '맑은 고딕';
+    var border = { top: { style: 'thin', color: { argb: 'FFBFBFBF' } }, left: { style: 'thin', color: { argb: 'FFBFBFBF' } }, bottom: { style: 'thin', color: { argb: 'FFBFBFBF' } }, right: { style: 'thin', color: { argb: 'FFBFBFBF' } } };
+    heads.forEach(function (h, i) {
+      var c = ws.getRow(hr).getCell(start + i);
+      c.value = h;
+      c.font = { name: baseFont, bold: true, size: 10, color: { argb: 'FFFFFFFF' } };
+      c.fill = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FF1F4E79' } };
+      c.alignment = { horizontal: 'center', vertical: 'middle', wrapText: true };
+      c.border = border;
+      ws.getColumn(start + i).width = widths[i];
+    });
+    if (hr > 1) {
+      var tc = ws.getRow(hr - 1).getCell(start);
+      if (!cellText(tc.value)) {
+        tc.value = '▼ 가족회사 대조 (' + stamp + ')';
+        tc.font = { name: baseFont, bold: true, size: 9, color: { argb: 'FF1F4E79' } };
+      }
+    }
+    var FILL = { ok: 'FFE2EFDA', check: 'FFFCE4D6', maybe: 'FFFFF2CC', none: 'FFF2F2F2' };
+    var TIER_FILL = { '플래티넘': 'FFD9D2E9', '골드': 'FFFFE699', '실버': 'FFE7E6E6', '베이직': 'FFDDEBF7' };
+    var results = [];
+    var last = ws.rowCount, lastData = hr;
+    for (var r = hr + 1; r <= last; r++) {
+      var row = ws.getRow(r);
+      var name = cellText(row.getCell(map.name + 1).value);
+      if (!name) continue;
+      lastData = r;
+      var input = {
+        name: name,
+        no: map.no >= 0 ? cellText(row.getCell(map.no + 1).value) : '',
+        biz: map.biz >= 0 ? cellText(row.getCell(map.biz + 1).value) : ''
+      };
+      var res = matchOne(idx, input, today);
+      var h = res.status === 'maybe' ? null : res.hit;
+      var vals = [
+        res.status === 'ok' || res.status === 'check' ? 'O' : (res.status === 'maybe' ? '?' : 'X'),
+        h ? h.tier : '',
+        h ? h.no : (res.hit ? res.hit.no : ''),
+        h ? h.name : (res.hit ? res.hit.name : ''),
+        h ? h.ceo : '',
+        STATUS_LABEL[res.status],
+        res.notes.join(' / ')
+      ];
+      var rowFont = row.getCell(map.name + 1).font || {};
+      vals.forEach(function (v, i) {
+        var c = row.getCell(start + i);
+        c.value = v;
+        c.font = { name: baseFont, size: rowFont.size || 10, bold: i === 0 || i === 5, color: { argb: res.status === 'check' && (i === 5 || i === 6) ? 'FFC00000' : 'FF262626' } };
+        c.fill = { type: 'pattern', pattern: 'solid', fgColor: { argb: i === 1 && h && TIER_FILL[h.tier] ? TIER_FILL[h.tier] : FILL[res.status] } };
+        c.alignment = { horizontal: i >= 3 && i !== 4 ? 'left' : 'center', vertical: 'middle', wrapText: i === 6 };
+        c.border = border;
+      });
+      results.push({ row: r, input: input, res: res });
+    }
+    try {
+      ws.autoFilter = { from: { row: hr, column: 1 }, to: { row: Math.max(lastData, hr), column: start + heads.length - 1 } };
+    } catch (e) { /* 필터 갱신 실패는 무시 */ }
+    return { start: start, results: results };
+  }
+
+  function summarize(results) {
+    var s = { total: results.length, ok: 0, check: 0, maybe: 0, none: 0, tiers: {} };
+    results.forEach(function (x) {
+      s[x.res.status]++;
+      if ((x.res.status === 'ok' || x.res.status === 'check') && x.res.hit) s.tiers[x.res.hit.tier] = (s.tiers[x.res.hit.tier] || 0) + 1;
+    });
+    return s;
+  }
+
+  function parseCompaniesJs(text) {
+    var a = text.indexOf('['), b = text.lastIndexOf(']');
+    if (a < 0 || b < a) throw new Error('배열을 찾지 못했습니다');
+    var body = text.slice(a, b + 1).replace(/,\s*([\]}])/g, '$1');
+    var arr = JSON.parse(body);
+    if (!Array.isArray(arr) || !arr.length || !('기업명' in arr[0])) throw new Error('가족회사 명단 형식이 아닙니다');
+    return arr;
+  }
+
+  /* ── 사진(OCR) 결과에서 기업 찾기 ──
+     1) 줄 안에 명단 기업명(정규화, 3자 이상)이 그대로 들어 있으면 일치
+     2) 영문·숫자 부분만 잘못 읽힌 경우(TPC→106 등): 한글 부분이 명단 기업의 한글 부분과 같고 그 기업이 유일하면 일치
+     3) ㈜·(주)·주식회사 표시(또는 그 오인식 기호)가 붙은 이름인데 명단에 없으면 '명단 외 기업'으로 따로 표시 */
+  function hangulOnly(s) { return String(s).replace(/[^가-힣]/g, ''); }
+  function prepOcrIndex(idx) {
+    if (idx._ocr) return idx._ocr;
+    var keys = [], hk = {};
+    idx.all.forEach(function (c) {
+      if (c.key && c.key.length >= 3) keys.push(c);
+      var h = hangulOnly(c.key);
+      if (h.length >= 3 && h !== c.key) (hk[h] = hk[h] || []).push(c);
+    });
+    keys.sort(function (a, b) { return b.key.length - a.key.length; });
+    idx._ocr = { keys: keys, hk: hk };
+    return idx._ocr;
+  }
+  var SKIP_LINE = /참석자|서명록|일자|장소|연번|소속|이름|서명|성명|직위|직급|연락처|비고|인천대학교|도서관|스튜디오/;
+  function extractFromOcr(text, idx) {
+    var O = prepOcrIndex(idx);
+    var found = {}, order = [], unknown = {}, unknownOrder = [];
+    function add(c, how, raw) {
+      if (!found[c.no]) { found[c.no] = { c: c, how: how, raws: [] }; order.push(c.no); }
+      if (found[c.no].raws.indexOf(raw) < 0 && found[c.no].raws.length < 3) found[c.no].raws.push(raw);
+    }
+    String(text || '').split(/\r?\n/).forEach(function (raw) {
+      var line = raw.trim();
+      if (!line || SKIP_LINE.test(line.replace(/\s/g, ''))) return;
+      var body = line.replace(/^\s*[|ㅣ]?\s*\d{1,3}(?:\s+|\s*[|.)]\s*)/, '');
+      var n = norm(body);
+      var hit = false;
+      if (n.length >= 3) {
+        for (var i = 0; i < O.keys.length; i++) {
+          if (n.indexOf(O.keys[i].key) >= 0) { add(O.keys[i], '사진 인식', line); hit = true; break; }
+        }
+      }
+      if (!hit) {
+        var runs = body.match(/[^\s가-힣]*[가-힣]{3,}[^\s가-힣]*/g) || [];
+        for (var r = 0; r < runs.length && !hit; r++) {
+          if (!/[^가-힣]/.test(runs[r])) continue; // 앞뒤에 영문·숫자·기호가 붙은 경우만
+          var cands = O.hk[hangulOnly(runs[r])];
+          if (cands && cands.length === 1) { add(cands[0], '사진 인식(영문 부분 추정)', line); hit = true; }
+        }
+      }
+      if (!hit) {
+        var m = body.match(/(?:㈜|\(\s*주\s*\)|\(\s*쥬\s*\)|주식회사|[@\\©®])\s*([가-힣A-Za-z][가-힣A-Za-z0-9&]{1,20})|([가-힣A-Za-z][가-힣A-Za-z0-9&]{1,20})\s*(?:㈜|\(\s*주\s*\)|주식회사)/);
+        if (m) {
+          var name = (m[1] || m[2]).replace(/[^가-힣A-Za-z0-9&]/g, '');
+          var k = norm(name);
+          if (k.length >= 2 && hangulOnly(name).length >= 2 && !unknown[k]) {
+            var fz = fuzzyFind(idx, k);
+            if (fz.length) add(fz[0], '사진 인식(유사 명칭)', line);
+            else { unknown[k] = name; unknownOrder.push(k); }
+          }
+        }
+      }
+    });
+    return {
+      hits: order.map(function (no) { return found[no]; }),
+      unknown: unknownOrder.map(function (k) { return unknown[k]; })
+    };
+  }
+
+  var api = { norm: norm, extractFromOcr: extractFromOcr, cellText: cellText, buildIndex: buildIndex, matchOne: matchOne, detectColumns: detectColumns,
+    annotateSheet: annotateSheet, summarize: summarize, parseCompaniesJs: parseCompaniesJs, TIER_ORDER: TIER_ORDER, STATUS_LABEL: STATUS_LABEL };
+  if (typeof module !== 'undefined' && module.exports) module.exports = api; else root.FamilyMatcher = api;
+})(this);
+
+</script>
+<script>
+(function(){
+  'use strict';
+  var M = window.FamilyMatcher;
+  var $ = function(id){ return document.getElementById(id); };
+  var esc = function(s){ return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); };
+  var idx = null;
+  function getIdx(){ if(!idx) idx = M.buildIndex(Array.isArray(window.familyCompanies)?window.familyCompanies:[]); return idx; }
+
+  var overlay=$('psOverlay'), sheet=$('psSheet'), busy=false, worker=null, loading=null, stage='';
+  function openSheet(){ overlay.hidden=false; if(!busy){ $('psProg').hidden=true; } }
+  function closeSheet(){ if(busy) return; overlay.hidden=true; }
+  var camBtn=$('psCamBtn');
+  camBtn.addEventListener('click', function(){ camBtn.classList.remove('glow'); openSheet(); });
+  /* 페이지를 열고 1초 뒤 세 번 반짝이고 멈춤 */
+  setTimeout(function(){ camBtn.classList.add('glow'); }, 1000);
+  camBtn.addEventListener('animationend', function(){ camBtn.classList.remove('glow'); });
+  $('psClose').addEventListener('click', closeSheet);
+  overlay.addEventListener('click', function(e){ if(e.target===overlay) closeSheet(); });
+  document.addEventListener('keydown', function(e){ if(e.key==='Escape' && !overlay.hidden) closeSheet(); });
+
+  function setProg(p, t){ $('psProg').hidden=false; $('psBar').style.width=Math.round(p*100)+'%'; $('psProgTxt').textContent=t; }
+  function loadScript(src){ return new Promise(function(res,rej){ var s=document.createElement('script'); s.src=src; s.onload=res; s.onerror=function(){ rej(new Error('글자 인식 기능을 불러오지 못했습니다. 인터넷 연결을 확인해 주세요.')); }; document.head.appendChild(s); }); }
+  function getWorker(){
+    if(worker) return Promise.resolve(worker);
+    if(loading) return loading;
+    setProg(0.03,'글자 인식 준비 중… (처음 한 번만 몇 초 걸립니다)');
+    loading = (window.Tesseract ? Promise.resolve() : loadScript('https://cdn.jsdelivr.net/npm/tesseract.js@5.1.1/dist/tesseract.min.js'))
+      .then(function(){ return Tesseract.createWorker(['kor','eng'],1,{ logger:function(m){ if(m.status==='recognizing text') setProg(m.progress, stage+' '+Math.round(m.progress*100)+'%'); } }); })
+      .then(function(w){ worker=w; return w; })
+      .catch(function(e){ loading=null; throw e; });
+    return loading;
+  }
+  /* 확대 → 흑백 → 자동 이진화: 표 선·서명이 섞인 사진의 인식률을 올림 */
+  function prep(file){
+    return createImageBitmap(file).then(function(bmp){
+      var sc=Math.min(2400/Math.max(bmp.width,bmp.height),3), w=Math.round(bmp.width*sc), h=Math.round(bmp.height*sc);
+      var cv=document.createElement('canvas'); cv.width=w; cv.height=h;
+      var cx=cv.getContext('2d'); cx.imageSmoothingQuality='high'; cx.drawImage(bmp,0,0,w,h);
+      var im=cx.getImageData(0,0,w,h), d=im.data, hist=new Array(256).fill(0), n=w*h, i, g;
+      for(i=0;i<d.length;i+=4){ g=(d[i]*299+d[i+1]*587+d[i+2]*114)/1000|0; d[i]=g; hist[g]++; }
+      var sum=0; for(i=0;i<256;i++) sum+=i*hist[i];
+      var sB=0,wB=0,best=0,th=150;
+      for(i=0;i<256;i++){ wB+=hist[i]; if(!wB) continue; var wF=n-wB; if(!wF) break; sB+=i*hist[i]; var mB=sB/wB, mF=(sum-sB)/wF, v=wB*wF*(mB-mF)*(mB-mF); if(v>best){best=v; th=i;} }
+      for(i=0;i<d.length;i+=4){ g=d[i]>th?255:0; d[i]=d[i+1]=d[i+2]=g; }
+      cx.putImageData(im,0,0); return cv;
+    });
+  }
+
+  function run(files){
+    files = Array.prototype.filter.call(files||[], function(f){ return f && /^image\//.test(f.type); });
+    if(!files.length || busy) return;
+    openSheet();
+    /* 명단(familyCompanies.js)을 못 불러온 상태면 대조할 수 없으니 먼저 알림 — 카톡 등에서 파일로 연 경우 */
+    if(!Array.isArray(window.familyCompanies) || !window.familyCompanies.length){
+      setProg(0,'가족회사 명단을 불러오지 못해 대조할 수 없습니다. 파일로 열지 말고 검색기 주소(https://inusanhak5.github.io/inu-family-search/)로 열어 주세요.');
+      return;
+    } busy=true; $('psBtns').classList.add('busy');
+    var texts=[];
+    getWorker().then(function(w){
+      var chain=Promise.resolve();
+      files.forEach(function(f,fi){
+        ['4','11'].forEach(function(psm,pi){
+          chain=chain.then(function(){
+            stage='사진 읽는 중… '+(files.length>1?(fi+1)+'/'+files.length+'장 · ':'')+(pi+1)+'/2단계';
+            return w.setParameters({tessedit_pageseg_mode:psm}).then(function(){ return prep(f); })
+              .then(function(cv){ return w.recognize(cv); }).then(function(r){ texts.push(r.data.text); });
+          });
+        });
+      });
+      return chain;
+    }).then(function(){
+      var all=texts.join('\n'), x=M.extractFromOcr(all, getIdx());
+      busy=false; $('psBtns').classList.remove('busy'); overlay.hidden=true;
+      show(x, all, files.length);
+    }).catch(function(e){
+      busy=false; $('psBtns').classList.remove('busy');
+      setProg(0, (e && e.message) || '사진을 읽지 못했습니다.');
+    });
+  }
+
+  function show(x, raw, n){
+    if(window.__hideStatus) window.__hideStatus();
+    var list=Array.isArray(window.familyCompanies)?window.familyCompanies:[];
+    var rows=x.hits.map(function(h){ for(var i=0;i<list.length;i++){ if(String(list[i].인증서번호||'').trim()===h.c.no) return list[i]; } return null; }).filter(Boolean);
+    var area=$('resultArea');
+    if(rows.length && typeof window.renderTable==='function') window.renderTable(rows);
+    else area.innerHTML='<div class="no-result">'+(x.unknown.length?'사진 속 기업 중 가족회사가 없습니다.':'사진에서 기업명을 찾지 못했습니다. 밝은 곳에서 반듯하게 다시 찍어 주세요.')+'</div>';
+    var total=rows.length+x.unknown.length;
+    var box=document.createElement('div'); box.className='ps-sum';
+    box.innerHTML=
+      '<div class="t"><span>📷 사진 '+n+'장에서 기업 <b>'+total+'</b>곳 · 가족회사 <span class="ok">'+rows.length+'곳</span></span>'+
+      '<button type="button" class="again" id="psAgain">다른 사진</button></div>'+
+      (x.unknown.length?'<div class="none">가족회사 아님(명단에 없음): '+x.unknown.map(function(u){return '<span class="chip">'+esc(u)+'</span>';}).join('')+'</div>':'')+
+      '<div class="tip">사진에서 글자를 읽는 방식이라 빠진 기업이 있을 수 있습니다. 빠진 곳은 위 기업명 칸에서 검색해 주세요.</div>'+
+      '<details><summary>사진에서 읽은 글자 보기</summary><pre>'+esc(raw.split(/\r?\n/).filter(function(l){return l.trim();}).join('\n'))+'</pre></details>';
+    area.insertBefore(box, area.firstChild);
+    $('psAgain').addEventListener('click', openSheet);
+    area.scrollIntoView({behavior:'smooth', block:'start'});
+  }
+
+  ['psCamInput','psFileInput'].forEach(function(id){ $(id).addEventListener('change', function(e){ run(e.target.files); e.target.value=''; }); });
+  /* PC: 캡처 붙여넣기(Ctrl+V) · 끌어다 놓기 */
+  document.addEventListener('paste', function(e){
+    var fs=(e.clipboardData&&e.clipboardData.files)||[];
+    if(fs.length && /^image\//.test(fs[0].type)){ e.preventDefault(); run(fs); }
+  });
+  ['dragover','dragenter'].forEach(function(ev){ document.addEventListener(ev, function(e){ if(e.dataTransfer && Array.prototype.indexOf.call(e.dataTransfer.types||[],'Files')>=0){ e.preventDefault(); sheet.classList.add('drag'); } }); });
+  ['dragleave','drop'].forEach(function(ev){ document.addEventListener(ev, function(){ sheet.classList.remove('drag'); }); });
+  document.addEventListener('drop', function(e){ var fs=e.dataTransfer&&e.dataTransfer.files; if(fs&&fs.length&&/^image\//.test(fs[0].type)){ e.preventDefault(); run(fs); } });
+})();
+</script>
+
 </body>
 </html>
