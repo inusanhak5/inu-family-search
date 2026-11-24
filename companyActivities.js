@@ -1,6 +1,6 @@
 // Auto-generated companyActivities.js (산학협력활동)
 window.companyActivitiesMeta = {
-  "generatedAt": "2026-09-09 14:11:00",
+  "generatedAt": "2026-11-23",
   "excelFile": "가족회사 산학협력활동(261123).xlsx",
   "columnsDetected": {
     "bizNo": "사업자등록번호",
@@ -15,8 +15,8 @@ window.companyActivitiesMeta = {
     "evidenceUrl": "증빙자료",
     "note": "기타"
   },
-  "matchedCompanies": 129,
-  "totalActivities": 248
+  "matchedCompanies": 128,
+  "totalActivities": 247
 };
 
 window.companyActivitiesByBizNo = {
@@ -29,10 +29,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "이승호",
       "source": {
         "excelRow": 2
-      },
-      "note": "이승호"
+      }
     }
   ],
   "1152701574": [
@@ -44,10 +44,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "전광길",
       "source": {
         "excelRow": 3
-      },
-      "note": "전광길"
+      }
     }
   ],
   "7388601700": [
@@ -59,10 +59,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "이창연",
       "source": {
         "excelRow": 4
-      },
-      "note": "이창연"
+      }
     },
     {
       "date": "2025-10-18",
@@ -72,10 +72,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "이미경",
       "source": {
         "excelRow": 29
-      },
-      "note": "이미경"
+      }
     }
   ],
   "1318609672": [
@@ -87,10 +87,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "안호선",
       "source": {
         "excelRow": 5
-      },
-      "note": "안호선"
+      }
     },
     {
       "date": "2025-10-28",
@@ -100,10 +100,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김지범",
       "source": {
         "excelRow": 32
-      },
-      "note": "김지범"
+      }
     },
     {
       "date": "2025-10-17",
@@ -113,10 +113,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "이승수 대표(1인)",
       "source": {
         "excelRow": 50
-      },
-      "note": "이승수 대표(1인)"
+      }
     },
     {
       "date": "2026-01-20",
@@ -126,10 +126,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "이승수 대표이사, 이지안 대리(2인)",
       "source": {
         "excelRow": 125
-      },
-      "note": "이승수 대표이사, 이지안 대리(2인)"
+      }
     },
     {
       "date": "2026-06-05",
@@ -139,10 +139,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "컴퓨터공학부 김지범",
       "source": {
-        "excelRow": 185
-      },
-      "note": "컴퓨터공학부 김지범"
+        "excelRow": 184
+      }
     }
   ],
   "1318643855": [
@@ -154,10 +154,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "안호선",
       "source": {
         "excelRow": 6
-      },
-      "note": "안호선"
+      }
     }
   ],
   "1318628984": [
@@ -169,10 +169,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김태민",
       "source": {
         "excelRow": 7
-      },
-      "note": "김태민"
+      }
     }
   ],
   "5618801875": [
@@ -184,10 +184,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김태민",
       "source": {
         "excelRow": 8
-      },
-      "note": "김태민"
+      }
     }
   ],
   "1225269730": [
@@ -199,10 +199,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김경태",
       "source": {
         "excelRow": 9
-      },
-      "note": "김경태"
+      }
     }
   ],
   "1148656092": [
@@ -214,10 +214,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "안혜신",
       "source": {
         "excelRow": 10
-      },
-      "note": "안혜신"
+      }
     },
     {
       "date": "2025-01-02",
@@ -226,7 +226,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 85
       }
@@ -239,10 +238,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "박민수 연구원, 원승연 대리, 이유란 대리(3인)",
       "source": {
-        "excelRow": 223
-      },
-      "note": "박민수 연구원, 원승연 대리, 이유란 대리(3인)"
+        "excelRow": 222
+      }
     },
     {
       "date": "2026-05-26",
@@ -252,10 +251,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "박재선 부장, 원승연 대리, 이유란 대리(3인)",
       "source": {
-        "excelRow": 235
-      },
-      "note": "박재선 부장, 원승연 대리, 이유란 대리(3인)"
+        "excelRow": 234
+      }
     },
     {
       "date": "2026-06-16",
@@ -265,10 +264,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "박재선 부장, 원승연 대리, 이유란 대리(3인)",
       "source": {
-        "excelRow": 245
-      },
-      "note": "박재선 부장, 원승연 대리, 이유란 대리(3인)"
+        "excelRow": 244
+      }
     }
   ],
   "2438702926": [
@@ -280,10 +279,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "왕린",
       "source": {
         "excelRow": 11
-      },
-      "note": "왕린"
+      }
     },
     {
       "date": "2025-12-22",
@@ -293,10 +292,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "왕린",
       "source": {
         "excelRow": 38
-      },
-      "note": "왕린"
+      }
     }
   ],
   "7618701070": [
@@ -308,10 +307,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "오태근",
       "source": {
         "excelRow": 12
-      },
-      "note": "오태근"
+      }
     },
     {
       "date": "2025-11-10",
@@ -320,7 +319,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 97
       }
@@ -335,10 +333,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "임원경",
       "source": {
         "excelRow": 13
-      },
-      "note": "임원경"
+      }
     },
     {
       "date": "2026-03-27",
@@ -348,10 +346,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "산학협력중점교수 임원경",
       "source": {
-        "excelRow": 173
-      },
-      "note": "산학협력중점교수 임원경"
+        "excelRow": 172
+      }
     }
   ],
   "8558703261": [
@@ -363,10 +361,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "전광길",
       "source": {
         "excelRow": 14
-      },
-      "note": "전광길"
+      }
     },
     {
       "date": "2026-03-20",
@@ -376,10 +374,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "디자인학부 안혜신",
       "source": {
-        "excelRow": 170
-      },
-      "note": "디자인학부 안혜신"
+        "excelRow": 169
+      }
     }
   ],
   "2958801148": [
@@ -391,10 +389,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "왕린",
       "source": {
         "excelRow": 15
-      },
-      "note": "왕린"
+      }
     }
   ],
   "3128672094": [
@@ -406,10 +404,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "최현규",
       "source": {
         "excelRow": 16
-      },
-      "note": "최현규"
+      }
     },
     {
       "date": "2025-10-17",
@@ -419,10 +417,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "최근욱 팀장(1인)",
       "source": {
         "excelRow": 51
-      },
-      "note": "최근욱 팀장(1인)"
+      }
     },
     {
       "date": "2025-07-11",
@@ -432,10 +430,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "최근욱 팀장(1인)",
       "source": {
         "excelRow": 74
-      },
-      "note": "최근욱 팀장(1인)"
+      }
     },
     {
       "date": "2026-02-04",
@@ -445,10 +443,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "김혜린 직원(1인)",
       "source": {
         "excelRow": 109
-      },
-      "note": "김혜린 직원(1인)"
+      }
     },
     {
       "date": "2026-05-15",
@@ -458,10 +456,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "전기공학과 최현규",
       "source": {
-        "excelRow": 180
-      },
-      "note": "전기공학과 최현규"
+        "excelRow": 179
+      }
     },
     {
       "date": "2026-05-19",
@@ -471,10 +469,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "김혜린 차장, 최재명 책임(2인)",
       "source": {
-        "excelRow": 202
-      },
-      "note": "김혜린 차장, 최재명 책임(2인)"
+        "excelRow": 201
+      }
     },
     {
       "date": "2026-05-26",
@@ -484,10 +482,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "임규성 책임연구원(1인)",
       "source": {
-        "excelRow": 231
-      },
-      "note": "임규성 책임연구원(1인)"
+        "excelRow": 230
+      }
     }
   ],
   "1588601321": [
@@ -499,10 +497,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "차재민",
       "source": {
         "excelRow": 17
-      },
-      "note": "차재민"
+      }
     }
   ],
   "1228609659": [
@@ -514,10 +512,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "임원경",
       "source": {
         "excelRow": 18
-      },
-      "note": "임원경"
+      }
     }
   ],
   "5578702280": [
@@ -529,10 +527,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "왕린",
       "source": {
         "excelRow": 19
-      },
-      "note": "왕린"
+      }
     }
   ],
   "1318625935": [
@@ -544,10 +542,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "강상혁",
       "source": {
         "excelRow": 20
-      },
-      "note": "강상혁"
+      }
     },
     {
       "date": "2026-04-28",
@@ -557,10 +555,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "김덕호 대표이사(1인)",
       "source": {
-        "excelRow": 216
-      },
-      "note": "김덕호 대표이사(1인)"
+        "excelRow": 215
+      }
     }
   ],
   "1370860500": [
@@ -572,10 +570,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "임원경",
       "source": {
         "excelRow": 21
-      },
-      "note": "임원경"
+      }
     },
     {
       "date": "2026-03-06",
@@ -585,10 +583,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "산학협력중점교수 임원경",
       "source": {
-        "excelRow": 165
-      },
-      "note": "산학협력중점교수 임원경"
+        "excelRow": 164
+      }
     }
   ],
   "1828700910": [
@@ -600,10 +598,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "안혜신",
       "source": {
         "excelRow": 22
-      },
-      "note": "안혜신"
+      }
     },
     {
       "date": "2026-02-04",
@@ -613,10 +611,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "이창선 이사(1인)",
       "source": {
         "excelRow": 102
-      },
-      "note": "이창선 이사(1인)"
+      }
     }
   ],
   "1398119806": [
@@ -628,10 +626,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "이원종",
       "source": {
         "excelRow": 23
-      },
-      "note": "이원종"
+      }
     }
   ],
   "1088191594": [
@@ -643,10 +641,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김태민",
       "source": {
         "excelRow": 24
-      },
-      "note": "김태민"
+      }
     },
     {
       "date": "2026-04-21",
@@ -656,10 +654,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "미디어커뮤니케이션학과 김태민",
       "source": {
-        "excelRow": 176
-      },
-      "note": "미디어커뮤니케이션학과 김태민"
+        "excelRow": 175
+      }
     }
   ],
   "1228166806": [
@@ -671,10 +669,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "최승식",
       "source": {
         "excelRow": 25
-      },
-      "note": "최승식"
+      }
     },
     {
       "date": "2025-12-01",
@@ -684,10 +682,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "유순동",
       "source": {
         "excelRow": 37
-      },
-      "note": "유순동"
+      }
     },
     {
       "date": "2025-10-17",
@@ -697,10 +695,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "이시영 실장(1인)",
       "source": {
         "excelRow": 49
-      },
-      "note": "이시영 실장(1인)"
+      }
     },
     {
       "date": "2026-05-19",
@@ -710,10 +708,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "이시영 실장(1인)",
       "source": {
-        "excelRow": 208
-      },
-      "note": "이시영 실장(1인)"
+        "excelRow": 207
+      }
     },
     {
       "date": "2026-04-28",
@@ -723,10 +721,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "이선영 대리(1인)",
       "source": {
-        "excelRow": 215
-      },
-      "note": "이선영 대리(1인)"
+        "excelRow": 214
+      }
     },
     {
       "date": "2026-05-26",
@@ -736,10 +734,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "이선영 대리(1인)",
       "source": {
-        "excelRow": 226
-      },
-      "note": "이선영 대리(1인)"
+        "excelRow": 225
+      }
     }
   ],
   "1083136112": [
@@ -751,10 +749,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김지범",
       "source": {
         "excelRow": 26
-      },
-      "note": "김지범"
+      }
     },
     {
       "date": "2026-07-02",
@@ -764,10 +762,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "산학협력중점교수 유순동",
       "source": {
-        "excelRow": 190
-      },
-      "note": "산학협력중점교수 유순동"
+        "excelRow": 189
+      }
     },
     {
       "date": "2026-05-26",
@@ -777,10 +775,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "변강태 대표(1인)",
       "source": {
-        "excelRow": 234
-      },
-      "note": "변강태 대표(1인)"
+        "excelRow": 233
+      }
     }
   ],
   "5808603225": [
@@ -792,10 +790,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "박상훈",
       "source": {
         "excelRow": 27
-      },
-      "note": "박상훈"
+      }
     }
   ],
   "8468101796": [
@@ -807,10 +805,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김도엽",
       "source": {
         "excelRow": 28
-      },
-      "note": "김도엽"
+      }
     },
     {
       "date": "2026-03-06",
@@ -820,10 +818,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "정보통신공학과 김도엽",
       "source": {
-        "excelRow": 166
-      },
-      "note": "정보통신공학과 김도엽"
+        "excelRow": 165
+      }
     }
   ],
   "1378101784": [
@@ -835,10 +833,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "이종헌",
       "source": {
         "excelRow": 30
-      },
-      "note": "이종헌"
+      }
     },
     {
       "date": "2026-01-20",
@@ -848,10 +846,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "강상현 선임매니저, 장동연 선임(2인)",
       "source": {
         "excelRow": 118
-      },
-      "note": "강상현 선임매니저, 장동연 선임(2인)"
+      }
     },
     {
       "date": "2026-01-31",
@@ -873,10 +871,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "바이오-로봇시스템공학과 김우용",
       "source": {
-        "excelRow": 158
-      },
-      "note": "바이오-로봇시스템공학과 김우용"
+        "excelRow": 157
+      }
     },
     {
       "date": "2026-05-19",
@@ -886,10 +884,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "박준기 선임 ,장동연 선임(2인)",
       "source": {
-        "excelRow": 205
-      },
-      "note": "박준기 선임 ,장동연 선임(2인)"
+        "excelRow": 204
+      }
     }
   ],
   "2478802513": [
@@ -901,10 +899,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김경태",
       "source": {
         "excelRow": 31
-      },
-      "note": "김경태"
+      }
     }
   ],
   "1313449340": [
@@ -916,10 +914,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "류도현",
       "source": {
         "excelRow": 33
-      },
-      "note": "류도현"
+      }
     },
     {
       "date": "2026-02-04",
@@ -929,10 +927,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "배재원 부장(1인)",
       "source": {
         "excelRow": 110
-      },
-      "note": "배재원 부장(1인)"
+      }
     }
   ],
   "4228103905": [
@@ -944,10 +942,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "이승정",
       "source": {
         "excelRow": 34
-      },
-      "note": "이승정"
+      }
     },
     {
       "date": "2025-05-29",
@@ -956,7 +954,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 88
       }
@@ -971,10 +968,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "이세원",
       "source": {
         "excelRow": 35
-      },
-      "note": "이세원"
+      }
     }
   ],
   "1068611978": [
@@ -986,10 +983,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "최병길",
       "source": {
         "excelRow": 36
-      },
-      "note": "최병길"
+      }
     },
     {
       "date": "2025-09-19",
@@ -998,7 +995,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 91
       }
@@ -1011,10 +1007,10 @@ window.companyActivitiesByBizNo = {
       "dept": "기술사업화팀",
       "owner": "이현지",
       "evidenceUrl": "협약서",
+      "note": "도시환경공학부 최병길",
       "source": {
         "excelRow": 131
-      },
-      "note": "도시환경공학부 최병길"
+      }
     }
   ],
   "6248603127": [
@@ -1026,10 +1022,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "전광길",
       "source": {
         "excelRow": 39
-      },
-      "note": "전광길"
+      }
     }
   ],
   "3238100329": [
@@ -1041,10 +1037,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "왕린",
       "source": {
         "excelRow": 40
-      },
-      "note": "왕린"
+      }
     }
   ],
   "1438129550": [
@@ -1056,10 +1052,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "왕린",
       "source": {
         "excelRow": 41
-      },
-      "note": "왕린"
+      }
     }
   ],
   "5048801324": [
@@ -1071,10 +1067,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김지범",
       "source": {
         "excelRow": 42
-      },
-      "note": "김지범"
+      }
     }
   ],
   "1198689322": [
@@ -1086,10 +1082,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "송왕제",
       "source": {
         "excelRow": 43
-      },
-      "note": "송왕제"
+      }
     },
     {
       "date": "2025-10-17",
@@ -1099,10 +1095,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "이재성 대표, 김동현 연구소장 참석(2인)",
       "source": {
         "excelRow": 48
-      },
-      "note": "이재성 대표, 김동현 연구소장 참석(2인)"
+      }
     },
     {
       "date": "2026-02-04",
@@ -1112,10 +1108,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "정진희 직원(1인)",
       "source": {
         "excelRow": 108
-      },
-      "note": "정진희 직원(1인)"
+      }
     },
     {
       "date": "2026-04-28",
@@ -1125,10 +1121,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "박홍조 주임연구원, 최정은 주임, 김지현 주임(3인)",
       "source": {
-        "excelRow": 219
-      },
-      "note": "박홍조 주임연구원, 최정은 주임, 김지현 주임(3인)"
+        "excelRow": 218
+      }
     },
     {
       "date": "2026-05-26",
@@ -1138,10 +1134,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "박홍조 주임연구원(1인)",
       "source": {
-        "excelRow": 229
-      },
-      "note": "박홍조 주임연구원(1인)"
+        "excelRow": 228
+      }
     },
     {
       "date": "2026-06-16",
@@ -1151,10 +1147,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "박홍조 주임연구원(1인)",
       "source": {
-        "excelRow": 241
-      },
-      "note": "박홍조 주임연구원(1인)"
+        "excelRow": 240
+      }
     }
   ],
   "4938702900": [
@@ -1166,10 +1162,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "전광길",
       "source": {
         "excelRow": 44
-      },
-      "note": "전광길"
+      }
     }
   ],
   "1238131687": [
@@ -1181,13 +1177,13 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김지범",
       "source": {
         "excelRow": 45
-      },
-      "note": "김지범"
+      }
     },
     {
-      "date": "2026-04-06",
+      "date": "20260406",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -1206,10 +1202,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "컴퓨터공학부 김지범",
       "source": {
-        "excelRow": 195
-      },
-      "note": "컴퓨터공학부 김지범"
+        "excelRow": 194
+      }
     }
   ],
   "1378121631": [
@@ -1221,10 +1217,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "김태민",
       "source": {
         "excelRow": 46
-      },
-      "note": "김태민"
+      }
     },
     {
       "date": "2026-03-11",
@@ -1234,10 +1230,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "산학협력중점교수 임원경",
       "source": {
-        "excelRow": 168
-      },
-      "note": "산학협력중점교수 임원경"
+        "excelRow": 167
+      }
     },
     {
       "date": "2026-05-19",
@@ -1247,10 +1243,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "박종태 대표(1인)",
       "source": {
-        "excelRow": 209
-      },
-      "note": "박종태 대표(1인)"
+        "excelRow": 208
+      }
     }
   ],
   "1208615650": [
@@ -1262,10 +1258,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원",
+      "note": "안호선",
       "source": {
         "excelRow": 47
-      },
-      "note": "안호선"
+      }
     },
     {
       "date": "2027-01-31",
@@ -1289,10 +1285,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "손원근 대표이사, 현봉수 CTO(2인)",
       "source": {
         "excelRow": 52
-      },
-      "note": "손원근 대표이사, 현봉수 CTO(2인)"
+      }
     },
     {
       "date": "2025-08-13",
@@ -1302,10 +1298,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "김수민",
       "evidenceUrl": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고서 제출",
+      "note": "전광길 교수(멘토)",
       "source": {
         "excelRow": 60
-      },
-      "note": "전광길 교수(멘토)"
+      }
     },
     {
       "date": "2025-07-11",
@@ -1315,10 +1311,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "송원근 대표이사, 김혜진 이사(2인)",
       "source": {
         "excelRow": 70
-      },
-      "note": "송원근 대표이사, 김혜진 이사(2인)"
+      }
     },
     {
       "date": "2025-09-19",
@@ -1327,7 +1323,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 92
       }
@@ -1340,10 +1335,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "현봉수 연구소장, 전승길 직원(2인)",
       "source": {
         "excelRow": 104
-      },
-      "note": "현봉수 연구소장, 전승길 직원(2인)"
+      }
     },
     {
       "date": "2025-12-30",
@@ -1353,10 +1348,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "발전기금 영수증",
+      "note": "손원근 대표(실버)",
       "source": {
         "excelRow": 128
-      },
-      "note": "손원근 대표(실버)"
+      }
     },
     {
       "date": "2025-09-22",
@@ -1366,10 +1361,10 @@ window.companyActivitiesByBizNo = {
       "dept": "기술사업화팀",
       "owner": "이현지",
       "evidenceUrl": "협약서",
+      "note": "임베디드시스템공학과 전광길 교수",
       "source": {
         "excelRow": 132
-      },
-      "note": "임베디드시스템공학과 전광길 교수"
+      }
     },
     {
       "date": "2026-05-19",
@@ -1379,10 +1374,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "현봉수 CTO(1인)",
       "source": {
-        "excelRow": 212
-      },
-      "note": "현봉수 CTO(1인)"
+        "excelRow": 211
+      }
     }
   ],
   "1228182903": [
@@ -1394,10 +1389,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "이해광 수석(1인)",
       "source": {
         "excelRow": 53
-      },
-      "note": "이해광 수석(1인)"
+      }
     },
     {
       "date": "2025-03-20",
@@ -1407,10 +1402,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "정진우",
       "evidenceUrl": "상장",
+      "note": "박해신",
       "source": {
         "excelRow": 76
-      },
-      "note": "박해신"
+      }
     },
     {
       "date": "2025-12-01",
@@ -1420,10 +1415,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "정진우",
       "evidenceUrl": "상장",
+      "note": "박해신",
       "source": {
         "excelRow": 78
-      },
-      "note": "박해신"
+      }
     },
     {
       "date": "2026-05-19",
@@ -1433,10 +1428,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "이해광 수석(1인)",
       "source": {
-        "excelRow": 199
-      },
-      "note": "이해광 수석(1인)"
+        "excelRow": 198
+      }
     }
   ],
   "1318151063": [
@@ -1448,10 +1443,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "임지영 팀장(1인)",
       "source": {
         "excelRow": 54
-      },
-      "note": "임지영 팀장(1인)"
+      }
     },
     {
       "date": "2025-07-11",
@@ -1461,10 +1456,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "임지영 팀장(1인)",
       "source": {
         "excelRow": 72
-      },
-      "note": "임지영 팀장(1인)"
+      }
     },
     {
       "date": "2025-03-20",
@@ -1474,10 +1469,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "정진우",
       "evidenceUrl": "상장",
+      "note": "김충환",
       "source": {
         "excelRow": 75
-      },
-      "note": "김충환"
+      }
     },
     {
       "date": "2026-05-19",
@@ -1487,10 +1482,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "오문환 상무이사(1인)",
       "source": {
-        "excelRow": 206
-      },
-      "note": "오문환 상무이사(1인)"
+        "excelRow": 205
+      }
     },
     {
       "date": "2026-04-28",
@@ -1500,10 +1495,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "윤성현 과장, 이훈재 과장, 이근수 부장(3인)",
       "source": {
-        "excelRow": 218
-      },
-      "note": "윤성현 과장, 이훈재 과장, 이근수 부장(3인)"
+        "excelRow": 217
+      }
     },
     {
       "date": "2026-05-26",
@@ -1513,10 +1508,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "윤성현 과장, 이근수 부장(2인)",
       "source": {
-        "excelRow": 228
-      },
-      "note": "윤성현 과장, 이근수 부장(2인)"
+        "excelRow": 227
+      }
     }
   ],
   "1318609371": [
@@ -1528,10 +1523,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "유길상 상무(1인)",
       "source": {
         "excelRow": 55
-      },
-      "note": "유길상 상무(1인)"
+      }
     },
     {
       "date": "2026-05-19",
@@ -1541,10 +1536,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "유길상 상무(1인)",
       "source": {
-        "excelRow": 211
-      },
-      "note": "유길상 상무(1인)"
+        "excelRow": 210
+      }
     }
   ],
   "2388801373": [
@@ -1556,10 +1551,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "고부열 이사(1인)",
       "source": {
         "excelRow": 56
-      },
-      "note": "고부열 이사(1인)"
+      }
     }
   ],
   "1218127227": [
@@ -1571,10 +1566,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "김보연 대리(1인)",
       "source": {
         "excelRow": 57
-      },
-      "note": "김보연 대리(1인)"
+      }
     },
     {
       "date": "2025-07-11",
@@ -1584,10 +1579,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "김보연 대리(1인)",
       "source": {
         "excelRow": 65
-      },
-      "note": "김보연 대리(1인)"
+      }
     },
     {
       "date": "2026-02-04",
@@ -1597,10 +1592,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "김보연 대리(1인)",
       "source": {
         "excelRow": 112
-      },
-      "note": "김보연 대리(1인)"
+      }
     }
   ],
   "1228126347": [
@@ -1612,10 +1607,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "오학성 CTO(1인)",
       "source": {
         "excelRow": 58
-      },
-      "note": "오학성 CTO(1인)"
+      }
     },
     {
       "date": "2025-07-11",
@@ -1625,13 +1620,13 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "오학성 CTO(1인)",
       "source": {
         "excelRow": 71
-      },
-      "note": "오학성 CTO(1인)"
+      }
     },
     {
-      "date": "2026-03-10",
+      "date": "20260310",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -1650,10 +1645,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "오학성 CTO(1인)",
       "source": {
-        "excelRow": 201
-      },
-      "note": "오학성 CTO(1인)"
+        "excelRow": 200
+      }
     },
     {
       "date": "2026-04-28",
@@ -1663,10 +1658,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "심우철 수석연구원, 오학성 연구위원(2인)",
       "source": {
-        "excelRow": 217
-      },
-      "note": "심우철 수석연구원, 오학성 연구위원(2인)"
+        "excelRow": 216
+      }
     },
     {
       "date": "2026-05-26",
@@ -1676,10 +1671,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "이희정 연구원, 심우철 수석연구원, 오학성 연구위원(3인)",
       "source": {
-        "excelRow": 227
-      },
-      "note": "이희정 연구원, 심우철 수석연구원, 오학성 연구위원(3인)"
+        "excelRow": 226
+      }
     },
     {
       "date": "2026-06-16",
@@ -1689,10 +1684,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "심우철 수석연구원, 이희정 연구원, 오학성 연구위원(3인)",
       "source": {
-        "excelRow": 240
-      },
-      "note": "심우철 수석연구원, 이희정 연구원, 오학성 연구위원(3인)"
+        "excelRow": 239
+      }
     }
   ],
   "6668601948": [
@@ -1704,10 +1699,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonnews.com/news/articleView.html?idxno=430314",
+      "note": "김우철 대표(1인)",
       "source": {
         "excelRow": 59
-      },
-      "note": "김우철 대표(1인)"
+      }
     },
     {
       "date": "2026-05-19",
@@ -1717,10 +1712,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "김우철 대표(1인)",
       "source": {
-        "excelRow": 198
-      },
-      "note": "김우철 대표(1인)"
+        "excelRow": 197
+      }
     }
   ],
   "5990800113": [
@@ -1732,10 +1727,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "김수민",
       "evidenceUrl": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고서 제출",
+      "note": "왕린 교수(멘토)",
       "source": {
         "excelRow": 61
-      },
-      "note": "왕린 교수(멘토)"
+      }
     }
   ],
   "1318632815": [
@@ -1747,10 +1742,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "김수민",
       "evidenceUrl": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고서 제출",
+      "note": "이민철 교수(멘토)",
       "source": {
         "excelRow": 62
-      },
-      "note": "이민철 교수(멘토)"
+      }
     },
     {
       "date": "2026-02-26",
@@ -1760,10 +1755,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "안전공학과 이민철",
       "source": {
-        "excelRow": 162
-      },
-      "note": "안전공학과 이민철"
+        "excelRow": 161
+      }
     }
   ],
   "1378186158": [
@@ -1775,10 +1770,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "김수민",
       "evidenceUrl": "인천지방중소벤처기업사업 기술 멘토링 사업 결과보고서 제출",
+      "note": "임원경 교수(멘토)",
       "source": {
         "excelRow": 63
-      },
-      "note": "임원경 교수(멘토)"
+      }
     }
   ],
   "3108125493": [
@@ -1790,10 +1785,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "박진현 차장(1인)",
       "source": {
         "excelRow": 64
-      },
-      "note": "박진현 차장(1인)"
+      }
     },
     {
       "date": "2025-12-18",
@@ -1803,10 +1798,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "정진우",
       "evidenceUrl": "상장",
+      "note": "박무수",
       "source": {
         "excelRow": 82
-      },
-      "note": "박무수"
+      }
     }
   ],
   "1212523036": [
@@ -1818,10 +1813,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "김은주 대표(1인)",
       "source": {
         "excelRow": 66
-      },
-      "note": "김은주 대표(1인)"
+      }
     },
     {
       "date": "2026-05-19",
@@ -1831,10 +1826,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "김은주 대표(1인)",
       "source": {
-        "excelRow": 203
-      },
-      "note": "김은주 대표(1인)"
+        "excelRow": 202
+      }
     }
   ],
   "2208113641": [
@@ -1846,10 +1841,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "오정훈 수석매니저(1인)",
       "source": {
         "excelRow": 67
-      },
-      "note": "오정훈 수석매니저(1인)"
+      }
     }
   ],
   "1218604364": [
@@ -1861,10 +1856,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "강수민 대표, 장두진 상무이사(2인)",
       "source": {
         "excelRow": 68
-      },
-      "note": "강수민 대표, 장두진 상무이사(2인)"
+      }
     },
     {
       "date": "2025-12-18",
@@ -1874,10 +1869,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "정진우",
       "evidenceUrl": "상장",
+      "note": "강수민",
       "source": {
         "excelRow": 83
-      },
-      "note": "강수민"
+      }
     },
     {
       "date": "2026-02-04",
@@ -1887,10 +1882,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "강수민 대표(1인)",
       "source": {
         "excelRow": 99
-      },
-      "note": "강수민 대표(1인)"
+      }
     },
     {
       "date": "2026-01-20",
@@ -1900,10 +1895,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "장두진 이사(1인)",
       "source": {
         "excelRow": 123
-      },
-      "note": "장두진 이사(1인)"
+      }
     }
   ],
   "1088121555": [
@@ -1915,10 +1910,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "이정은 이사(1인)",
       "source": {
         "excelRow": 69
-      },
-      "note": "이정은 이사(1인)"
+      }
     }
   ],
   "1098191393": [
@@ -1930,10 +1925,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.incheonilbo.com/news/articleView.html?idxno=1295992",
+      "note": "방근석 부장, 김정흠 부장(2인)",
       "source": {
         "excelRow": 73
-      },
-      "note": "방근석 부장, 김정흠 부장(2인)"
+      }
     },
     {
       "date": "2026-05-19",
@@ -1943,10 +1938,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "방근석 부장(1인)",
       "source": {
-        "excelRow": 207
-      },
-      "note": "방근석 부장(1인)"
+        "excelRow": 206
+      }
     }
   ],
   "1228199705": [
@@ -1958,10 +1953,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "정진우",
       "evidenceUrl": "상장",
+      "note": "추성호",
       "source": {
         "excelRow": 77
-      },
-      "note": "추성호"
+      }
     }
   ],
   "1312695553": [
@@ -1973,10 +1968,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "정진우",
       "evidenceUrl": "상장",
+      "note": "예진년",
       "source": {
         "excelRow": 79
-      },
-      "note": "예진년"
+      }
     }
   ],
   "1318636223": [
@@ -1988,10 +1983,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "정진우",
       "evidenceUrl": "상장",
+      "note": "박진수",
       "source": {
         "excelRow": 80
-      },
-      "note": "박진수"
+      }
     }
   ],
   "1318601383": [
@@ -2003,10 +1998,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "정진우",
       "evidenceUrl": "상장",
+      "note": "김석철",
       "source": {
         "excelRow": 81
-      },
-      "note": "김석철"
+      }
     }
   ],
   "1318169132": [
@@ -2018,10 +2013,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "정진우",
       "evidenceUrl": "상장",
+      "note": "조철연",
       "source": {
         "excelRow": 84
-      },
-      "note": "조철연"
+      }
     },
     {
       "date": "2026-04-28",
@@ -2031,10 +2026,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "송인건 이사(1인)",
       "source": {
-        "excelRow": 224
-      },
-      "note": "송인건 이사(1인)"
+        "excelRow": 223
+      }
     },
     {
       "date": "2026-05-26",
@@ -2044,10 +2039,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "송인건 이사(1인)",
       "source": {
-        "excelRow": 237
-      },
-      "note": "송인건 이사(1인)"
+        "excelRow": 236
+      }
     },
     {
       "date": "2026-06-16",
@@ -2057,10 +2052,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "송인건 이사(1인)",
       "source": {
-        "excelRow": 246
-      },
-      "note": "송인건 이사(1인)"
+        "excelRow": 245
+      }
     }
   ],
   "3198102124": [
@@ -2071,7 +2066,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 86
       }
@@ -2085,7 +2079,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 87
       }
@@ -2099,7 +2092,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 89
       }
@@ -2113,7 +2105,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 90
       }
@@ -2127,7 +2118,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 93
       }
@@ -2140,10 +2130,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "발전기금 영수증",
+      "note": "윤각진, 이순철 대표(골드)",
       "source": {
         "excelRow": 130
-      },
-      "note": "윤각진, 이순철 대표(골드)"
+      }
     },
     {
       "date": "2025-09-22",
@@ -2153,10 +2143,10 @@ window.companyActivitiesByBizNo = {
       "dept": "기술사업화팀",
       "owner": "이현지",
       "evidenceUrl": "협약서",
+      "note": "기계공학과 이강주 교수",
       "source": {
         "excelRow": 133
-      },
-      "note": "기계공학과 이강주 교수"
+      }
     },
     {
       "date": "2026-03-25",
@@ -2166,10 +2156,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "기계공학과 이강주",
       "source": {
-        "excelRow": 171
-      },
-      "note": "기계공학과 이강주"
+        "excelRow": 170
+      }
     }
   ],
   "1108150688": [
@@ -2180,7 +2170,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 94
       }
@@ -2193,10 +2182,10 @@ window.companyActivitiesByBizNo = {
       "dept": "기술사업화팀",
       "owner": "이현지",
       "evidenceUrl": "협약서",
+      "note": "전자공학부 김훈 교수",
       "source": {
         "excelRow": 134
-      },
-      "note": "전자공학부 김훈 교수"
+      }
     }
   ],
   "1438603496": [
@@ -2207,7 +2196,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 95
       }
@@ -2220,10 +2208,10 @@ window.companyActivitiesByBizNo = {
       "dept": "기술사업화팀",
       "owner": "이현지",
       "evidenceUrl": "협약서",
+      "note": "전기공학과 이명훈 교수",
       "source": {
         "excelRow": 135
-      },
-      "note": "전기공학과 이명훈 교수"
+      }
     }
   ],
   "2878601707": [
@@ -2234,7 +2222,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 96
       }
@@ -2247,10 +2234,10 @@ window.companyActivitiesByBizNo = {
       "dept": "기술사업화팀",
       "owner": "이현지",
       "evidenceUrl": "협약서",
+      "note": "전기공학과 안덕주",
       "source": {
         "excelRow": 136
-      },
-      "note": "전기공학과 안덕주"
+      }
     }
   ],
   "3998603707": [
@@ -2262,10 +2249,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "김기훈 이사, 송요한 CVO(2인)",
       "source": {
         "excelRow": 98
-      },
-      "note": "김기훈 이사, 송요한 CVO(2인)"
+      }
     },
     {
       "date": "2026-04-08",
@@ -2275,10 +2262,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "디자인학부 한혜진",
       "source": {
-        "excelRow": 175
-      },
-      "note": "디자인학부 한혜진"
+        "excelRow": 174
+      }
     }
   ],
   "1318624353": [
@@ -2290,10 +2277,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "정현국 연구소장(1인)",
       "source": {
         "excelRow": 100
-      },
-      "note": "정현국 연구소장(1인)"
+      }
     }
   ],
   "8508703475": [
@@ -2305,10 +2292,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "정유섭 대표(1인)",
       "source": {
         "excelRow": 101
-      },
-      "note": "정유섭 대표(1인)"
+      }
     }
   ],
   "8118802783": [
@@ -2320,10 +2307,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "김범수 대표(1인)",
       "source": {
         "excelRow": 103
-      },
-      "note": "김범수 대표(1인)"
+      }
     }
   ],
   "2808703676": [
@@ -2335,10 +2322,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "정지윤 실장, 정은정 팀장(2인)",
       "source": {
         "excelRow": 105
-      },
-      "note": "정지윤 실장, 정은정 팀장(2인)"
+      }
     }
   ],
   "1690203028": [
@@ -2350,10 +2337,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "최영석 대표(1인)",
       "source": {
         "excelRow": 106
-      },
-      "note": "최영석 대표(1인)"
+      }
     }
   ],
   "5598700046": [
@@ -2365,13 +2352,13 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "박태근 상무, 최윤성 책임(2인)",
       "source": {
         "excelRow": 107
-      },
-      "note": "박태근 상무, 최윤성 책임(2인)"
+      }
     },
     {
-      "date": "2026-05-01",
+      "date": "20260501",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2392,10 +2379,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "곽제곤 대표(1인)",
       "source": {
         "excelRow": 111
-      },
-      "note": "곽제곤 대표(1인)"
+      }
     },
     {
       "date": "2026-08-24",
@@ -2405,10 +2392,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "임베디드시스템공학과 전광길",
       "source": {
-        "excelRow": 197
-      },
-      "note": "임베디드시스템공학과 전광길"
+        "excelRow": 196
+      }
     }
   ],
   "6478103839": [
@@ -2420,10 +2407,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "유주연 대표(1인)",
       "source": {
         "excelRow": 113
-      },
-      "note": "유주연 대표(1인)"
+      }
     },
     {
       "date": "2026-04-22",
@@ -2433,10 +2420,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "화학과 강동구",
       "source": {
-        "excelRow": 177
-      },
-      "note": "화학과 강동구"
+        "excelRow": 176
+      }
     }
   ],
   "7518801352": [
@@ -2448,10 +2435,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "이상원 이사(1인)",
       "source": {
         "excelRow": 114
-      },
-      "note": "이상원 이사(1인)"
+      }
     },
     {
       "date": "2026-02-26",
@@ -2461,10 +2448,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "컴퓨터공학부 이장호",
       "source": {
-        "excelRow": 161
-      },
-      "note": "컴퓨터공학부 이장호"
+        "excelRow": 160
+      }
     }
   ],
   "2958703488": [
@@ -2476,10 +2463,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=129067",
+      "note": "박아영 대표(1인)",
       "source": {
         "excelRow": 115
-      },
-      "note": "박아영 대표(1인)"
+      }
     },
     {
       "date": "2026-03-27",
@@ -2489,10 +2476,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "임베디드시스템공학과 전광길",
       "source": {
-        "excelRow": 172
-      },
-      "note": "임베디드시스템공학과 전광길"
+        "excelRow": 171
+      }
     }
   ],
   "1398142253": [
@@ -2504,10 +2491,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "이미란 책임(1인)",
       "source": {
         "excelRow": 116
-      },
-      "note": "이미란 책임(1인)"
+      }
     }
   ],
   "1318607747": [
@@ -2519,10 +2506,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "신무화 대표이사(1인)",
       "source": {
         "excelRow": 117
-      },
-      "note": "신무화 대표이사(1인)"
+      }
     }
   ],
   "1370463590": [
@@ -2534,10 +2521,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "김창연 실장, 양승령 팀장(2인)",
       "source": {
         "excelRow": 119
-      },
-      "note": "김창연 실장, 양승령 팀장(2인)"
+      }
     },
     {
       "date": "2026-05-26",
@@ -2547,10 +2534,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "신주희 주임(1인)",
       "source": {
-        "excelRow": 236
-      },
-      "note": "신주희 주임(1인)"
+        "excelRow": 235
+      }
     },
     {
       "date": "2026-06-16",
@@ -2560,10 +2547,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "신주희 주임(1인)",
       "source": {
-        "excelRow": 247
-      },
-      "note": "신주희 주임(1인)"
+        "excelRow": 246
+      }
     }
   ],
   "1398110843": [
@@ -2575,10 +2562,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "이미호 대표이사(1인)",
       "source": {
         "excelRow": 120
-      },
-      "note": "이미호 대표이사(1인)"
+      }
     }
   ],
   "1318633959": [
@@ -2590,10 +2577,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "김재인 과장(1인)",
       "source": {
         "excelRow": 121
-      },
-      "note": "김재인 과장(1인)"
+      }
     }
   ],
   "1168602909": [
@@ -2605,10 +2592,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "박유진 실정, 김지예 사원, 이길은 사원(3인)",
       "source": {
         "excelRow": 122
-      },
-      "note": "박유진 실정, 김지예 사원, 이길은 사원(3인)"
+      }
     }
   ],
   "3401802105": [
@@ -2620,10 +2607,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "백영지 이사(1인)",
       "source": {
         "excelRow": 124
-      },
-      "note": "백영지 이사(1인)"
+      }
     },
     {
       "date": "2026-08-20",
@@ -2633,10 +2620,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "컴퓨터공학부 김인수",
       "source": {
-        "excelRow": 196
-      },
-      "note": "컴퓨터공학부 김인수"
+        "excelRow": 195
+      }
     }
   ],
   "1398125536": [
@@ -2648,10 +2635,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.tournews21.com/news/articleView.html?idxno=127386",
+      "note": "정영훈 과장(1인)",
       "source": {
         "excelRow": 126
-      },
-      "note": "정영훈 과장(1인)"
+      }
     },
     {
       "date": "2026-05-26",
@@ -2661,10 +2648,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "장영훈 과장, 연동환 과장(2인)",
       "source": {
-        "excelRow": 233
-      },
-      "note": "장영훈 과장, 연동환 과장(2인)"
+        "excelRow": 232
+      }
     },
     {
       "date": "2026-06-16",
@@ -2674,10 +2661,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "장영훈 과장, 연동환 과장(2인)",
       "source": {
-        "excelRow": 244
-      },
-      "note": "장영훈 과장, 연동환 과장(2인)"
+        "excelRow": 243
+      }
     }
   ],
   "1608801240": [
@@ -2689,10 +2676,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "발전기금 영수증",
+      "note": "김대훈 대표(베이직)",
       "source": {
         "excelRow": 127
-      },
-      "note": "김대훈 대표(베이직)"
+      }
     },
     {
       "date": "2025-08-18",
@@ -2702,10 +2689,10 @@ window.companyActivitiesByBizNo = {
       "dept": "연구지원팀",
       "owner": "노마로",
       "evidenceUrl": "과제번호(202504130001)",
+      "note": "임베디드시스템공학과 전광길 교수",
       "source": {
         "excelRow": 137
-      },
-      "note": "임베디드시스템공학과 전광길 교수"
+      }
     },
     {
       "date": "2025-08-05",
@@ -2714,7 +2701,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 138
       }
@@ -2726,7 +2712,6 @@ window.companyActivitiesByBizNo = {
       "result": "협약서",
       "dept": "기술사업화팀",
       "owner": "김지현",
-      "evidenceUrl": "",
       "source": {
         "excelRow": 139
       }
@@ -2741,10 +2726,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "발전기금 영수증",
+      "note": "임현정 대표(베이직)",
       "source": {
         "excelRow": 129
-      },
-      "note": "임현정 대표(베이직)"
+      }
     }
   ],
   "2648703198": [
@@ -2831,7 +2816,7 @@ window.companyActivitiesByBizNo = {
   ],
   "7528601609": [
     {
-      "date": "2024-08-14",
+      "date": "20240814",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2845,7 +2830,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1398111459": [
     {
-      "date": "2026-01-21",
+      "date": "20260121",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2859,7 +2844,7 @@ window.companyActivitiesByBizNo = {
   ],
   "6598703192": [
     {
-      "date": "2026-04-21",
+      "date": "20260421",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2873,7 +2858,7 @@ window.companyActivitiesByBizNo = {
   ],
   "1238139826": [
     {
-      "date": "2026-05-01",
+      "date": "20260501",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2887,7 +2872,7 @@ window.companyActivitiesByBizNo = {
   ],
   "4398800375": [
     {
-      "date": "2026-05-01",
+      "date": "20260501",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2906,10 +2891,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "바이오-로봇시스템공학과 박기원",
       "source": {
-        "excelRow": 188
-      },
-      "note": "바이오-로봇시스템공학과 박기원"
+        "excelRow": 187
+      }
     },
     {
       "date": "2026-05-19",
@@ -2919,15 +2904,15 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "장응하 전무(1인)",
       "source": {
-        "excelRow": 214
-      },
-      "note": "장응하 전무(1인)"
+        "excelRow": 213
+      }
     }
   ],
   "1108186871": [
     {
-      "date": "2026-05-01",
+      "date": "20260501",
       "type": "기술이전",
       "title": "기술이전",
       "result": "협약서",
@@ -2936,20 +2921,6 @@ window.companyActivitiesByBizNo = {
       "evidenceUrl": "산학협력마일리지 자료(2026.08) 파일 참고",
       "source": {
         "excelRow": 156
-      }
-    }
-  ],
-  "1318190799": [
-    {
-      "date": "2025-01-08",
-      "type": "발전기금",
-      "title": "산학협력단 발전기금",
-      "result": "산학협력단 발전기금",
-      "dept": "산학협력팀",
-      "owner": "윤진영",
-      "evidenceUrl": "발전기금 영수증",
-      "source": {
-        "excelRow": 157
       }
     }
   ],
@@ -2962,10 +2933,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "기계공학과 박형범",
       "source": {
-        "excelRow": 159
-      },
-      "note": "기계공학과 박형범"
+        "excelRow": 158
+      }
     },
     {
       "date": "2026-05-27",
@@ -2975,10 +2946,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "기계공학과 박형범",
       "source": {
-        "excelRow": 183
-      },
-      "note": "기계공학과 박형범"
+        "excelRow": 182
+      }
     },
     {
       "date": "2026-06-24",
@@ -2988,10 +2959,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "기계공학과 박형범",
       "source": {
-        "excelRow": 187
-      },
-      "note": "기계공학과 박형범"
+        "excelRow": 186
+      }
     },
     {
       "date": "2026-07-28",
@@ -3001,10 +2972,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "기계공학과 박형범",
       "source": {
-        "excelRow": 194
-      },
-      "note": "기계공학과 박형범"
+        "excelRow": 193
+      }
     },
     {
       "date": "2026-04-28",
@@ -3014,10 +2985,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "손진수 연구원, 한지훈 책임연구원(2인)",
       "source": {
-        "excelRow": 220
-      },
-      "note": "손진수 연구원, 한지훈 책임연구원(2인)"
+        "excelRow": 219
+      }
     },
     {
       "date": "2026-05-26",
@@ -3027,10 +2998,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "손진수 연구원, 한지훈 책임연구원(2인)",
       "source": {
-        "excelRow": 230
-      },
-      "note": "손진수 연구원, 한지훈 책임연구원(2인)"
+        "excelRow": 229
+      }
     },
     {
       "date": "2026-06-16",
@@ -3040,10 +3011,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "손진수 연구원, 한지훈 책임연구원(2인)",
       "source": {
-        "excelRow": 242
-      },
-      "note": "손진수 연구원, 한지훈 책임연구원(2인)"
+        "excelRow": 241
+      }
     }
   ],
   "8293700765": [
@@ -3055,10 +3026,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "산학협력중점교수 임원경",
       "source": {
-        "excelRow": 160
-      },
-      "note": "산학협력중점교수 임원경"
+        "excelRow": 159
+      }
     }
   ],
   "2538802202": [
@@ -3070,10 +3041,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "산학협력중점교수 임원경",
       "source": {
-        "excelRow": 163
-      },
-      "note": "산학협력중점교수 임원경"
+        "excelRow": 162
+      }
     }
   ],
   "6458101723": [
@@ -3085,10 +3056,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "산업경영공학과 김재곤",
       "source": {
-        "excelRow": 164
-      },
-      "note": "산업경영공학과 김재곤"
+        "excelRow": 163
+      }
     }
   ],
   "4018602073": [
@@ -3100,10 +3071,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "임베디드시스템공학과 전광길",
       "source": {
-        "excelRow": 167
-      },
-      "note": "임베디드시스템공학과 전광길"
+        "excelRow": 166
+      }
     }
   ],
   "7728800234": [
@@ -3115,10 +3086,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "임베디드시스템공학과 전광길",
       "source": {
-        "excelRow": 169
-      },
-      "note": "임베디드시스템공학과 전광길"
+        "excelRow": 168
+      }
     }
   ],
   "2218151779": [
@@ -3130,10 +3101,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "화학과 김진호",
       "source": {
-        "excelRow": 174
-      },
-      "note": "화학과 김진호"
+        "excelRow": 173
+      }
     }
   ],
   "4281201200": [
@@ -3145,10 +3116,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "디자인학부 안혜신",
       "source": {
-        "excelRow": 178
-      },
-      "note": "디자인학부 안혜신"
+        "excelRow": 177
+      }
     }
   ],
   "5618603239": [
@@ -3160,10 +3131,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "디자인학부 안혜신",
       "source": {
-        "excelRow": 179
-      },
-      "note": "디자인학부 안혜신"
+        "excelRow": 178
+      }
     }
   ],
   "4168801352": [
@@ -3175,10 +3146,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "기계공학과 이동길",
       "source": {
-        "excelRow": 181
-      },
-      "note": "기계공학과 이동길"
+        "excelRow": 180
+      }
     }
   ],
   "1018673756": [
@@ -3190,10 +3161,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "산업경영공학과 김병수",
       "source": {
-        "excelRow": 182
-      },
-      "note": "산업경영공학과 김병수"
+        "excelRow": 181
+      }
     }
   ],
   "1398139248": [
@@ -3205,10 +3176,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "경영학부 박현준",
       "source": {
-        "excelRow": 184
-      },
-      "note": "경영학부 박현준"
+        "excelRow": 183
+      }
     }
   ],
   "8272601291": [
@@ -3220,10 +3191,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "임베디드시스템공학과 전광길",
       "source": {
-        "excelRow": 186
-      },
-      "note": "임베디드시스템공학과 전광길"
+        "excelRow": 185
+      }
     }
   ],
   "6188129258": [
@@ -3235,10 +3206,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "디자인학부 안혜신",
       "source": {
-        "excelRow": 189
-      },
-      "note": "디자인학부 안혜신"
+        "excelRow": 188
+      }
     }
   ],
   "2428104142": [
@@ -3250,10 +3221,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "전기공학과 이명훈",
       "source": {
-        "excelRow": 191
-      },
-      "note": "전기공학과 이명훈"
+        "excelRow": 190
+      }
     }
   ],
   "1308115706": [
@@ -3265,10 +3236,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "산학협력중점교수 유순동",
       "source": {
-        "excelRow": 192
-      },
-      "note": "산학협력중점교수 유순동"
+        "excelRow": 191
+      }
     }
   ],
   "2148758927": [
@@ -3280,10 +3251,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "애로 컨설팅 지원현황 엑셀 파일 (담당자: 산학협력팀 서영주)",
+      "note": "산업경영공학과 류도현",
       "source": {
-        "excelRow": 193
-      },
-      "note": "산업경영공학과 류도현"
+        "excelRow": 192
+      }
     }
   ],
   "4698603312": [
@@ -3295,10 +3266,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "박선영 대표, 김성진 본부장(2인)",
       "source": {
-        "excelRow": 200
-      },
-      "note": "박선영 대표, 김성진 본부장(2인)"
+        "excelRow": 199
+      }
     }
   ],
   "1228625149": [
@@ -3310,10 +3281,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "손금석 전무이사, 박세진 이사(2인)",
       "source": {
-        "excelRow": 204
-      },
-      "note": "손금석 전무이사, 박세진 이사(2인)"
+        "excelRow": 203
+      }
     },
     {
       "date": "2026-04-28",
@@ -3323,10 +3294,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "손금석 전무이사, 박세진 이사(2인)",
       "source": {
-        "excelRow": 222
-      },
-      "note": "손금석 전무이사, 박세진 이사(2인)"
+        "excelRow": 221
+      }
     }
   ],
   "1218193071": [
@@ -3338,10 +3309,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "류형준 대표(1인)",
       "source": {
-        "excelRow": 210
-      },
-      "note": "류형준 대표(1인)"
+        "excelRow": 209
+      }
     }
   ],
   "1368118924": [
@@ -3353,10 +3324,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "서영주",
       "evidenceUrl": "산학협력단-5840 제4차 유료 가족회사 간담회 개최 결과보고",
+      "note": "김준태 부사장, 심승찬 이사(2인)",
       "source": {
-        "excelRow": 213
-      },
-      "note": "김준태 부사장, 심승찬 이사(2인)"
+        "excelRow": 212
+      }
     }
   ],
   "1318194548": [
@@ -3368,10 +3339,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "황현지 주임, 김재연 과장(2인)",
       "source": {
-        "excelRow": 221
-      },
-      "note": "황현지 주임, 김재연 과장(2인)"
+        "excelRow": 220
+      }
     },
     {
       "date": "2026-05-26",
@@ -3381,10 +3352,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "황현지 주임, 김재연 과장(2인)",
       "source": {
-        "excelRow": 232
-      },
-      "note": "황현지 주임, 김재연 과장(2인)"
+        "excelRow": 231
+      }
     },
     {
       "date": "2026-06-16",
@@ -3394,10 +3365,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "황현지 주임, 김재연 과장(2인)",
       "source": {
-        "excelRow": 243
-      },
-      "note": "황현지 주임, 김재연 과장(2인)"
+        "excelRow": 242
+      }
     }
   ],
   "1318157878": [
@@ -3409,10 +3380,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "전현수 사원(1인)",
       "source": {
-        "excelRow": 225
-      },
-      "note": "전현수 사원(1인)"
+        "excelRow": 224
+      }
     },
     {
       "date": "2026-05-26",
@@ -3422,10 +3393,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "전현수 사원(1인)",
       "source": {
-        "excelRow": 238
-      },
-      "note": "전현수 사원(1인)"
+        "excelRow": 237
+      }
     },
     {
       "date": "2026-06-16",
@@ -3435,10 +3406,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "전현수 사원(1인)",
       "source": {
-        "excelRow": 249
-      },
-      "note": "전현수 사원(1인)"
+        "excelRow": 248
+      }
     }
   ],
   "1398100379": [
@@ -3450,10 +3421,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "이선구 대리(1인)",
       "source": {
-        "excelRow": 239
-      },
-      "note": "이선구 대리(1인)"
+        "excelRow": 238
+      }
     },
     {
       "date": "2026-06-16",
@@ -3463,10 +3434,10 @@ window.companyActivitiesByBizNo = {
       "dept": "산학협력팀",
       "owner": "윤진영",
       "evidenceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3617887",
+      "note": "이선구 대리(1인)",
       "source": {
-        "excelRow": 248
-      },
-      "note": "이선구 대리(1인)"
+        "excelRow": 247
+      }
     }
   ]
 };
